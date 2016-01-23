@@ -14,12 +14,12 @@
 }
 
 </style>
-<script src="/static/js/jquery-1.10.2.min.js"></script>
-<script src="/static/js/utils.js"></script>
+<script src="/js/jquery-1.10.2.min.js"></script>
+<script src="/js/utils.js"></script>
 </head>
 <body>
 
-<script src="/static/js/d3.v3.js"></script>
+<script src="/js/d3.v3.js"></script>
 
 <div style="position:absolute;left-margin:10px;"><table id="legend" border="1"></table></div>
 <center><div id="graph"></div></center>
@@ -85,7 +85,7 @@ var linkDistanceRatio = (width > height? height : width) / (2 + 1);
 
 var link, node, graph_backup;
 
-d3.json("/static/data/dists_graph_" + getQS("entry") + ".json", function(error, graph) {
+d3.json("/data/dists_graph_" + getQS("entry") + ".json", function(error, graph) {
   if (error) throw error;
 
   for (var l in graph['links']){

@@ -28,8 +28,8 @@ body {
   pointer-events: none;
 }*/
 </style>
-<script src="/static/js/jquery-1.10.2.min.js"></script>
-<script src="/static/js/utils.js"></script>
+<script src="/js/jquery-1.10.2.min.js"></script>
+<script src="/js/utils.js"></script>
 </head>
 
 <body>
@@ -37,7 +37,7 @@ body {
 <div id="graph"></div>
 <div id="entry_text" style="font-size:15px"></div>
 
-<script src="/static/js/d3.v3.js"></script>
+<script src="/js/d3.v3.js"></script>
 
 <script>
 var margin = {top: 20, right: 20, bottom: 30, left: 40},
@@ -136,7 +136,7 @@ function replaceOverText(){
 }
 
 // load data
-d3.csv("/static/data/week_" + getQS("entry") + ".csv", function(error, data) {
+d3.csv("/data/week_" + getQS("entry") + ".csv", function(error, data) {
 
   // change string (from CSV) into number format
   data.forEach(function(d) {
