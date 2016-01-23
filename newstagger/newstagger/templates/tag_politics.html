@@ -1,0 +1,137 @@
+{% extends "layout.html" %}
+{% block title %}{{title}}{% endblock %}
+{% block head %}
+  {{ super() }}
+{% endblock %}
+{% block header_css %}
+<style type="text/css">
+  .container {
+    /*max-width: 1000px;*/
+  }
+
+  .news-box {
+    height: 500px; 
+    overflow-y: auto;
+    visibility: hidden;
+  }
+
+</style>
+{% endblock %}
+
+{% block heading %}
+  {{ super() }}
+{% endblock %}
+{% block content %} 
+  <form action="" method="post">
+
+  {% for n, entry in enumerate(tests) %}
+  <input type="hidden" id="test_result{{n}}" name="t{{n}}" value="0">
+  <div id="test{{n}}" class="row">    
+    <div id="op1" class="news-box col-sm-4 col-md-4 col-lg-4" style="background-color:#fffafa">
+      <div style="display: flex; justify-content: center; height: 100%;">
+        <h3 style="align-self: center;"> Not politics </h3>
+      </div>
+    </div>
+    <div class="news-box col-sm-4 col-md-4 col-lg-4" style="background-color:#cdc9c9">
+      <input type="hidden" name="t{{n}}entry" value="{{entry['feedname']}}|{{entry['index']}}" />
+      <h3> {{entry['title'] | safe}}</h3>
+      {{ entry['content'].replace('\n', '<br /><br />') | safe}}
+    </div>
+    <div id="op2" class="news-box col-sm-4 col-md-4 col-lg-4" style="background-color:#fffafa">
+      <div style="display: flex; justify-content: center; height: 100%;">
+        <h3 style="align-self: center;"> Politics </h3>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+
+  {% block footer %}
+  <script type="text/javascript">
+    var selectedColor = "#cdc9c9";
+    var unselectedColor = "#fffafa";
+
+    var tests = [
+      {% for _ in tests %}[false, false],{% endfor %}
+    ];
+
+    var selectedTest = 0;
+    var betweenChanges = 0;
+
+
+    function toggle(direction){
+      var test = tests[selectedTest];
+      var direction;
+      if (direction == 'left')
+        direction = 0;
+      else
+        direction = 1;
+
+      test[direction] = !test[1-direction];
+      test[1-direction] = false;
+
+      if (!test[0] && !test[1])
+        $("#test_result" + selectedTest.toString()).val(0);
+      else
+        $("#test_result" + selectedTest.toString()).val((direction == 1)? 1: -1);
+
+      $("#test" + selectedTest.toString()).find("#op1").css(
+        "background-color", test[0]? selectedColor: unselectedColor
+      );
+      $("#test" + selectedTest.toString()).find("#op2").css(
+        "background-color", test[1]? selectedColor: unselectedColor
+      );
+    }
+
+
+    function changeTest(direction){
+      if (betweenChanges > 0)
+        return;
+
+      var direction;
+      if (direction == 'up')
+        direction = -1;
+      else 
+        direction = +1;
+
+      if (selectedTest + direction < 0 || selectedTest + direction >= tests.length)
+        return; // don't exceed bounds
+
+      betweenChanges = 2;
+      $('#test' + selectedTest.toString()).find('.news-box').slideUp({'complete': function(){betweenChanges--;}});
+
+      var newTest = $('#test' + (selectedTest+direction).toString()).find('.news-box');
+      newTest.css('visibility', 'visible');
+      newTest.slideDown({'complete': function(){betweenChanges--;}});
+
+      selectedTest += direction;
+    }
+
+    var _ready = false;
+    $('document').ready(
+      function() {
+        if (_ready)
+          return; // already executed
+        else
+          _ready = true;
+
+        $('document').unbind('keyup');
+
+        document.addEventListener(
+          'keyup', 
+          function(event) { 
+            if (event.keyCode == 13) $('form').submit();
+            else if (event.keyCode == 37) toggle('left');
+            else if (event.keyCode == 38) changeTest('up');
+            else if (event.keyCode == 39) toggle('right');
+            else if (event.keyCode == 40) changeTest('down');
+          }
+        );
+
+        $('body').css('position', 'fixed');
+        selectedTest = 1; changeTest('up'); // make the first test appear
+      }
+    );
+    
+  </script>
+  {% endblock %}
+{% endblock %}
