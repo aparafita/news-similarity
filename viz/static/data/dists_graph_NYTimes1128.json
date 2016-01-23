@@ -1,0 +1,1748 @@
+{
+  "links": [
+    {
+      "target": 53,
+      "source": 12,
+      "value": 0.5585521030357207
+    },
+    {
+      "target": 7,
+      "source": 57,
+      "value": 0.4814335990318417
+    },
+    {
+      "target": 55,
+      "source": 53,
+      "value": 0.5720877717179703
+    },
+    {
+      "target": 47,
+      "source": 24,
+      "value": 0.5839254248923436
+    },
+    {
+      "target": 5,
+      "source": 52,
+      "value": 0.5539778472365071
+    },
+    {
+      "target": 47,
+      "source": 55,
+      "value": 0.5789490348935211
+    },
+    {
+      "target": 60,
+      "source": 31,
+      "value": 0.465550041259605
+    },
+    {
+      "target": 53,
+      "source": 17,
+      "value": 0.5402228193959817
+    },
+    {
+      "target": 24,
+      "source": 36,
+      "value": 0.5860180133820234
+    },
+    {
+      "target": 60,
+      "source": 17,
+      "value": 0.55493869162735
+    },
+    {
+      "target": 63,
+      "source": 32,
+      "value": 0.5210637897953835
+    },
+    {
+      "target": 75,
+      "source": 74,
+      "value": 0.5726834370508515
+    },
+    {
+      "target": 54,
+      "source": 32,
+      "value": 0.42176661910598257
+    },
+    {
+      "target": 57,
+      "source": 32,
+      "value": 0.40375140862599673
+    },
+    {
+      "target": 2,
+      "source": 73,
+      "value": 0.5983934751661097
+    },
+    {
+      "target": 63,
+      "source": 55,
+      "value": 0.5429045992661714
+    },
+    {
+      "target": 5,
+      "source": 7,
+      "value": 0.534293259241271
+    },
+    {
+      "target": 24,
+      "source": 17,
+      "value": 0.5763441997296355
+    },
+    {
+      "target": 53,
+      "source": 36,
+      "value": 0.5169364681145331
+    },
+    {
+      "target": 5,
+      "source": 32,
+      "value": 0.4995481953306776
+    },
+    {
+      "target": 2,
+      "source": 12,
+      "value": 0.5424958566589131
+    },
+    {
+      "target": 47,
+      "source": 5,
+      "value": 0.5568627633475207
+    },
+    {
+      "target": 52,
+      "source": 74,
+      "value": 0.5025709344064739
+    },
+    {
+      "target": 63,
+      "source": 37,
+      "value": 0.5700925896968687
+    },
+    {
+      "target": 37,
+      "source": 36,
+      "value": 0.5401927747302238
+    },
+    {
+      "target": 63,
+      "source": 19,
+      "value": 0.5297579618059814
+    },
+    {
+      "target": 2,
+      "source": 38,
+      "value": 0.5871628546600524
+    },
+    {
+      "target": 2,
+      "source": 57,
+      "value": 0.5932550662722869
+    },
+    {
+      "target": 7,
+      "source": 74,
+      "value": 0.49695912853738333
+    },
+    {
+      "target": 5,
+      "source": 63,
+      "value": 0.5310817822423249
+    },
+    {
+      "target": 53,
+      "source": 52,
+      "value": 0.423508902361584
+    },
+    {
+      "target": 47,
+      "source": 74,
+      "value": 0.5318494848415107
+    },
+    {
+      "target": 7,
+      "source": 38,
+      "value": 0.47515991550533465
+    },
+    {
+      "target": 13,
+      "source": 68,
+      "value": 0.5166963603468804
+    },
+    {
+      "target": 31,
+      "source": 38,
+      "value": 0.5560729590906865
+    },
+    {
+      "target": 52,
+      "source": 12,
+      "value": 0.5850839621099249
+    },
+    {
+      "target": 57,
+      "source": 31,
+      "value": 0.508992633985723
+    },
+    {
+      "target": 57,
+      "source": 24,
+      "value": 0.568868805118977
+    },
+    {
+      "target": 54,
+      "source": 53,
+      "value": 0.44074779746043663
+    },
+    {
+      "target": 2,
+      "source": 55,
+      "value": 0.5813740314065285
+    },
+    {
+      "target": 7,
+      "source": 31,
+      "value": 0.5649634598437335
+    },
+    {
+      "target": 73,
+      "source": 38,
+      "value": 0.5931323246043778
+    },
+    {
+      "target": 62,
+      "source": 43,
+      "value": 0.5194295294917086
+    },
+    {
+      "target": 21,
+      "source": 72,
+      "value": 0.5419030562515592
+    },
+    {
+      "target": 12,
+      "source": 38,
+      "value": 0.5888384229967251
+    },
+    {
+      "target": 2,
+      "source": 17,
+      "value": 0.5394866183455804
+    },
+    {
+      "target": 60,
+      "source": 32,
+      "value": 0.402710259591702
+    },
+    {
+      "target": 55,
+      "source": 32,
+      "value": 0.5628472054019767
+    },
+    {
+      "target": 17,
+      "source": 12,
+      "value": 0.5342557504108996
+    },
+    {
+      "target": 57,
+      "source": 55,
+      "value": 0.5710009302378766
+    },
+    {
+      "target": 31,
+      "source": 74,
+      "value": 0.535312097038946
+    },
+    {
+      "target": 24,
+      "source": 19,
+      "value": 0.5748614175167438
+    },
+    {
+      "target": 2,
+      "source": 53,
+      "value": 0.5600703672875631
+    },
+    {
+      "target": 32,
+      "source": 73,
+      "value": 0.553659376384266
+    },
+    {
+      "target": 24,
+      "source": 32,
+      "value": 0.5466697729776371
+    },
+    {
+      "target": 68,
+      "source": 66,
+      "value": 0.42832934335796696
+    },
+    {
+      "target": 55,
+      "source": 74,
+      "value": 0.2263713507971597
+    },
+    {
+      "target": 57,
+      "source": 19,
+      "value": 0.46016881764028655
+    },
+    {
+      "target": 47,
+      "source": 57,
+      "value": 0.461873346741903
+    },
+    {
+      "target": 5,
+      "source": 60,
+      "value": 0.5164248478471418
+    },
+    {
+      "target": 60,
+      "source": 74,
+      "value": 0.48845944153647275
+    },
+    {
+      "target": 12,
+      "source": 75,
+      "value": 0.5664834610516202
+    },
+    {
+      "target": 74,
+      "source": 73,
+      "value": 0.3778823629575409
+    },
+    {
+      "target": 63,
+      "source": 52,
+      "value": 0.5281519294840946
+    },
+    {
+      "target": 2,
+      "source": 74,
+      "value": 0.5560010658875464
+    },
+    {
+      "target": 47,
+      "source": 63,
+      "value": 0.4508471026468872
+    },
+    {
+      "target": 54,
+      "source": 52,
+      "value": 0.4822482065586637
+    },
+    {
+      "target": 30,
+      "source": 34,
+      "value": 0.5585872602768828
+    },
+    {
+      "target": 52,
+      "source": 38,
+      "value": 0.4789835314413166
+    },
+    {
+      "target": 31,
+      "source": 12,
+      "value": 0.4873414707162417
+    },
+    {
+      "target": 32,
+      "source": 38,
+      "value": 0.46206085113626716
+    },
+    {
+      "target": 60,
+      "source": 53,
+      "value": 0.06195065882236105
+    },
+    {
+      "target": 73,
+      "source": 68,
+      "value": 0.5704297166677297
+    },
+    {
+      "target": 38,
+      "source": 37,
+      "value": 0.5178129224081891
+    },
+    {
+      "target": 24,
+      "source": 38,
+      "value": 0.5998786012417043
+    },
+    {
+      "target": 47,
+      "source": 36,
+      "value": 0.5131138957987824
+    },
+    {
+      "target": 60,
+      "source": 12,
+      "value": 0.5509818298054228
+    },
+    {
+      "target": 41,
+      "source": 34,
+      "value": 0.5578654956452331
+    },
+    {
+      "target": 74,
+      "source": 38,
+      "value": 0.4657853158208646
+    },
+    {
+      "target": 32,
+      "source": 31,
+      "value": 0.47569189531512646
+    },
+    {
+      "target": 2,
+      "source": 67,
+      "value": 0.580352096445036
+    },
+    {
+      "target": 47,
+      "source": 31,
+      "value": 0.5989380743412889
+    },
+    {
+      "target": 7,
+      "source": 17,
+      "value": 0.5074812831803182
+    },
+    {
+      "target": 19,
+      "source": 31,
+      "value": 0.43971267616618764
+    },
+    {
+      "target": 52,
+      "source": 32,
+      "value": 0.43281930675535585
+    },
+    {
+      "target": 16,
+      "source": 12,
+      "value": 0.5832805201098532
+    },
+    {
+      "target": 47,
+      "source": 19,
+      "value": 0.5339807326369115
+    },
+    {
+      "target": 5,
+      "source": 73,
+      "value": 0.5588899364071983
+    },
+    {
+      "target": 19,
+      "source": 17,
+      "value": 0.5218017324408122
+    },
+    {
+      "target": 2,
+      "source": 19,
+      "value": 0.558719561212575
+    },
+    {
+      "target": 2,
+      "source": 51,
+      "value": 0.4760357387742393
+    },
+    {
+      "target": 24,
+      "source": 74,
+      "value": 0.5485220432274227
+    },
+    {
+      "target": 17,
+      "source": 73,
+      "value": 0.5415310661832906
+    },
+    {
+      "target": 73,
+      "source": 69,
+      "value": 0.5427747342928184
+    },
+    {
+      "target": 54,
+      "source": 74,
+      "value": 0.4543713065796982
+    },
+    {
+      "target": 12,
+      "source": 73,
+      "value": 0.582070042315807
+    },
+    {
+      "target": 5,
+      "source": 38,
+      "value": 0.537585917803455
+    },
+    {
+      "target": 63,
+      "source": 74,
+      "value": 0.5019154757697215
+    },
+    {
+      "target": 2,
+      "source": 63,
+      "value": 0.5741998397908442
+    },
+    {
+      "target": 73,
+      "source": 67,
+      "value": 0.5871377425618811
+    },
+    {
+      "target": 63,
+      "source": 60,
+      "value": 0.5305185525982572
+    },
+    {
+      "target": 55,
+      "source": 52,
+      "value": 0.5586753250715875
+    },
+    {
+      "target": 74,
+      "source": 36,
+      "value": 0.5302607167298802
+    },
+    {
+      "target": 19,
+      "source": 75,
+      "value": 0.5386844847471848
+    },
+    {
+      "target": 2,
+      "source": 32,
+      "value": 0.5681799862261575
+    },
+    {
+      "target": 53,
+      "source": 38,
+      "value": 0.46599096871033363
+    },
+    {
+      "target": 60,
+      "source": 38,
+      "value": 0.48143979272579923
+    },
+    {
+      "target": 63,
+      "source": 57,
+      "value": 0.5501582878288815
+    },
+    {
+      "target": 5,
+      "source": 36,
+      "value": 0.5564404354459446
+    },
+    {
+      "target": 24,
+      "source": 67,
+      "value": 0.5958955465789973
+    },
+    {
+      "target": 55,
+      "source": 24,
+      "value": 0.5678233930493697
+    },
+    {
+      "target": 5,
+      "source": 24,
+      "value": 0.5370159949282525
+    },
+    {
+      "target": 47,
+      "source": 52,
+      "value": 0.494652772030708
+    },
+    {
+      "target": 11,
+      "source": 34,
+      "value": 0.5771071394812999
+    },
+    {
+      "target": 47,
+      "source": 17,
+      "value": 0.5894189980352258
+    },
+    {
+      "target": 19,
+      "source": 36,
+      "value": 0.5406240760348198
+    },
+    {
+      "target": 5,
+      "source": 18,
+      "value": 0.5180272383126028
+    },
+    {
+      "target": 63,
+      "source": 73,
+      "value": 0.5887225046648068
+    },
+    {
+      "target": 7,
+      "source": 32,
+      "value": 0.487953649542133
+    },
+    {
+      "target": 57,
+      "source": 54,
+      "value": 0.4754895839267835
+    },
+    {
+      "target": 12,
+      "source": 74,
+      "value": 0.552552968734738
+    },
+    {
+      "target": 32,
+      "source": 17,
+      "value": 0.5201940314559432
+    },
+    {
+      "target": 54,
+      "source": 73,
+      "value": 0.5666931246763061
+    },
+    {
+      "target": 53,
+      "source": 32,
+      "value": 0.3883868360245578
+    },
+    {
+      "target": 48,
+      "source": 8,
+      "value": 0.5822142184969165
+    },
+    {
+      "target": 24,
+      "source": 73,
+      "value": 0.5608576713643381
+    },
+    {
+      "target": 19,
+      "source": 32,
+      "value": 0.400677769556407
+    },
+    {
+      "target": 57,
+      "source": 36,
+      "value": 0.5285443939934333
+    },
+    {
+      "target": 47,
+      "source": 53,
+      "value": 0.4467917363318198
+    },
+    {
+      "target": 27,
+      "source": 11,
+      "value": 0.4198642123594891
+    },
+    {
+      "target": 52,
+      "source": 19,
+      "value": 0.4409938480264726
+    },
+    {
+      "target": 57,
+      "source": 74,
+      "value": 0.4904742116861675
+    },
+    {
+      "target": 2,
+      "source": 54,
+      "value": 0.5613625444271151
+    },
+    {
+      "target": 17,
+      "source": 36,
+      "value": 0.5827897262742536
+    },
+    {
+      "target": 7,
+      "source": 19,
+      "value": 0.5149491590075244
+    },
+    {
+      "target": 54,
+      "source": 38,
+      "value": 0.47895882124872663
+    },
+    {
+      "target": 45,
+      "source": 10,
+      "value": 0.4294830060750225
+    },
+    {
+      "target": 7,
+      "source": 53,
+      "value": 0.4614659850427937
+    },
+    {
+      "target": 57,
+      "source": 12,
+      "value": 0.5956758619428605
+    },
+    {
+      "target": 2,
+      "source": 52,
+      "value": 0.5840354045185923
+    },
+    {
+      "target": 54,
+      "source": 31,
+      "value": 0.5157870103248894
+    },
+    {
+      "target": 54,
+      "source": 24,
+      "value": 0.5582667515464985
+    },
+    {
+      "target": 7,
+      "source": 12,
+      "value": 0.5811333264558032
+    },
+    {
+      "target": 63,
+      "source": 31,
+      "value": 0.5979113624665016
+    },
+    {
+      "target": 54,
+      "source": 17,
+      "value": 0.5212748977644877
+    },
+    {
+      "target": 57,
+      "source": 17,
+      "value": 0.5510674731392453
+    },
+    {
+      "target": 5,
+      "source": 17,
+      "value": 0.527455727198296
+    },
+    {
+      "target": 63,
+      "source": 54,
+      "value": 0.5276795698178576
+    },
+    {
+      "target": 60,
+      "source": 73,
+      "value": 0.5867737955554246
+    },
+    {
+      "target": 55,
+      "source": 73,
+      "value": 0.4197813916316401
+    },
+    {
+      "target": 63,
+      "source": 36,
+      "value": 0.5297212539533613
+    },
+    {
+      "target": 2,
+      "source": 7,
+      "value": 0.5847613081035583
+    },
+    {
+      "target": 32,
+      "source": 74,
+      "value": 0.43191318743665413
+    },
+    {
+      "target": 54,
+      "source": 36,
+      "value": 0.5281622286404614
+    },
+    {
+      "target": 47,
+      "source": 54,
+      "value": 0.5051007490347346
+    },
+    {
+      "target": 53,
+      "source": 19,
+      "value": 0.43738122050173245
+    },
+    {
+      "target": 38,
+      "source": 36,
+      "value": 0.4717954574896327
+    },
+    {
+      "target": 60,
+      "source": 19,
+      "value": 0.43510294474033945
+    },
+    {
+      "target": 5,
+      "source": 57,
+      "value": 0.5549980190141215
+    },
+    {
+      "target": 47,
+      "source": 60,
+      "value": 0.4585513841324603
+    },
+    {
+      "target": 7,
+      "source": 52,
+      "value": 0.475999070023576
+    },
+    {
+      "target": 24,
+      "source": 37,
+      "value": 0.5887075483024147
+    },
+    {
+      "target": 57,
+      "source": 52,
+      "value": 0.4135510040504219
+    },
+    {
+      "target": 73,
+      "source": 37,
+      "value": 0.45517855597041085
+    },
+    {
+      "target": 47,
+      "source": 32,
+      "value": 0.48544802991656394
+    },
+    {
+      "target": 55,
+      "source": 38,
+      "value": 0.5452105130457494
+    },
+    {
+      "target": 60,
+      "source": 75,
+      "value": 0.5998390969178203
+    },
+    {
+      "target": 60,
+      "source": 24,
+      "value": 0.5738986754837136
+    },
+    {
+      "target": 19,
+      "source": 38,
+      "value": 0.4895135655483899
+    },
+    {
+      "target": 51,
+      "source": 67,
+      "value": 0.5946619431977498
+    },
+    {
+      "target": 53,
+      "source": 31,
+      "value": 0.49916139624037975
+    },
+    {
+      "target": 53,
+      "source": 24,
+      "value": 0.5627273609552048
+    },
+    {
+      "target": 69,
+      "source": 37,
+      "value": 0.5975903354842974
+    },
+    {
+      "target": 17,
+      "source": 38,
+      "value": 0.5445279843527784
+    },
+    {
+      "target": 55,
+      "source": 17,
+      "value": 0.564001607736119
+    },
+    {
+      "target": 5,
+      "source": 19,
+      "value": 0.5143436503355217
+    },
+    {
+      "target": 7,
+      "source": 73,
+      "value": 0.5820442004581762
+    },
+    {
+      "target": 60,
+      "source": 54,
+      "value": 0.4344357754898566
+    },
+    {
+      "target": 5,
+      "source": 31,
+      "value": 0.5711079310356599
+    },
+    {
+      "target": 32,
+      "source": 36,
+      "value": 0.5297052920720307
+    },
+    {
+      "target": 13,
+      "source": 66,
+      "value": 0.5261856414748947
+    },
+    {
+      "target": 55,
+      "source": 54,
+      "value": 0.5725777166808701
+    },
+    {
+      "target": 60,
+      "source": 36,
+      "value": 0.514391782655954
+    },
+    {
+      "target": 7,
+      "source": 55,
+      "value": 0.540853218184616
+    },
+    {
+      "target": 55,
+      "source": 36,
+      "value": 0.5659368041063175
+    },
+    {
+      "target": 32,
+      "source": 12,
+      "value": 0.5446525664108399
+    },
+    {
+      "target": 29,
+      "source": 11,
+      "value": 0.521081333924359
+    },
+    {
+      "target": 5,
+      "source": 54,
+      "value": 0.5187238747563033
+    },
+    {
+      "target": 62,
+      "source": 18,
+      "value": 0.5356629785790892
+    },
+    {
+      "target": 54,
+      "source": 19,
+      "value": 0.4441034964891909
+    },
+    {
+      "target": 2,
+      "source": 60,
+      "value": 0.5781857059228132
+    },
+    {
+      "target": 17,
+      "source": 75,
+      "value": 0.5610350845981775
+    },
+    {
+      "target": 30,
+      "source": 29,
+      "value": 0.5740248789525632
+    },
+    {
+      "target": 75,
+      "source": 73,
+      "value": 0.553449555554821
+    },
+    {
+      "target": 47,
+      "source": 38,
+      "value": 0.49788599637403597
+    },
+    {
+      "target": 60,
+      "source": 52,
+      "value": 0.4150646487797585
+    },
+    {
+      "target": 31,
+      "source": 75,
+      "value": 0.5966363253527889
+    },
+    {
+      "target": 68,
+      "source": 67,
+      "value": 0.5747454865479782
+    },
+    {
+      "target": 27,
+      "source": 34,
+      "value": 0.5341751067399486
+    },
+    {
+      "target": 7,
+      "source": 60,
+      "value": 0.46595442700961087
+    },
+    {
+      "target": 57,
+      "source": 38,
+      "value": 0.48817527001593425
+    },
+    {
+      "target": 5,
+      "source": 75,
+      "value": 0.4766775347449382
+    },
+    {
+      "target": 54,
+      "source": 75,
+      "value": 0.5848980678550523
+    },
+    {
+      "target": 5,
+      "source": 12,
+      "value": 0.4923306949918477
+    },
+    {
+      "target": 63,
+      "source": 38,
+      "value": 0.5007673899016996
+    },
+    {
+      "target": 7,
+      "source": 24,
+      "value": 0.5838273943645245
+    },
+    {
+      "target": 63,
+      "source": 53,
+      "value": 0.5129293328635591
+    },
+    {
+      "target": 54,
+      "source": 12,
+      "value": 0.5304473963413918
+    },
+    {
+      "target": 29,
+      "source": 27,
+      "value": 0.515512668672267
+    },
+    {
+      "target": 63,
+      "source": 12,
+      "value": 0.5899624822991982
+    },
+    {
+      "target": 60,
+      "source": 57,
+      "value": 0.09501837952806187
+    },
+    {
+      "target": 30,
+      "source": 27,
+      "value": 0.35670146824345406
+    },
+    {
+      "target": 52,
+      "source": 31,
+      "value": 0.49751094791726685
+    },
+    {
+      "target": 57,
+      "source": 53,
+      "value": 0.08243474480815123
+    },
+    {
+      "target": 2,
+      "source": 24,
+      "value": 0.581663299142229
+    },
+    {
+      "target": 5,
+      "source": 55,
+      "value": 0.5232046352661188
+    },
+    {
+      "target": 52,
+      "source": 17,
+      "value": 0.5545923730730523
+    },
+    {
+      "target": 7,
+      "source": 54,
+      "value": 0.5061787666599963
+    },
+    {
+      "target": 63,
+      "source": 17,
+      "value": 0.5504153255926569
+    },
+    {
+      "target": 7,
+      "source": 36,
+      "value": 0.5215023915598802
+    },
+    {
+      "target": 31,
+      "source": 17,
+      "value": 0.5637099662864962
+    },
+    {
+      "target": 53,
+      "source": 73,
+      "value": 0.5834237374128748
+    },
+    {
+      "target": 73,
+      "source": 66,
+      "value": 0.5572827617759217
+    },
+    {
+      "target": 60,
+      "source": 55,
+      "value": 0.5678286910638712
+    },
+    {
+      "target": 47,
+      "source": 7,
+      "value": 0.4396468572985447
+    },
+    {
+      "target": 19,
+      "source": 73,
+      "value": 0.5724188609363985
+    },
+    {
+      "target": 19,
+      "source": 74,
+      "value": 0.4681610308807855
+    },
+    {
+      "target": 52,
+      "source": 36,
+      "value": 0.5420557005269595
+    },
+    {
+      "target": 7,
+      "source": 63,
+      "value": 0.49762413689032015
+    },
+    {
+      "target": 5,
+      "source": 53,
+      "value": 0.5153969475185197
+    },
+    {
+      "target": 5,
+      "source": 2,
+      "value": 0.524159695287708
+    },
+    {
+      "target": 53,
+      "source": 74,
+      "value": 0.46945196723058535
+    },
+    {
+      "target": 30,
+      "source": 11,
+      "value": 0.4539032322429831
+    },
+    {
+      "target": 60,
+      "source": 37,
+      "value": 0.5938824230495461
+    },
+    {
+      "target": 55,
+      "source": 19,
+      "value": 0.5853425190596249
+    },
+    {
+      "target": 18,
+      "source": 75,
+      "value": 0.5344007187168954
+    },
+    {
+      "target": 32,
+      "source": 75,
+      "value": 0.5819431676103826
+    },
+    {
+      "target": 5,
+      "source": 74,
+      "value": 0.5019239484048067
+    },
+    {
+      "target": 24,
+      "source": 75,
+      "value": 0.5585369581255262
+    },
+    {
+      "target": 17,
+      "source": 74,
+      "value": 0.5012978457841213
+    },
+    {
+      "target": 55,
+      "source": 75,
+      "value": 0.5892394645607938
+    },
+    {
+      "target": 19,
+      "source": 12,
+      "value": 0.5279197563556658
+    }
+  ],
+  "nodes": [
+    {
+      "closeness": 0.0,
+      "feedname": 0,
+      "title": "Carlson: But In The Non-Trump Debate Some Real Winners",
+      "index": 3134,
+      "name": "BostonHerald|3134"
+    },
+    {
+      "closeness": 0.0,
+      "feedname": 0,
+      "title": "State: July Tax Collections Beat Benchmarks",
+      "index": 3151,
+      "name": "BostonHerald|3151"
+    },
+    {
+      "closeness": 0.7112173783742642,
+      "feedname": 0,
+      "title": "Gop Steels Itself For Uncertainty In White House Race",
+      "index": 3157,
+      "name": "BostonHerald|3157"
+    },
+    {
+      "closeness": 0.0,
+      "feedname": 0,
+      "title": "Can George P. Make Jeb The 3Rd Bush To Win The White House?",
+      "index": 3164,
+      "name": "BostonHerald|3164"
+    },
+    {
+      "closeness": 0.0,
+      "feedname": 0,
+      "title": "2016 Ballot Proposal Would Allow More Charter Schools",
+      "index": 3165,
+      "name": "BostonHerald|3165"
+    },
+    {
+      "closeness": 0.8926248287524744,
+      "feedname": 0,
+      "title": "Donald Trump\u2019S Attacks On Megyn Kelly Garner Pushback From Republicans",
+      "index": 3180,
+      "name": "BostonHerald|3180"
+    },
+    {
+      "closeness": 0.0,
+      "feedname": 1,
+      "title": "Islamic State'S Influence Stretching Thousands Of Miles To Indonesia",
+      "index": 1086,
+      "name": "ChicagoTribune|1086"
+    },
+    {
+      "closeness": 0.8338264207757207,
+      "feedname": 1,
+      "title": "Donald Trump Barred From Conservative Gathering After Latest Barb Over Comments",
+      "index": 1090,
+      "name": "ChicagoTribune|1090"
+    },
+    {
+      "closeness": 0.0359289864924745,
+      "feedname": 2,
+      "title": "Obama Heads To Martha'S Vineyard For Two-Week Vacation",
+      "index": 3035,
+      "name": "DailyNews|3035"
+    },
+    {
+      "closeness": 0.0,
+      "feedname": 2,
+      "title": "Iraqis Demand Prime Minister Dissolves Parliament",
+      "index": 3036,
+      "name": "DailyNews|3036"
+    },
+    {
+      "closeness": 0.04906365481063262,
+      "feedname": 2,
+      "title": "Virginia Jury Convicts Russian Veteran In Taliban Attack",
+      "index": 3047,
+      "name": "DailyNews|3047"
+    },
+    {
+      "closeness": 0.17440892355378282,
+      "feedname": 2,
+      "title": "White House Rips Schumer For Opposing Iran Nuclear Deal",
+      "index": 3051,
+      "name": "DailyNews|3051"
+    },
+    {
+      "closeness": 0.6884996515617837,
+      "feedname": 2,
+      "title": "Donald Trump Makes Bloody Remark Against Megyn Kelly",
+      "index": 3052,
+      "name": "DailyNews|3052"
+    },
+    {
+      "closeness": 0.08231079455248497,
+      "feedname": 2,
+      "title": "Gopers Diss Clinton, Throw Red Meat At Redstate Gathering",
+      "index": 3054,
+      "name": "DailyNews|3054"
+    },
+    {
+      "closeness": 0.0,
+      "feedname": 2,
+      "title": "Cuomo'S Campaign Hosting 'Hamilton' Performance",
+      "index": 3059,
+      "name": "DailyNews|3059"
+    },
+    {
+      "closeness": 0.0,
+      "feedname": 2,
+      "title": "12 Dead As Mali Hotel Siege Ends, 4 Hostages Freed",
+      "index": 3078,
+      "name": "DailyNews|3078"
+    },
+    {
+      "closeness": 0.035837286061429975,
+      "feedname": 2,
+      "title": "Man Who Cut Trump From Conference Made Off-Color Comments",
+      "index": 3103,
+      "name": "DailyNews|3103"
+    },
+    {
+      "closeness": 0.821471978564882,
+      "feedname": 2,
+      "title": "Jeb Bush Demands Donald Trump Apologize For Megyn Kelly Rant",
+      "index": 3106,
+      "name": "DailyNews|3106"
+    },
+    {
+      "closeness": 0.1214221832074172,
+      "feedname": 2,
+      "title": "Donald Trump And His Top Advisor Part Ways",
+      "index": 3107,
+      "name": "DailyNews|3107"
+    },
+    {
+      "closeness": 0.9004723369046925,
+      "feedname": 3,
+      "title": "Will Megyn Kelly'S Question About Women Derail Donald Trump'S Candidacy?",
+      "index": 4040,
+      "name": "LATimes|4040"
+    },
+    {
+      "closeness": 0.0,
+      "feedname": 3,
+      "title": "The Emerging Movers And Shakers In Presidential Race: Social Media",
+      "index": 4045,
+      "name": "LATimes|4045"
+    },
+    {
+      "closeness": 0.03939568944870878,
+      "feedname": 3,
+      "title": "Is Obama'S Strategy Against Islamic State Working?",
+      "index": 4053,
+      "name": "LATimes|4053"
+    },
+    {
+      "closeness": 0.0,
+      "feedname": 3,
+      "title": "16 Months Until Election Day, Readers Have Already Had Enough",
+      "index": 4056,
+      "name": "LATimes|4056"
+    },
+    {
+      "closeness": 0.0,
+      "feedname": 3,
+      "title": "Questions About Malaysian Prime Minister Don'T Stop At Flight 370",
+      "index": 4081,
+      "name": "LATimes|4081"
+    },
+    {
+      "closeness": 0.7005179196368228,
+      "feedname": 3,
+      "title": "Carly Fiorina Jumps On Gender Controversies In Republican Presidential Field",
+      "index": 4091,
+      "name": "LATimes|4091"
+    },
+    {
+      "closeness": 0.0,
+      "feedname": 3,
+      "title": "Rory Mcilroy In Marquee Group If He Plays In Pga Championship",
+      "index": 4093,
+      "name": "LATimes|4093"
+    },
+    {
+      "closeness": 0.0,
+      "feedname": 4,
+      "title": "How Cuomo\u2019S Minimum-Wage Hike Can Help The Gop",
+      "index": 3186,
+      "name": "NYPost|3186"
+    },
+    {
+      "closeness": 0.1869391292731633,
+      "feedname": 4,
+      "title": "Schumer\u2019S Next Challenge In The Fight To Kill Obama\u2019S Iran Deal",
+      "index": 3187,
+      "name": "NYPost|3187"
+    },
+    {
+      "closeness": 0.0,
+      "feedname": 4,
+      "title": "Biden\u2019S White House Drop-In Sparks Buzz Of A Presidential Run",
+      "index": 3193,
+      "name": "NYPost|3193"
+    },
+    {
+      "closeness": 0.11948481170929909,
+      "feedname": 4,
+      "title": "Schumer Ducks Appearance After Announcing Iran Deal Opposition",
+      "index": 3208,
+      "name": "NYPost|3208"
+    },
+    {
+      "closeness": 0.17688044365208164,
+      "feedname": 4,
+      "title": "Schumer Follows His Conscience With Costly \u2018Nay\u2019 Vote On Iran Deal",
+      "index": 3210,
+      "name": "NYPost|3210"
+    },
+    {
+      "closeness": 0.6471909381090395,
+      "feedname": 4,
+      "title": "Trump: Megyn Kelly Had \u2018Blood Coming Out Of Her Wherever\u2019",
+      "index": 3218,
+      "name": "NYPost|3218"
+    },
+    {
+      "closeness": 0.9269234453230973,
+      "feedname": 4,
+      "title": "Trump Uninvited To Gop Gathering After Megyn Kelly Comments",
+      "index": 3232,
+      "name": "NYPost|3232"
+    },
+    {
+      "closeness": 0.0,
+      "feedname": 4,
+      "title": "Gitmo Terrorists Become Mama\u2019S Boys In Bid To Be Sprung",
+      "index": 3240,
+      "name": "NYPost|3240"
+    },
+    {
+      "closeness": 0.15241228397000017,
+      "feedname": 5,
+      "title": "Fears Of Lasting Rift As Obama Battles Pro-Israel Group On Iran",
+      "index": 1111,
+      "name": "NYTimes|1111"
+    },
+    {
+      "closeness": 0.0,
+      "feedname": 5,
+      "title": "Judge Rules New York Teacher Exam Did Not Discriminate Against Minorities",
+      "index": 1120,
+      "name": "NYTimes|1120"
+    },
+    {
+      "closeness": 0.6795443660639156,
+      "feedname": 5,
+      "title": "First Draft: Conservative Forum Rescinds Donald Trump\u2019S Invitation Over Remark About Megyn Kelly",
+      "index": 1123,
+      "name": "NYTimes|1123"
+    },
+    {
+      "closeness": 0.2697382503017281,
+      "feedname": 5,
+      "title": "The Electorate: Fear That Debate Could Hurt G.O.P. In Women\u2019S Eyes",
+      "index": 1126,
+      "name": "NYTimes|1126"
+    },
+    {
+      "closeness": 0.8748860294496063,
+      "feedname": 5,
+      "title": "Hand-Wringing In G.O.P. After Donald Trump\u2019S Remarks On Megyn Kelly",
+      "index": 1128,
+      "name": "NYTimes|1128"
+    },
+    {
+      "closeness": 0.0,
+      "feedname": 5,
+      "title": "In Handling Barrage Of Attacks, Afghan Forces Show Training Is Paying Off",
+      "index": 1133,
+      "name": "NYTimes|1133"
+    },
+    {
+      "closeness": 0.0,
+      "feedname": 5,
+      "title": "Hillary Clinton Emails Take Long Path To Controversy",
+      "index": 1134,
+      "name": "NYTimes|1134"
+    },
+    {
+      "closeness": 0.03802294223050787,
+      "feedname": 5,
+      "title": "29 U.S. Scientists Praise Iran Nuclear Deal In Letter To Obama",
+      "index": 1135,
+      "name": "NYTimes|1135"
+    },
+    {
+      "closeness": 0.0,
+      "feedname": 5,
+      "title": "Pain Of Puerto Rico\u2019S Debt Crisis Is Weighing On The Little Guy, Too",
+      "index": 1136,
+      "name": "NYTimes|1136"
+    },
+    {
+      "closeness": 0.041328380974226815,
+      "feedname": 5,
+      "title": "First Draft: Did Roger Stone Jump, Or Was He Pushed From Donald Trump\u2019S Campaign?",
+      "index": 1139,
+      "name": "NYTimes|1139"
+    },
+    {
+      "closeness": 0.0,
+      "feedname": 5,
+      "title": "Final Hearing For Reporter Held In Iran Is Scheduled For Monday",
+      "index": 1142,
+      "name": "NYTimes|1142"
+    },
+    {
+      "closeness": 0.04906365481063262,
+      "feedname": 6,
+      "title": "The Latest: Jury Convicts Russian Veteran In Taliban Attack",
+      "index": 3399,
+      "name": "StLouisPost|3399"
+    },
+    {
+      "closeness": 0.0,
+      "feedname": 6,
+      "title": "As Cyberattacks Mount, Pentagon Looks For Ways To Retaliate",
+      "index": 3412,
+      "name": "StLouisPost|3412"
+    },
+    {
+      "closeness": 0.7113943748369234,
+      "feedname": 6,
+      "title": "Trump Barred From Conservative Gathering After Latest Barb",
+      "index": 3427,
+      "name": "StLouisPost|3427"
+    },
+    {
+      "closeness": 0.0359289864924745,
+      "feedname": 6,
+      "title": "Obama Tees Off On 1St Full Day Of Martha'S Vineyard Vacation",
+      "index": 3449,
+      "name": "StLouisPost|3449"
+    },
+    {
+      "closeness": 0.0,
+      "feedname": 6,
+      "title": "Beretta'S Fight To Arm The Military",
+      "index": 3456,
+      "name": "StLouisPost|3456"
+    },
+    {
+      "closeness": 0.0,
+      "feedname": 6,
+      "title": "Black Lives Matter Activists Disrupt Bernie Sanders Speech",
+      "index": 3463,
+      "name": "StLouisPost|3463"
+    },
+    {
+      "closeness": 0.0799186853887875,
+      "feedname": 7,
+      "title": "Trump On Megyn Kelly: She Had \"Blood Coming Out Of Her Wherever\"",
+      "index": 1682,
+      "name": "USAToday|1682"
+    },
+    {
+      "closeness": 0.7770423130312929,
+      "feedname": 7,
+      "title": "In Sparring With Rand Paul, Christie Shows He Can Fight",
+      "index": 1683,
+      "name": "USAToday|1683"
+    },
+    {
+      "closeness": 0.9374173432263331,
+      "feedname": 7,
+      "title": "Trump Disinvited From Event After Megyn Kelly 'Blood' Comment",
+      "index": 1688,
+      "name": "USAToday|1688"
+    },
+    {
+      "closeness": 0.8918677463326254,
+      "feedname": 7,
+      "title": "Trump Dumped From Red State Event Over Kelly 'Blood' Comment",
+      "index": 1690,
+      "name": "USAToday|1690"
+    },
+    {
+      "closeness": 0.7536907309227856,
+      "feedname": 7,
+      "title": "Gop Hopefuls Scramble To Make The Next Big Stage",
+      "index": 1694,
+      "name": "USAToday|1694"
+    },
+    {
+      "closeness": 0.0,
+      "feedname": 7,
+      "title": "Huckabee: I'M Angry Too",
+      "index": 1697,
+      "name": "USAToday|1697"
+    },
+    {
+      "closeness": 0.870741545903867,
+      "feedname": 7,
+      "title": "More Trump Fireworks, Gop Debate Fallout Expected On Sunday Shows",
+      "index": 1701,
+      "name": "USAToday|1701"
+    },
+    {
+      "closeness": 0.0,
+      "feedname": 7,
+      "title": "Trump Fires Back In Kelly/Red State Flap",
+      "index": 1703,
+      "name": "USAToday|1703"
+    },
+    {
+      "closeness": 0.0,
+      "feedname": 7,
+      "title": "Anger, Protests As Russia Destroys Tons Of Banned Food",
+      "index": 1704,
+      "name": "USAToday|1704"
+    },
+    {
+      "closeness": 1.0,
+      "feedname": 7,
+      "title": "Trump'S Comment About Megyn Kelly Roils Gop Race",
+      "index": 1705,
+      "name": "USAToday|1705"
+    },
+    {
+      "closeness": 0.0,
+      "feedname": 7,
+      "title": "College Board Changes Ap Us History Curriculum Again",
+      "index": 1706,
+      "name": "USAToday|1706"
+    },
+    {
+      "closeness": 0.08126070827978069,
+      "feedname": 7,
+      "title": "Trump Says He Fired Top Adviser",
+      "index": 1708,
+      "name": "USAToday|1708"
+    },
+    {
+      "closeness": 0.7975143147161072,
+      "feedname": 7,
+      "title": "Rubio Declines To Criticize Trump",
+      "index": 1710,
+      "name": "USAToday|1710"
+    },
+    {
+      "closeness": 0.0,
+      "feedname": 7,
+      "title": "Wisconsin'S Walker: I Can Win In A Blue State",
+      "index": 1711,
+      "name": "USAToday|1711"
+    },
+    {
+      "closeness": 0.0,
+      "feedname": 8,
+      "title": "Australia Targets More Foreign Homeowners",
+      "index": 453,
+      "name": "WallStreetJournal|453"
+    },
+    {
+      "closeness": 0.12798328958873031,
+      "feedname": 9,
+      "title": "As Campaign Heats Up, Republican Candidates Are Rushing To The Right",
+      "index": 1253,
+      "name": "WashingtonPost|1253"
+    },
+    {
+      "closeness": 0.1777768950103619,
+      "feedname": 9,
+      "title": "After Months Of Obscurity, Carly Fiorina Emerges As A Gop Contender",
+      "index": 1254,
+      "name": "WashingtonPost|1254"
+    },
+    {
+      "closeness": 0.16424002169658564,
+      "feedname": 9,
+      "title": "Conservative Activists Energized For 2016 Gop Field, But No Favorite Yet",
+      "index": 1255,
+      "name": "WashingtonPost|1255"
+    },
+    {
+      "closeness": 0.07392738854184608,
+      "feedname": 9,
+      "title": "White House Was &#8216;Grateful&#8217; To Jeb Bush For Helping With Common Core, Says Former Obama Aide",
+      "index": 1257,
+      "name": "WashingtonPost|1257"
+    },
+    {
+      "closeness": 0.0,
+      "feedname": 9,
+      "title": "Teachers Pose Some Pointed Questions For Next Gop Debate",
+      "index": 1259,
+      "name": "WashingtonPost|1259"
+    },
+    {
+      "closeness": 0.0,
+      "feedname": 9,
+      "title": "Trump University: Why The N.Y. Attorney General Called It A Scam",
+      "index": 1260,
+      "name": "WashingtonPost|1260"
+    },
+    {
+      "closeness": 0.03939568944870878,
+      "feedname": 9,
+      "title": "Expanding U.S. Role In Iraq Strains Awkward Alliance With Iran",
+      "index": 1264,
+      "name": "WashingtonPost|1264"
+    },
+    {
+      "closeness": 0.8141892970965174,
+      "feedname": 9,
+      "title": "Can The Republican Candidates Avoid A Real Confrontation With Trump?",
+      "index": 1265,
+      "name": "WashingtonPost|1265"
+    },
+    {
+      "closeness": 0.9283788746726592,
+      "feedname": 9,
+      "title": "Gop Leaders Say Erratic Attacks Hurt Trump, But He Vows To Fight And Win",
+      "index": 1268,
+      "name": "WashingtonPost|1268"
+    },
+    {
+      "closeness": 0.4889443284607517,
+      "feedname": 9,
+      "title": "Trump\u2019S History Of Flippant Misogyny",
+      "index": 1269,
+      "name": "WashingtonPost|1269"
+    }
+  ]
+}
