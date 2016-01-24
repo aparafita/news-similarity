@@ -2,11 +2,13 @@
 <html>
 <head>
 <meta charset="utf-8">
+<title>Week</title>
 
 <!-- Example based on http://bl.ocks.org/mbostock/3887118 -->
 
 <style>
-body {
+
+svg {
   font: 11px sans-serif;
 }
 
@@ -17,384 +19,354 @@ body {
   shape-rendering: crispEdges;
 }
 
-.node {
-  /*stroke: #fff;*/
-}
-
-./*tooltip {
-  position: absolute;
-  width: 200px;
-  height: 28px;
-  pointer-events: none;
-}*/
 </style>
 <script src="/js/jquery-1.10.2.min.js"></script>
+<script src="/js/d3.v3.js"></script>
 <script src="/js/utils.js"></script>
 </head>
 
 <body>
 
+<div id="entry_picker">
+  <h1> Week visualizer </h1>
+
+  Available entries: 
+  <ul>
+  <li><a href="week.html?entry=NYTimes6">2015-07-13</a>: Leaders From Eurozone Work Into Morning on Greek Crisis</li>
+  <li><a href="week.html?entry=NYTimes1128">2015-08-08</a>: Hand-Wringing in G.O.P. After Donald Trump's Remarks on Megyn Kelly</li>
+  <li><a href="week.html?entry=LATimes19069">2015-11-14</a>: Paris attacks: What is the sensible response to this horrific act?</li>
+  </ul>
+</div>
+
+<h1 id="base_title"></h1>
 <div id="graph"></div>
 <div id="entry_text" style="font-size:15px"></div>
 
-<script src="/js/d3.v3.js"></script>
-
 <script>
-var margin = {top: 20, right: 20, bottom: 30, left: 40},
-    width = 960 - margin.left - margin.right,
-    height = 500 - margin.top - margin.bottom;
 
-/* 
- * value accessor - returns the value to encode for a given data object.
- * scale - maps value to a visual display encoding, such as a pixel position.
- * map function - maps from data value to display value
- * axis - sets up axis
- */ 
+var base_entry = getQS("entry");
 
-var dates = [];
 
-// setup x 
-var xScale, yScale;
-var xValue = function(d) { return d.date; }, // data -> value
-    xScale = d3
-      .scale
-      .ordinal()
-      //.domain(Array.apply(null, {length: 7}).map(Number.call, Number))
-      .rangePoints([0, width], 1), // value -> display
-    xMap = function(d) { return xScale(xValue(d));}, // data -> display
-    xAxis = d3.svg.axis().scale(xScale).orient("bottom");
+if (base_entry != undefined) {
+  d3.select("#entry_picker").remove(); // don't show it if an entry has been selected
 
-// setup y
-var yValue = function(d) { return 1 - d.dist; }, // data -> value
-    yScale = d3.scale.linear().range([height, 0]).domain([0, 1]), // value -> display
-    yMap = function(d) { return yScale(yValue(d));}, // data -> display
-    yAxis = d3.svg.axis().scale(yScale).orient("left");
+  var margin = {top: 20, right: 20, bottom: 30, left: 40},
+      width = 960 - margin.left - margin.right,
+      height = 500 - margin.top - margin.bottom;
 
-// setup fill color
-var feedNames = [
-  'BostonHerald',
-  'ChicagoTribune',
-  'DailyNews',
-  'LATimes',
-  'NYPost',
-  'NYTimes',
-  'StLouisPost',
-  'USAToday',
-  'WallStreetJournal',
-  'WashingtonPost'
-];
+  var xScale = d3.scale.ordinal().rangePoints([0, width], 1),
+      xAxis = d3.svg.axis().scale(xScale).orient("bottom");
 
-var selectedFeed = [];
-for (var i in feedNames) {
-  selectedFeed.push(true);
-}
+  var yScale = d3.scale.linear().range([height, 0]).domain([0, 1]),
+      yAxis = d3.svg.axis().scale(yScale).orient("left");
 
-var cValue = function(d) { return d.feedname; },
-    color = d3.scale.category10();
+  var color = d3.scale.category10(),
+      unselected = "#cdc9c9";
 
-var unselected = "#cdc9c9";
+  var feedNames, selectedFeed, dates;
+  var svg, dots, overThreshold, overText;
 
-// add the graph canvas to the body of the webpage
-var svg = d3
-  .select("#graph").append("svg")
-  .attr("width", width + margin.left + margin.right)
-  .attr("height", height + margin.top + margin.bottom)
-  .append("g")
-  .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+  function dotsR(d){ return 1 + 14 * (1 - d.dist); }
 
-var thresholdLine = svg
-  .append("line")
-  .attr("x1", 0).attr("x2", width)
-  .attr("y1", yScale(0.4)).attr("y2", yScale(0.4))
-  .attr("stroke", "#000")
-  .attr("stroke-width", 0.5)
-  .attr("stroke-opacity", 0.5);
+  // load data
+  d3.json("/data/week_" + getQS("entry") + ".json", function(error, data) {
+    if (error) throw error;
 
-// add the tooltip area to the webpage
-var tooltip = d3
-  .select("body")
-  .append("div")
-  .attr("class", "tooltip")
-  .style("opacity", 0);
+    // Change title depending on the file
+    d3.select("title").text("Week: " + data.base_name);
+    d3.select("#base_title").text(data.base_name + ": " + data.base_title);
 
-var dots;
+    // Define variables based on data
+    feedNames = data.feedNames;
 
-var overThreshold = [];
-var overText;
+    selectedFeed = [];
+    for (var i in feedNames) {
+      selectedFeed.push(true);
+    }
 
-function replaceOverText(){
-  for (var i in overThreshold) {
-    overText
+    // Get all dates in data
+    dates = [];
+
+    data.entries.forEach(function(d) {
+      if (!isin(dates, d.date))
+        dates.push(d.date);
+    });
+
+    dates.sort();
+
+    // Get all entries over threshold
+    // First define the structure that counts entries over threshold for each date ...
+    overThreshold = [];
+    var d;
+    for (var i in dates){
+      d = { date: dates[i], num: 0 };
+
+      for (var j in feedNames){
+        d[feedNames[j]] = 0;
+      }
+
+      overThreshold.push(d);
+    }
+
+    // ... then fill it
+    data.entries.forEach(function(d){ overThreshold[dates.indexOf(d.date)][feedNames[d.feed]] += d.dist < 0.6 ? 1: 0; });
+
+    // Finally set the total number of entries over threshold independently of feed
+    overThreshold.forEach(
+      function(d){ 
+        for (var i in feedNames){
+          d.num += d[feedNames[i]];
+        }
+      }
+    );
+
+
+    // Create visualisation
+    xScale.domain(dates); // now that we know the dates, set the xscale for them
+
+    // Create svg
+    svg = d3
+      .select("#graph")
+      .append("svg")
+      .attr("width", width + margin.left + margin.right)
+      .attr("height", height + margin.top + margin.bottom)
+      .append("g")
+      .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+    // Create threshold line
+    var thresholdLine = svg
+      .append("line")
+      .attr("x1", 0).attr("x2", width)
+      .attr("y1", yScale(0.4))
+      .attr("y2", yScale(0.4))
+      .attr("stroke", "#000")
+      .attr("stroke-width", 0.5)
+      .attr("stroke-opacity", 0.5);
+
+    // Create threshold text
+    overText = svg
+      .append("g")
+      .attr("id", "overTextG")
+      .selectAll("text")
+      .data(overThreshold)
+      .enter()
       .append("text")
-      .attr("x", xScale(overThreshold[i].date) + 25)
+      .attr("x", function(d){ return xScale(d.date) + 25; })
       .attr("text-anchor", "start")
       .attr("y", yScale(0.4) - 10)
       .attr("dy", ".35em")
       .style("text-anchor", "end")
-      .text(overThreshold[i].num);
-  }
-}
+      .text(function(d){ return d.num; })
+      .attr("opacity", 0.); // we'll animate it now
 
-// load data
-d3.csv("/data/week_" + getQS("entry") + ".csv", function(error, data) {
+    overText
+      .transition()
+      .duration(1000)
+      .attr("opacity", 1.);
 
-  // change string (from CSV) into number format
-  data.forEach(function(d) {
-    d['dist'] = parseFloat(d['dist']);
-
-    if (!isin(dates, d['date']))
-      dates.push(d['date']);
-  });
-
-  dates.sort();
-
-  var d;
-  for (var i in dates){
-    d = { date: dates[i], num: 0 };
-
-    for (var j in feedNames){
-      d[feedNames[j]] = 0;
-    }
-
-    overThreshold.push(d);
-  }
-
-  data.forEach(function(d){ overThreshold[dates.indexOf(d.date)][d.feedname] += d.dist < 0.6 ? 1: 0; });
-  overThreshold.forEach(
-    function(d){ 
-      for (var i in feedNames){
-        d.num += d[feedNames[i]];
-      }
-    }
-  );
-
-  xScale.domain(dates);
-
-  overText = svg
-    .append("g")
-    .attr("id", "overTextG")
-    .selectAll("text")
-    .data(overThreshold)
-    .enter()
-    .append("text")
-    .attr("x", function(d){ return xScale(d.date) + 25; })
-    .attr("text-anchor", "start")
-    .attr("y", yScale(0.4) - 10)
-    .attr("dy", ".35em")
-    .style("text-anchor", "end")
-    .text(function(d){ return d.num; })
-    .attr("opacity", 0.);
-
-  overText
-    .transition()
-    .duration(1000)
-    .attr("opacity", 1.);
-
-  //replaceOverText();
-
-  // x-axis
-  svg.append("g")
+    // Create x-axis
+    svg
+      .append("g")
       .attr("class", "x axis")
       .attr("transform", "translate(0," + height + ")")
       .call(xAxis)
-    .append("text")
+      .append("text")
       .attr("class", "label")
       .attr("x", width)
       .attr("y", -6)
       .style("text-anchor", "end")
       .text("date");
 
-  // y-axis
-  svg.append("g")
+    // Create y-axis
+    svg
+      .append("g")
       .attr("class", "y axis")
       .call(yAxis)
-    .append("text")
+      .append("text")
       .attr("class", "label")
-      .attr("transform", "rotate(-90)")
-      .attr("y", 6)
+      .attr("x", 10)
+      .attr("y", 0)
       .attr("dy", ".71em")
-      .style("text-anchor", "end")
       .text("similarity");
 
-  // draw dots
-  dots = svg
-    .selectAll(".dot")
-    .data(data)
-    .enter()
-    .append("circle")
-    .attr("class", "node")
-    .attr("r", function(d) { 
-      return 1 + 14 * yValue(d);
-    })
-    .style("fill", function(d){ return color(d.feedname); })
-    .attr("fill-opacity", 0.5)
-    .attr("cx", xMap)
-    .attr("cy", height);
+    // Create dots
+    dots = svg
+      .selectAll(".dot")
+      .data(data.entries)
+      .enter()
+      .append("circle")
+      .attr("class", "node")
+      .attr("r", dotsR)
+      .style("fill", function(d){ return color(d.feed); })
+      .attr("fill-opacity", 0.5)
+      .attr("cx", function(d){ return xScale(d.date); })
+      .attr("cy", height);
 
-  dots
-    .append("title")
-    .text(function(d) { return d.entry + ': ' + d.title; });
+    dots
+      .append("title")
+      .text(function(d) { return d.entry + ': ' + d.title; });
 
-  // draw legend
-  var legend = svg
-    .selectAll(".legend")
-    .data(feedNames, function(d){ return d; })
-    .enter().append("g")
-    .attr("class", "legend")
-    .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
+    // Create legend
+    var legend = svg
+      .selectAll(".legend")
+      .data(feedNames, function(d){ return d; })
+      .enter().append("g")
+      .attr("class", "legend")
+      .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
 
-  // draw legend colored rectangles
-  var legendSq = legend
-    .append("rect")
-    .attr("x", width - 18)
-    .attr("width", 18)
-    .attr("height", 18)
-    .style("fill", color)
-    .style("cursor", "pointer");
+    // Create legend squares
+    var legendSq = legend
+      .append("rect")
+      .attr("x", width - 18)
+      .attr("width", 18)
+      .attr("height", 18)
+      .style("fill", color)
+      .style("cursor", "pointer");
 
-  // draw legend text
-  var legendText = legend
-    .append("text")
-    .attr("x", width - 24)
-    .attr("y", 9)
-    .attr("dy", ".35em")
-    .style("text-anchor", "end")
-    .text(function(d){ return d; })
-    .style("cursor", "pointer");
+    // Create legend text
+    var legendText = legend
+      .append("text")
+      .attr("x", width - 24)
+      .attr("y", 9)
+      .attr("dy", ".35em")
+      .style("text-anchor", "end")
+      .text(function(d){ return d; })
+      .style("cursor", "pointer");
 
-  dots
-    .transition()
-    .duration(1000)
-    .ease("cubic-in-out")
-    .attr("cy", yMap)
-    .each("end", function(){
-      d3
-        .select(this)
-        .on("mouseover", function(d){
-          if (selectedFeed[d.feed]){
-            $("#entry_text").html(d.title);
+    dots
+      .transition()
+      .duration(1000)
+      .ease("cubic-in-out")
+      .attr("cy", function(d){ return yScale(1 - d.dist); })
+      .each("end", function(){
+        d3
+          .select(this)
+          .on("mouseover", function(d){
+            if (selectedFeed[d.feed]){
+              $("#entry_text").html(d.title);
 
-            d3.select(this)
-              .transition()
-              .duration(200)
-              .attr("r", function(d) { return 3 + 14 * yValue(d); })
-              .attr("fill-opacity", 0.75);
-          }
-        })
-        .on("mouseout", function(d){
-          if (selectedFeed[d.feed]){
-            $("#entry_text").html("");
-            
-            d3.select(this)
-              .transition()
-              .duration(200)
-              .attr("r", function(d) { return 1 + 14 * yValue(d); })
-              .attr("fill-opacity", 0.5);
-          }
+              d3.select(this)
+                .transition()
+                .duration(200)
+                .attr("r", function(d) { return 2 + dotsR(d); })
+                .attr("fill-opacity", 0.75);
+            }
+          })
+          .on("mouseout", function(d){
+            if (selectedFeed[d.feed]){
+              $("#entry_text").html("");
+              
+              d3.select(this)
+                .transition()
+                .duration(200)
+                .attr("r", function(d) { return dotsR(d); })
+                .attr("fill-opacity", 0.5);
+            }
+          });
+
+        legendSq
+          .on("click", changeGraph)
+          .on("mouseover", function(d, i) { return legendMouse(true, d, i); })
+          .on("mouseout", function(d, i) { return legendMouse(false, d, i); });
+
+        legendText
+          .on("click", changeGraph)
+          .on("mouseover", function(d, i) { return legendMouse(true, d, i); })
+          .on("mouseout", function(d, i) { return legendMouse(false, d, i); });
+      });
+
+    function changeGraph(feed_d, i) {
+      selectedFeed[i] = !selectedFeed[i];
+      var newNode = selectedFeed[i];
+
+      legend
+        .selectAll('rect')
+        .transition()
+        .duration(newNode ? 1000: 500)
+        .style("fill", function(d) {
+            return selectedFeed[feedNames.indexOf(d)] ? color(d): unselected;
         });
 
-      legendSq
-        .on("click", changeGraph)
-        .on("mouseover", function(d, i) { return legendMouse(true, d, i); })
-        .on("mouseout", function(d, i) { return legendMouse(false, d, i); });
-
-      legendText
-        .on("click", changeGraph)
-        .on("mouseover", function(d, i) { return legendMouse(true, d, i); })
-        .on("mouseout", function(d, i) { return legendMouse(false, d, i); });
-    });
-
-  function changeGraph(feed_d, i) {
-    selectedFeed[i] = !selectedFeed[i];
-    var newNode = selectedFeed[i];
-
-    legend
-      .selectAll('rect')
-      .transition()
-      .duration(newNode ? 1000: 500)
-      .style("fill", function(d) {
-          return selectedFeed[feedNames.indexOf(d)] ? color(d): unselected;
-      });
-
-    dots
-      .transition()
-      .duration(newNode ? 1000: 500)
-      .attr("fill", function(d) {
-        return selectedFeed[d.feed] ? color(d.feedname): unselected;
-      })
-      .attr("fill-opacity", function(d) {
-        return selectedFeed[d.feed] ? 0.5: 0.25;
-      })
-      .attr("r", function(d) {
-        return selectedFeed[d.feed] ? 1 + 14 * yValue(d) : 2;    
-      });
-
-    overThreshold.forEach(
-      function(d){ 
-        d.num += d[feedNames[i]] * (newNode ? 1 : -1);
-      }
-    );
-
-    overText
-      .transition()
-      .duration(newNode ? 500: 250)
-      .attr("opacity", 0.)
-      .each("end", function(){
-        overText
-          .transition()
-          .duration(newNode ? 500: 250)
-          .attr("opacity", 1.)
-          .text(function(d){ return d.num; });
-      });
-  }
-
-  function legendMouse(over, feed_d, i) {
-    legend
-      .selectAll('rect')
-      .transition()
-      .duration(over ? 1000: 500)
-      .style("fill", function(d) {
-          return (over && d == feedNames[i]) || (!over && selectedFeed[feedNames.indexOf(d)]) ? color(d): unselected;
-      });
-
-    dots
-      .transition()
-      .duration(over ? 1000: 500)
-      .attr("fill", function(d) {
-        if (over)
-          return d.feed == i ? color(d.feedname) : unselected; 
-        else
+      dots
+        .transition()
+        .duration(newNode ? 1000: 500)
+        .attr("fill", function(d) {
           return selectedFeed[d.feed] ? color(d.feedname): unselected;
-      })
-      .attr("fill-opacity", function(d) {
-        if (over)
-          return d.feed == i? 0.75 : 0.25; 
-        else
-          return selectedFeed[d.feed] ? 0.5: 0.25; 
-      })
-      .attr("r", function(d) {
-        if (over)
-          return d.feed == i? 3 + 14 * yValue(d) : 2;
-        else
-          return selectedFeed[d.feed] ? 1 + 14 * yValue(d) : 2;
-      });
+        })
+        .attr("fill-opacity", function(d) {
+          return selectedFeed[d.feed] ? 0.5: 0.25;
+        })
+        .attr("r", function(d) {
+          return selectedFeed[d.feed] ? dotsR(d) : 2;    
+        });
 
-    overText
-      .transition()
-      .duration(over ? 500: 250)
-      .attr("opacity", 0.)
-      .each("end", function(){
-        overText
-          .transition()
-          .duration(over ? 500: 250)
-          .attr("opacity", 1.)
-          .text(
-            function(d){ 
-              return over ? d[feedNames[i]] : d.num; }
-          );
-      });
-  }
-});
+      overThreshold.forEach(
+        function(d){ 
+          d.num += d[feedNames[i]] * (newNode ? 1 : -1);
+        }
+      );
+
+      overText
+        .transition()
+        .duration(newNode ? 500: 250)
+        .attr("opacity", 0.)
+        .each("end", function(){
+          overText
+            .transition()
+            .duration(newNode ? 500: 250)
+            .attr("opacity", 1.)
+            .text(function(d){ return d.num; });
+        });
+    }
+
+    function legendMouse(over, feed_d, i) {
+      legend
+        .selectAll('rect')
+        .transition()
+        .duration(over ? 1000: 500)
+        .style("fill", function(d) {
+            return (over && d == feedNames[i]) || (!over && selectedFeed[feedNames.indexOf(d)]) ? color(d): unselected;
+        });
+
+      dots
+        .transition()
+        .duration(over ? 1000: 500)
+        .attr("fill", function(d) {
+          if (over)
+            return d.feed == i ? color(d.feedname) : unselected; 
+          else
+            return selectedFeed[d.feed] ? color(d.feedname): unselected;
+        })
+        .attr("fill-opacity", function(d) {
+          if (over)
+            return d.feed == i? 0.75 : 0.25; 
+          else
+            return selectedFeed[d.feed] ? 0.5: 0.25; 
+        })
+        .attr("r", function(d) {
+          if (over)
+            return d.feed == i? (2 + dotsR(d)) : 2;
+          else
+            return selectedFeed[d.feed] ? dotsR(d) : 2;
+        });
+
+      overText
+        .transition()
+        .duration(over ? 500: 250)
+        .attr("opacity", 0.)
+        .each("end", function(){
+          overText
+            .transition()
+            .duration(over ? 500: 250)
+            .attr("opacity", 1.)
+            .text(
+              function(d){ 
+                return over ? d[feedNames[i]] : d.num; }
+            );
+        });
+    }
+  });
+}
 
 </script>
 </body>
