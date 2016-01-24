@@ -1,0 +1,1640 @@
+{
+  "title": "Greece Bailout Deal",
+  "feednames": [
+    "BostonHerald",
+    "ChicagoTribune",
+    "DailyNews",
+    "LATimes",
+    "NYPost",
+    "NYTimes",
+    "StLouisPost",
+    "USAToday",
+    "WallStreetJournal",
+    "WashingtonPost"
+  ],
+  "nodes": [
+    {
+      "closeness": 0.0,
+      "index": 17,
+      "feed": 0,
+      "name": "BostonHerald|17",
+      "title": "Election Scheduled To Fill Brockton Senate Seat"
+    },
+    {
+      "closeness": 0.084733937066325,
+      "index": 2,
+      "feed": 0,
+      "name": "BostonHerald|2",
+      "title": "Clinton To Bush: American Workers Need A Raise"
+    },
+    {
+      "closeness": 0.7451239706357305,
+      "index": 22,
+      "feed": 0,
+      "name": "BostonHerald|22",
+      "title": "Greece Strikes Deal With Creditors, Avoids Chaotic Euro Exit"
+    },
+    {
+      "closeness": 0.1508953195810981,
+      "index": 25,
+      "feed": 0,
+      "name": "BostonHerald|25",
+      "title": "Apnewsbreak: Pentagon Readying Plan To Lift Transgender Ban"
+    },
+    {
+      "closeness": 0.1523678514850689,
+      "index": 27,
+      "feed": 0,
+      "name": "BostonHerald|27",
+      "title": "Boy Scouts Executive Committee Oks Ending Ban On Gay Leaders"
+    },
+    {
+      "closeness": 0.0,
+      "index": 28,
+      "feed": 0,
+      "name": "BostonHerald|28",
+      "title": "Romania Prime Minister Indicted In Corruption Investigation"
+    },
+    {
+      "closeness": 0.14464313608503815,
+      "index": 29,
+      "feed": 0,
+      "name": "BostonHerald|29",
+      "title": "Capitol Hill Buzz: Reid A Clinton Fan, But Hasn&#039;T Endorsed"
+    },
+    {
+      "closeness": 0.06686822333501931,
+      "index": 3,
+      "feed": 0,
+      "name": "BostonHerald|3",
+      "title": "Obama Says Us Must Step Up Care For Aging Americans"
+    },
+    {
+      "closeness": 0.06872468541281437,
+      "index": 39,
+      "feed": 0,
+      "name": "BostonHerald|39",
+      "title": "Diplomats: Iran Nuclear Agreement Likely Tuesday"
+    },
+    {
+      "closeness": 0.0,
+      "index": 4,
+      "feed": 0,
+      "name": "BostonHerald|4",
+      "title": "Where They Stand: Scott Walker On Issues Of 2016 Campaign"
+    },
+    {
+      "closeness": 0.10777530076887978,
+      "index": 53,
+      "feed": 0,
+      "name": "BostonHerald|53",
+      "title": "Va Says It May Shut Down Hospitals To Close $2.5B Budget Gap"
+    },
+    {
+      "closeness": 0.22260106474389407,
+      "index": 56,
+      "feed": 0,
+      "name": "BostonHerald|56",
+      "title": "Obama Commutes Sentences For 46; Presses For Justice Changes"
+    },
+    {
+      "closeness": 0.0,
+      "index": 61,
+      "feed": 0,
+      "name": "BostonHerald|61",
+      "title": "Us Government Records $51.8 Billion Budget Surplus In June"
+    },
+    {
+      "closeness": 0.6302742246155049,
+      "index": 70,
+      "feed": 0,
+      "name": "BostonHerald|70",
+      "title": "Walker: &#039;I Will Win And Fight For You&#039;"
+    },
+    {
+      "closeness": 0.0,
+      "index": 89,
+      "feed": 0,
+      "name": "BostonHerald|89",
+      "title": "&#039;Citizenfour&#039; Director Laura Poitras Sues Federal Government Over Airport Screening Detainments"
+    },
+    {
+      "closeness": 0.893468396049326,
+      "index": 19,
+      "feed": 1,
+      "name": "ChicagoTribune|19",
+      "title": "Greece Reaches Deal With Creditors, Avoids Euro Exit"
+    },
+    {
+      "closeness": 0.13846843848123266,
+      "index": 21,
+      "feed": 1,
+      "name": "ChicagoTribune|21",
+      "title": "Pentagon Readying Plan To Lift Ban On Transgender Individuals In The Military"
+    },
+    {
+      "closeness": 0.0,
+      "index": 23,
+      "feed": 1,
+      "name": "ChicagoTribune|23",
+      "title": "Chicago Public Schools Warns Of Drastic Cuts Without Pension Help"
+    },
+    {
+      "closeness": 0.07352479730433341,
+      "index": 4,
+      "feed": 1,
+      "name": "ChicagoTribune|4",
+      "title": "Miss Oklahoma Captures Miss Usa Crown"
+    },
+    {
+      "closeness": 0.0,
+      "index": 41,
+      "feed": 1,
+      "name": "ChicagoTribune|41",
+      "title": "Illinois State Workers' Paychecks To Go Out As Court Fight Continues"
+    },
+    {
+      "closeness": 0.07663926073151353,
+      "index": 12,
+      "feed": 2,
+      "name": "DailyNews|12",
+      "title": "Drug Lord El Chapo'S Cousin To Be Sentenced For Cartel"
+    },
+    {
+      "closeness": 0.0,
+      "index": 145,
+      "feed": 2,
+      "name": "DailyNews|145",
+      "title": "Editorial: Donald\u2019S Dream Act"
+    },
+    {
+      "closeness": 0.0,
+      "index": 3,
+      "feed": 2,
+      "name": "DailyNews|3",
+      "title": "Law Firm Must Surrender Notes On Nj Bridge Closing: Judge"
+    },
+    {
+      "closeness": 0.0,
+      "index": 39,
+      "feed": 2,
+      "name": "DailyNews|39",
+      "title": "Bahrain Arrests Opposition Leader Freed Less Than Month Ago"
+    },
+    {
+      "closeness": 0.5150129252280795,
+      "index": 43,
+      "feed": 2,
+      "name": "DailyNews|43",
+      "title": "Wisconsin Gov. Scott Walker Enters 2016 Presidential Race"
+    },
+    {
+      "closeness": 0.14268752745579877,
+      "index": 53,
+      "feed": 2,
+      "name": "DailyNews|53",
+      "title": "Obama Shortening Sentences For 46 Nonviolent Offenders"
+    },
+    {
+      "closeness": 0.07663926073151353,
+      "index": 54,
+      "feed": 2,
+      "name": "DailyNews|54",
+      "title": "Trump Says He\u2019Ll Kick El Chapo\u2019S A--, Calls Fbi After Threat"
+    },
+    {
+      "closeness": 0.14179036997858846,
+      "index": 55,
+      "feed": 2,
+      "name": "DailyNews|55",
+      "title": "Pentagon Finishing Plan To Lift Military Ban On Transgenders"
+    },
+    {
+      "closeness": 0.19746129368854873,
+      "index": 80,
+      "feed": 2,
+      "name": "DailyNews|80",
+      "title": "Boy Scouts Of America To Lift Ban On Gay Adults"
+    },
+    {
+      "closeness": 0.0,
+      "index": 84,
+      "feed": 2,
+      "name": "DailyNews|84",
+      "title": "State Senate Dems To Fight Cuomo'S Gun-Database Deal"
+    },
+    {
+      "closeness": 0.0,
+      "index": 87,
+      "feed": 2,
+      "name": "DailyNews|87",
+      "title": "Ufa To Sue City Council Over Thwarted Disability Package"
+    },
+    {
+      "closeness": 0.0,
+      "index": 9,
+      "feed": 2,
+      "name": "DailyNews|9",
+      "title": "Hillary Clinton Talks Economics At New School In Nyc"
+    },
+    {
+      "closeness": 0.0,
+      "index": 102,
+      "feed": 3,
+      "name": "LATimes|102",
+      "title": "State Legislators Urge University Of California To Act Against Anti-Semitism"
+    },
+    {
+      "closeness": 0.0,
+      "index": 19,
+      "feed": 3,
+      "name": "LATimes|19",
+      "title": "China Claims Human Rights Lawyers Were Part Of 'Criminal Syndicate'"
+    },
+    {
+      "closeness": 0.0,
+      "index": 2,
+      "feed": 3,
+      "name": "LATimes|2",
+      "title": "Clinton Speech Hits Gop Rivals And Obama"
+    },
+    {
+      "closeness": 0.29999148713826823,
+      "index": 28,
+      "feed": 3,
+      "name": "LATimes|28",
+      "title": "Last-Minute Snags Delay Iran Nuclear Agreement Again"
+    },
+    {
+      "closeness": 0.3065235981339019,
+      "index": 39,
+      "feed": 3,
+      "name": "LATimes|39",
+      "title": "Obama Commutes Sentences Of 46 Convicted Of Nonviolent Drug Offenses"
+    },
+    {
+      "closeness": 0.4970070526070585,
+      "index": 4,
+      "feed": 3,
+      "name": "LATimes|4",
+      "title": "Hillary Clinton Draws Contrast With Republicans As She Lays Out Economic Plan"
+    },
+    {
+      "closeness": 0.0,
+      "index": 40,
+      "feed": 3,
+      "name": "LATimes|40",
+      "title": "Picking Up The Pace Of Peace Talks Between Colombia, Rebels"
+    },
+    {
+      "closeness": 0.06349778330603638,
+      "index": 42,
+      "feed": 3,
+      "name": "LATimes|42",
+      "title": "Sanders Faces Uphill Struggle To Win Over Latino Voters"
+    },
+    {
+      "closeness": 0.0,
+      "index": 47,
+      "feed": 3,
+      "name": "LATimes|47",
+      "title": "David Letterman Delivers A Donald Trump-Centric Top 10 At Live Show"
+    },
+    {
+      "closeness": 0.07352479730433341,
+      "index": 48,
+      "feed": 3,
+      "name": "LATimes|48",
+      "title": "Miss Oklahoma Wins Miss Usa; Trump Is The Elephant (Who Wasn'T) In The Room"
+    },
+    {
+      "closeness": 0.08879979440290507,
+      "index": 50,
+      "feed": 3,
+      "name": "LATimes|50",
+      "title": "With Losses Mounting, Nigerian President Sweeps Out Military Leadership"
+    },
+    {
+      "closeness": 0.19195774453187453,
+      "index": 52,
+      "feed": 3,
+      "name": "LATimes|52",
+      "title": "Boy Scouts Of America Moves To Accept Gay Troop Leaders"
+    },
+    {
+      "closeness": 0.7975903253682712,
+      "index": 75,
+      "feed": 3,
+      "name": "LATimes|75",
+      "title": "Deal Between Greece And European Creditors Raises Questions"
+    },
+    {
+      "closeness": 0.20218163402306738,
+      "index": 77,
+      "feed": 3,
+      "name": "LATimes|77",
+      "title": "The 'Gig Economy' Gets The Campaign Treatment"
+    },
+    {
+      "closeness": 0.07098144992302044,
+      "index": 84,
+      "feed": 3,
+      "name": "LATimes|84",
+      "title": "Pentagon Moves Toward Lifting Ban On Transgender Troops"
+    },
+    {
+      "closeness": 0.0,
+      "index": 85,
+      "feed": 3,
+      "name": "LATimes|85",
+      "title": "Voting Rights Trial In North Carolina Begins: 'This Is Our Selma'"
+    },
+    {
+      "closeness": 0.45687319393211295,
+      "index": 89,
+      "feed": 3,
+      "name": "LATimes|89",
+      "title": "Entering Presidential Race, Scott Walker Challenges Gop'S Desire To Diversify"
+    },
+    {
+      "closeness": 0.7109112319200817,
+      "index": 96,
+      "feed": 3,
+      "name": "LATimes|96",
+      "title": "Here'S What Greece Must Do For Its $96-Billion Bailout"
+    },
+    {
+      "closeness": 0.0,
+      "index": 98,
+      "feed": 3,
+      "name": "LATimes|98",
+      "title": "George Zimmer: You Like The Way He Talks"
+    },
+    {
+      "closeness": 0.0,
+      "index": 23,
+      "feed": 4,
+      "name": "NYPost|23",
+      "title": "What Foreign Governments Warn Tourists About America"
+    },
+    {
+      "closeness": 0.0,
+      "index": 30,
+      "feed": 4,
+      "name": "NYPost|30",
+      "title": "Boycotting The Boycott Of Ian Reisner And Mati Weiderpass"
+    },
+    {
+      "closeness": 0.21340319251647766,
+      "index": 33,
+      "feed": 4,
+      "name": "NYPost|33",
+      "title": "Boy Scouts Close To Ending Ban On Gay Leaders"
+    },
+    {
+      "closeness": 0.38572581403468637,
+      "index": 6,
+      "feed": 4,
+      "name": "NYPost|6",
+      "title": "Iran Deal Remains Elusive As Deadline Looms"
+    },
+    {
+      "closeness": 0.1345336546297681,
+      "index": 0,
+      "feed": 5,
+      "name": "NYTimes|0",
+      "title": "First Draft: Today In Politics: A Perceived Front-Runner Joins The Race"
+    },
+    {
+      "closeness": 0.27315745150656606,
+      "index": 11,
+      "feed": 5,
+      "name": "NYTimes|11",
+      "title": "Road To 2016: Scott Walker Had A Great Starting Position But Not A Great Start"
+    },
+    {
+      "closeness": 0.5303428373425294,
+      "index": 12,
+      "feed": 5,
+      "name": "NYTimes|12",
+      "title": "Scott Walker Declares Presidential Candidacy, Looking To Regain Momentum"
+    },
+    {
+      "closeness": 0.0763584256386507,
+      "index": 14,
+      "feed": 5,
+      "name": "NYTimes|14",
+      "title": "Iraq Begins Military Operation To Drive Isis From Anbar"
+    },
+    {
+      "closeness": 0.5168905030341613,
+      "index": 15,
+      "feed": 5,
+      "name": "NYTimes|15",
+      "title": "News Analysis: Deal On Greek Debt Crisis Exposes Europe\u2019S Deepening Fissures"
+    },
+    {
+      "closeness": 1.0,
+      "index": 16,
+      "feed": 5,
+      "name": "NYTimes|16",
+      "title": "Deal On Greek Debt Crisis Is Reached, But Long Road Remains"
+    },
+    {
+      "closeness": 0.07019351756456527,
+      "index": 17,
+      "feed": 5,
+      "name": "NYTimes|17",
+      "title": "Russia Says 23 Are Now Dead After Collapse Of Barracks"
+    },
+    {
+      "closeness": 0.0,
+      "index": 19,
+      "feed": 5,
+      "name": "NYTimes|19",
+      "title": "The Appraisal: An Altar To Donald Trump Swallows Up Public Space In Manhattan"
+    },
+    {
+      "closeness": 0.0,
+      "index": 22,
+      "feed": 5,
+      "name": "NYTimes|22",
+      "title": "Stunning Escape Of Joaquin \u2018El Chapo\u2019 Guzm\u00e1n Fuels Mexicans\u2019 Cynicism"
+    },
+    {
+      "closeness": 0.4086949189332096,
+      "index": 23,
+      "feed": 5,
+      "name": "NYTimes|23",
+      "title": "First Draft: Hillary Clinton Blames Republicans For Promoting Inequality"
+    },
+    {
+      "closeness": 0.13345486291538738,
+      "index": 25,
+      "feed": 5,
+      "name": "NYTimes|25",
+      "title": "Obama Commutes Sentences For 46 Drug Offenders"
+    },
+    {
+      "closeness": 0.0,
+      "index": 27,
+      "feed": 5,
+      "name": "NYTimes|27",
+      "title": "Opinion: \u2018The Worst Atrocity You\u2019Ve Never Heard Of\u2019"
+    },
+    {
+      "closeness": 0.0,
+      "index": 28,
+      "feed": 5,
+      "name": "NYTimes|28",
+      "title": "Plan Would Let Transgender People Serve Openly In Military"
+    },
+    {
+      "closeness": 0.4595406617876181,
+      "index": 30,
+      "feed": 5,
+      "name": "NYTimes|30",
+      "title": "Inching Near A Iran Nuclear Deal, Negotiators Go Silent"
+    },
+    {
+      "closeness": 0.08879979440290507,
+      "index": 38,
+      "feed": 5,
+      "name": "NYTimes|38",
+      "title": "Nigeria Military Leaders, Faulted In Fighting Militants, Are Fired"
+    },
+    {
+      "closeness": 0.8832864821961787,
+      "index": 6,
+      "feed": 5,
+      "name": "NYTimes|6",
+      "title": "Leaders From Eurozone Work Into Morning On Greek Crisis"
+    },
+    {
+      "closeness": 0.36755218757645575,
+      "index": 7,
+      "feed": 5,
+      "name": "NYTimes|7",
+      "title": "Scott Walker On The Issues"
+    },
+    {
+      "closeness": 0.17382432935045966,
+      "index": 63,
+      "feed": 6,
+      "name": "StLouisPost|63",
+      "title": "Va Says It May Shut Down Hospitals To Close $2.5B Budget Gap"
+    },
+    {
+      "closeness": 0.3893215348339991,
+      "index": 69,
+      "feed": 6,
+      "name": "StLouisPost|69",
+      "title": "Bush Defends Economic Proposals In Iowa"
+    },
+    {
+      "closeness": 0.14060759159332661,
+      "index": 70,
+      "feed": 6,
+      "name": "StLouisPost|70",
+      "title": "Clinton Campaign Vows To Disclose Its Biggest Fundraisers"
+    },
+    {
+      "closeness": 0.0,
+      "index": 72,
+      "feed": 6,
+      "name": "StLouisPost|72",
+      "title": "Un Calls On Palestinians For Information On Missing Israelis"
+    },
+    {
+      "closeness": 0.07008457307329141,
+      "index": 85,
+      "feed": 6,
+      "name": "StLouisPost|85",
+      "title": "Republican Danny Tarkanian Announces Bid For Congress"
+    },
+    {
+      "closeness": 0.0,
+      "index": 86,
+      "feed": 6,
+      "name": "StLouisPost|86",
+      "title": "Moving Past Vermont, Sanders Tries To Woo Minority Voters"
+    },
+    {
+      "closeness": 0.06686394482171681,
+      "index": 87,
+      "feed": 6,
+      "name": "StLouisPost|87",
+      "title": "Ukraine Pm Says Reforms Continue Despite 'Lunatic' Lawmakers"
+    },
+    {
+      "closeness": 0.8366772634346189,
+      "index": 17,
+      "feed": 7,
+      "name": "USAToday|17",
+      "title": "Reaction In Germany: 'Everyone Lost'"
+    },
+    {
+      "closeness": 0.0,
+      "index": 19,
+      "feed": 7,
+      "name": "USAToday|19",
+      "title": "Voices: Up Close And Personal With Two Former Presidents"
+    },
+    {
+      "closeness": 0.3697359142279352,
+      "index": 20,
+      "feed": 7,
+      "name": "USAToday|20",
+      "title": "Obama'S Clemency Grant Largest Since The 1960S"
+    },
+    {
+      "closeness": 0.649478541042637,
+      "index": 28,
+      "feed": 7,
+      "name": "USAToday|28",
+      "title": "Greeks Happy About A Bailout Deal, Until They Read The Fine Print"
+    },
+    {
+      "closeness": 0.3586833846302796,
+      "index": 29,
+      "feed": 7,
+      "name": "USAToday|29",
+      "title": "Iran Nuclear Talks Continue Past Latest Deadline"
+    },
+    {
+      "closeness": 0.0,
+      "index": 30,
+      "feed": 7,
+      "name": "USAToday|30",
+      "title": "Rand Paul Mum On Trump'S Immigration Stance"
+    },
+    {
+      "closeness": 0.3008885063425951,
+      "index": 32,
+      "feed": 7,
+      "name": "USAToday|32",
+      "title": "Carter Moves Toward Allowing Transgender Troops To Serve Openly"
+    },
+    {
+      "closeness": 0.20882319865325022,
+      "index": 34,
+      "feed": 7,
+      "name": "USAToday|34",
+      "title": "Boy Scouts Executive Committee Oks Ending Ban On Gay Leaders"
+    },
+    {
+      "closeness": 0.5425330226724222,
+      "index": 36,
+      "feed": 7,
+      "name": "USAToday|36",
+      "title": "Walker Kicks Off 2016 Bid, Vows To 'Fight And Win For You'"
+    },
+    {
+      "closeness": 0.06525017186620675,
+      "index": 0,
+      "feed": 8,
+      "name": "WallStreetJournal|0",
+      "title": "U.S. Wants Drones In North Africa"
+    },
+    {
+      "closeness": 0.0,
+      "index": 10,
+      "feed": 8,
+      "name": "WallStreetJournal|10",
+      "title": "Islamic State Squeezes Iraqi Wheat Supply"
+    },
+    {
+      "closeness": 0.4393786427688732,
+      "index": 15,
+      "feed": 8,
+      "name": "WallStreetJournal|15",
+      "title": "Embargo On Arms Clouds Iran Nuclear Deal"
+    },
+    {
+      "closeness": 0.0,
+      "index": 17,
+      "feed": 8,
+      "name": "WallStreetJournal|17",
+      "title": "Brazil Leader Faces Backlash From Friends, Foes"
+    },
+    {
+      "closeness": 0.48455257881042474,
+      "index": 18,
+      "feed": 8,
+      "name": "WallStreetJournal|18",
+      "title": "Iran, World Powers Prepare To Sign Off On Nuclear Accord"
+    },
+    {
+      "closeness": 0.0,
+      "index": 2,
+      "feed": 8,
+      "name": "WallStreetJournal|2",
+      "title": "Iraq Launches Bid To Oust Isis From Anbar"
+    },
+    {
+      "closeness": 0.0,
+      "index": 21,
+      "feed": 8,
+      "name": "WallStreetJournal|21",
+      "title": "Greece Deal Will Take Time To Reach Banks"
+    },
+    {
+      "closeness": 0.5373613312847257,
+      "index": 22,
+      "feed": 8,
+      "name": "WallStreetJournal|22",
+      "title": "Greek Talks Tested Key European Relationship"
+    },
+    {
+      "closeness": 0.5860460072844823,
+      "index": 4,
+      "feed": 8,
+      "name": "WallStreetJournal|4",
+      "title": "Eurozone Reaches Deal On Greece"
+    },
+    {
+      "closeness": 0.0,
+      "index": 6,
+      "feed": 8,
+      "name": "WallStreetJournal|6",
+      "title": "Uganda Raises Lending Rate"
+    },
+    {
+      "closeness": 0.07019351756456527,
+      "index": 8,
+      "feed": 8,
+      "name": "WallStreetJournal|8",
+      "title": "23 Russian Servicemen Killed In Barracks Collapse"
+    },
+    {
+      "closeness": 0.0,
+      "index": 9,
+      "feed": 8,
+      "name": "WallStreetJournal|9",
+      "title": "Talks On Iran Nuclear Accord Grind On"
+    },
+    {
+      "closeness": 0.4758942631680512,
+      "index": 1,
+      "feed": 9,
+      "name": "WashingtonPost|1",
+      "title": "As Scott Walker Enters 2016 Fray, He Feuds With Both Parties At Home"
+    },
+    {
+      "closeness": 0.2941871316096793,
+      "index": 12,
+      "feed": 9,
+      "name": "WashingtonPost|12",
+      "title": "Strauss: Gov. Scott Walker Savages Wisconsin Public Education In New Budget"
+    },
+    {
+      "closeness": 0.36584667799889065,
+      "index": 14,
+      "feed": 9,
+      "name": "WashingtonPost|14",
+      "title": "Wonkblog: The Thing Bernie Sanders Says About Inequality That No Other Candidate Will Touch"
+    },
+    {
+      "closeness": 0.7743112103782899,
+      "index": 15,
+      "feed": 9,
+      "name": "WashingtonPost|15",
+      "title": "Wonkblog: What Everybody Needs To Know About The Deal To Save Greece \u2014 And What Happens Next"
+    },
+    {
+      "closeness": 0.0,
+      "index": 18,
+      "feed": 9,
+      "name": "WashingtonPost|18",
+      "title": "Who\u2019S An Existential Threat To The U.S.? In Washington, It Depends Who\u2019S Talking."
+    },
+    {
+      "closeness": 0.26318829343280536,
+      "index": 19,
+      "feed": 9,
+      "name": "WashingtonPost|19",
+      "title": "Wonkblog: Why A Deal Might Be Too Late For Greece"
+    },
+    {
+      "closeness": 0.0,
+      "index": 21,
+      "feed": 9,
+      "name": "WashingtonPost|21",
+      "title": "President Obama Just Commuted 46 Sentences. How Do Presidential Commutations And Pardons Work?"
+    },
+    {
+      "closeness": 0.0,
+      "index": 23,
+      "feed": 9,
+      "name": "WashingtonPost|23",
+      "title": "Dropping A Barrel Bomb? Apparently There\u2019S An App For It."
+    },
+    {
+      "closeness": 0.2956924852994733,
+      "index": 24,
+      "feed": 9,
+      "name": "WashingtonPost|24",
+      "title": "Obama Commutes Sentences Of 46 Nonviolent Drug Offenders"
+    },
+    {
+      "closeness": 0.19875374839200682,
+      "index": 33,
+      "feed": 9,
+      "name": "WashingtonPost|33",
+      "title": "Boy Scouts Executive Committee Endorses Ending Ban On Gay Leaders"
+    },
+    {
+      "closeness": 0.0,
+      "index": 35,
+      "feed": 9,
+      "name": "WashingtonPost|35",
+      "title": "The Mainstream Response To Donald Trump Affirms Latino Political Power"
+    },
+    {
+      "closeness": 0.40774835797944115,
+      "index": 36,
+      "feed": 9,
+      "name": "WashingtonPost|36",
+      "title": "Clinton Calls For \u2018Growth And Fairness Economy,\u2019 Vows Wall Street Crackdown"
+    },
+    {
+      "closeness": 0.06686394482171681,
+      "index": 40,
+      "feed": 9,
+      "name": "WashingtonPost|40",
+      "title": "U.S. Mulls Training Frontline Ukrainian Troops"
+    },
+    {
+      "closeness": 0.0,
+      "index": 44,
+      "feed": 9,
+      "name": "WashingtonPost|44",
+      "title": "As Dempsey Departs, He Issues Sober Assessment Of Middle East"
+    },
+    {
+      "closeness": 0.14645080204389618,
+      "index": 48,
+      "feed": 9,
+      "name": "WashingtonPost|48",
+      "title": "Iraq Launches Offensive Against Islamic State Strongholds In Anbar"
+    },
+    {
+      "closeness": 0.0,
+      "index": 49,
+      "feed": 9,
+      "name": "WashingtonPost|49",
+      "title": "Social Security Confiscated Refunds With \u2018Insufficient\u2019 Details For Taxpayers"
+    },
+    {
+      "closeness": 0.0,
+      "index": 6,
+      "feed": 9,
+      "name": "WashingtonPost|6",
+      "title": "Innovations: The One Piece Of Clothing Every Billionaire Is Wearing At Summer Camp"
+    },
+    {
+      "closeness": 0.4460959656809031,
+      "index": 9,
+      "feed": 9,
+      "name": "WashingtonPost|9",
+      "title": "Iran Talks Drag On Despite Expectations Of An Imminent Deal"
+    }
+  ],
+  "links": [
+    {
+      "value": 0.581091077645185,
+      "target": 87,
+      "source": 71
+    },
+    {
+      "value": 0.4377496932543408,
+      "target": 103,
+      "source": 60
+    },
+    {
+      "value": 0.5771550324098668,
+      "target": 3,
+      "source": 7
+    },
+    {
+      "value": 0.5998907123059033,
+      "target": 81,
+      "source": 65
+    },
+    {
+      "value": 0.5823352564638636,
+      "target": 74,
+      "source": 72
+    },
+    {
+      "value": 0.5378547879277202,
+      "target": 81,
+      "source": 36
+    },
+    {
+      "value": 0.5984681993184513,
+      "target": 39,
+      "source": 102
+    },
+    {
+      "value": 0.5826317742718293,
+      "target": 11,
+      "source": 108
+    },
+    {
+      "value": 0.43107552283244316,
+      "target": 59,
+      "source": 70
+    },
+    {
+      "value": 0.48968992231062014,
+      "target": 87,
+      "source": 100
+    },
+    {
+      "value": 0.5768390708458908,
+      "target": 95,
+      "source": 96
+    },
+    {
+      "value": 0.46864993539825844,
+      "target": 3,
+      "source": 85
+    },
+    {
+      "value": 0.4863524939378808,
+      "target": 2,
+      "source": 70
+    },
+    {
+      "value": 0.5912616801219519,
+      "target": 2,
+      "source": 49
+    },
+    {
+      "value": 0.4593159838984938,
+      "target": 96,
+      "source": 15
+    },
+    {
+      "value": 0.5726177234219619,
+      "target": 13,
+      "source": 101
+    },
+    {
+      "value": 0.497944033715229,
+      "target": 79,
+      "source": 49
+    },
+    {
+      "value": 0.5911880320048211,
+      "target": 95,
+      "source": 60
+    },
+    {
+      "value": 0.5153673283977158,
+      "target": 26,
+      "source": 20
+    },
+    {
+      "value": 0.5402190735681909,
+      "target": 79,
+      "source": 59
+    },
+    {
+      "value": 0.5992240050014082,
+      "target": 43,
+      "source": 28
+    },
+    {
+      "value": 0.4809403088657884,
+      "target": 49,
+      "source": 103
+    },
+    {
+      "value": 0.5744894595479133,
+      "target": 48,
+      "source": 56
+    },
+    {
+      "value": 0.48678763757176113,
+      "target": 35,
+      "source": 68
+    },
+    {
+      "value": 0.36231645999067813,
+      "target": 44,
+      "source": 60
+    },
+    {
+      "value": 0.4568524995887494,
+      "target": 13,
+      "source": 100
+    },
+    {
+      "value": 0.5837770364668693,
+      "target": 45,
+      "source": 37
+    },
+    {
+      "value": 0.5012827540113475,
+      "target": 87,
+      "source": 48
+    },
+    {
+      "value": 0.5903136397425858,
+      "target": 87,
+      "source": 101
+    },
+    {
+      "value": 0.4949729994632926,
+      "target": 15,
+      "source": 82
+    },
+    {
+      "value": 0.5654155901461682,
+      "target": 8,
+      "source": 117
+    },
+    {
+      "value": 0.5469832788995295,
+      "target": 82,
+      "source": 49
+    },
+    {
+      "value": 0.5181325833347263,
+      "target": 2,
+      "source": 44
+    },
+    {
+      "value": 0.44106600718737154,
+      "target": 111,
+      "source": 64
+    },
+    {
+      "value": 0.4849763345444763,
+      "target": 103,
+      "source": 70
+    },
+    {
+      "value": 0.5198586702259519,
+      "target": 2,
+      "source": 60
+    },
+    {
+      "value": 0.5285247373432425,
+      "target": 74,
+      "source": 6
+    },
+    {
+      "value": 0.5892135533173144,
+      "target": 96,
+      "source": 49
+    },
+    {
+      "value": 0.5946284823332052,
+      "target": 2,
+      "source": 59
+    },
+    {
+      "value": 0.5771820878291452,
+      "target": 78,
+      "source": 112
+    },
+    {
+      "value": 0.47935575922882623,
+      "target": 37,
+      "source": 102
+    },
+    {
+      "value": 0.5668593423359484,
+      "target": 45,
+      "source": 111
+    },
+    {
+      "value": 0.4706510228316834,
+      "target": 13,
+      "source": 57
+    },
+    {
+      "value": 0.481876962458533,
+      "target": 101,
+      "source": 100
+    },
+    {
+      "value": 0.5957894564621982,
+      "target": 86,
+      "source": 109
+    },
+    {
+      "value": 0.5988980830185732,
+      "target": 15,
+      "source": 105
+    },
+    {
+      "value": 0.5985423692386616,
+      "target": 95,
+      "source": 44
+    },
+    {
+      "value": 0.46083707644205496,
+      "target": 82,
+      "source": 60
+    },
+    {
+      "value": 0.5192964042802608,
+      "target": 49,
+      "source": 70
+    },
+    {
+      "value": 0.5071169868752303,
+      "target": 48,
+      "source": 24
+    },
+    {
+      "value": 0.5561999632085823,
+      "target": 36,
+      "source": 65
+    },
+    {
+      "value": 0.417868302026044,
+      "target": 44,
+      "source": 70
+    },
+    {
+      "value": 0.5985721533152203,
+      "target": 86,
+      "source": 43
+    },
+    {
+      "value": 0.5873868717913522,
+      "target": 92,
+      "source": 88
+    },
+    {
+      "value": 0.5502713488158014,
+      "target": 13,
+      "source": 64
+    },
+    {
+      "value": 0.5195494760129147,
+      "target": 79,
+      "source": 103
+    },
+    {
+      "value": 0.4581147839286949,
+      "target": 15,
+      "source": 103
+    },
+    {
+      "value": 0.5923280383729201,
+      "target": 57,
+      "source": 71
+    },
+    {
+      "value": 0.5846222181532099,
+      "target": 92,
+      "source": 83
+    },
+    {
+      "value": 0.4364957048266856,
+      "target": 96,
+      "source": 2
+    },
+    {
+      "value": 0.5568162641129386,
+      "target": 76,
+      "source": 6
+    },
+    {
+      "value": 0.5466791117400192,
+      "target": 111,
+      "source": 102
+    },
+    {
+      "value": 0.5462446646722241,
+      "target": 48,
+      "source": 100
+    },
+    {
+      "value": 0.5888198053020756,
+      "target": 56,
+      "source": 55
+    },
+    {
+      "value": 0.590123100786214,
+      "target": 105,
+      "source": 103
+    },
+    {
+      "value": 0.5097489408594738,
+      "target": 13,
+      "source": 24
+    },
+    {
+      "value": 0.5511448129580909,
+      "target": 85,
+      "source": 46
+    },
+    {
+      "value": 0.5830180966108843,
+      "target": 82,
+      "source": 44
+    },
+    {
+      "value": 0.5826238266998253,
+      "target": 92,
+      "source": 35
+    },
+    {
+      "value": 0.595792478345738,
+      "target": 24,
+      "source": 56
+    },
+    {
+      "value": 0.4741288000672695,
+      "target": 87,
+      "source": 24
+    },
+    {
+      "value": 0.5604490701891258,
+      "target": 57,
+      "source": 55
+    },
+    {
+      "value": 0.5171432048875816,
+      "target": 114,
+      "source": 58
+    },
+    {
+      "value": 0.5062553762178565,
+      "target": 54,
+      "source": 68
+    },
+    {
+      "value": 0.5667449820265482,
+      "target": 96,
+      "source": 82
+    },
+    {
+      "value": 0.5614778016219276,
+      "target": 35,
+      "source": 117
+    },
+    {
+      "value": 0.5954279764849173,
+      "target": 90,
+      "source": 83
+    },
+    {
+      "value": 0.4948828172432443,
+      "target": 101,
+      "source": 71
+    },
+    {
+      "value": 0.5883482580141224,
+      "target": 43,
+      "source": 109
+    },
+    {
+      "value": 0.5572086904579925,
+      "target": 96,
+      "source": 79
+    },
+    {
+      "value": 0.575123901051272,
+      "target": 16,
+      "source": 27
+    },
+    {
+      "value": 0.42542225885553164,
+      "target": 15,
+      "source": 49
+    },
+    {
+      "value": 0.484971271706487,
+      "target": 73,
+      "source": 111
+    },
+    {
+      "value": 0.4782148732868824,
+      "target": 81,
+      "source": 108
+    },
+    {
+      "value": 0.541952572124659,
+      "target": 102,
+      "source": 64
+    },
+    {
+      "value": 0.5977242863581564,
+      "target": 79,
+      "source": 105
+    },
+    {
+      "value": 0.5350618128814534,
+      "target": 18,
+      "source": 41
+    },
+    {
+      "value": 0.47209770864054945,
+      "target": 90,
+      "source": 35
+    },
+    {
+      "value": 0.5064506407220961,
+      "target": 103,
+      "source": 59
+    },
+    {
+      "value": 0.5398850922508516,
+      "target": 95,
+      "source": 70
+    },
+    {
+      "value": 0.446496361971615,
+      "target": 73,
+      "source": 37
+    },
+    {
+      "value": 0.5489685677421893,
+      "target": 105,
+      "source": 60
+    },
+    {
+      "value": 0.5971671770046751,
+      "target": 95,
+      "source": 15
+    },
+    {
+      "value": 0.5798927644280398,
+      "target": 82,
+      "source": 79
+    },
+    {
+      "value": 0.5378587889612203,
+      "target": 90,
+      "source": 117
+    },
+    {
+      "value": 0.48547771335288503,
+      "target": 15,
+      "source": 44
+    },
+    {
+      "value": 0.593086619415369,
+      "target": 53,
+      "source": 28
+    },
+    {
+      "value": 0.598896151608978,
+      "target": 37,
+      "source": 24
+    },
+    {
+      "value": 0.482493319485663,
+      "target": 48,
+      "source": 57
+    },
+    {
+      "value": 0.4384695104252534,
+      "target": 42,
+      "source": 69
+    },
+    {
+      "value": 0.46234388606031274,
+      "target": 117,
+      "source": 68
+    },
+    {
+      "value": 0.4454291572343531,
+      "target": 79,
+      "source": 70
+    },
+    {
+      "value": 0.5443910167818627,
+      "target": 90,
+      "source": 54
+    },
+    {
+      "value": 0.5135717634621425,
+      "target": 57,
+      "source": 56
+    },
+    {
+      "value": 0.549263147659355,
+      "target": 16,
+      "source": 85
+    },
+    {
+      "value": 0.49334559360752384,
+      "target": 15,
+      "source": 70
+    },
+    {
+      "value": 0.49617833432767466,
+      "target": 44,
+      "source": 59
+    },
+    {
+      "value": 0.49222276887703265,
+      "target": 82,
+      "source": 103
+    },
+    {
+      "value": 0.4443076878623397,
+      "target": 49,
+      "source": 44
+    },
+    {
+      "value": 0.5156867346336915,
+      "target": 73,
+      "source": 64
+    },
+    {
+      "value": 0.5161320304205321,
+      "target": 81,
+      "source": 25
+    },
+    {
+      "value": 0.5200923323062043,
+      "target": 73,
+      "source": 102
+    },
+    {
+      "value": 0.5036290697868921,
+      "target": 24,
+      "source": 57
+    },
+    {
+      "value": 0.529861766946245,
+      "target": 11,
+      "source": 81
+    },
+    {
+      "value": 0.46418018775398595,
+      "target": 4,
+      "source": 1
+    },
+    {
+      "value": 0.5705347382241507,
+      "target": 2,
+      "source": 82
+    },
+    {
+      "value": 0.570856697849158,
+      "target": 73,
+      "source": 45
+    },
+    {
+      "value": 0.3820046139323724,
+      "target": 37,
+      "source": 111
+    },
+    {
+      "value": 0.55192782884324,
+      "target": 96,
+      "source": 60
+    },
+    {
+      "value": 0.5608505113155546,
+      "target": 83,
+      "source": 68
+    },
+    {
+      "value": 0.5778383260887456,
+      "target": 2,
+      "source": 103
+    },
+    {
+      "value": 0.3778994537123658,
+      "target": 15,
+      "source": 60
+    },
+    {
+      "value": 0.5590317895768508,
+      "target": 28,
+      "source": 109
+    },
+    {
+      "value": 0.41029955477691515,
+      "target": 79,
+      "source": 60
+    },
+    {
+      "value": 0.5454437196793686,
+      "target": 13,
+      "source": 71
+    },
+    {
+      "value": 0.5641339781099693,
+      "target": 60,
+      "source": 59
+    },
+    {
+      "value": 0.5149430001429719,
+      "target": 92,
+      "source": 54
+    },
+    {
+      "value": 0.520029330250739,
+      "target": 90,
+      "source": 68
+    },
+    {
+      "value": 0.5517596426085514,
+      "target": 92,
+      "source": 90
+    },
+    {
+      "value": 0.5815753720884589,
+      "target": 25,
+      "source": 108
+    },
+    {
+      "value": 0.5723131418176873,
+      "target": 4,
+      "source": 53
+    },
+    {
+      "value": 0.5556341194800208,
+      "target": 44,
+      "source": 103
+    },
+    {
+      "value": 0.31847682968470076,
+      "target": 72,
+      "source": 10
+    },
+    {
+      "value": 0.5281490095064351,
+      "target": 54,
+      "source": 117
+    },
+    {
+      "value": 0.4620174361309817,
+      "target": 100,
+      "source": 71
+    },
+    {
+      "value": 0.5977792464910646,
+      "target": 82,
+      "source": 70
+    },
+    {
+      "value": 0.5987278280487116,
+      "target": 95,
+      "source": 59
+    },
+    {
+      "value": 0.5282567271762131,
+      "target": 85,
+      "source": 27
+    },
+    {
+      "value": 0.5539744011567231,
+      "target": 24,
+      "source": 100
+    },
+    {
+      "value": 0.49491709464181616,
+      "target": 79,
+      "source": 44
+    },
+    {
+      "value": 0.4851331597455162,
+      "target": 86,
+      "source": 53
+    },
+    {
+      "value": 0.5563593287455733,
+      "target": 96,
+      "source": 70
+    },
+    {
+      "value": 0.48774993457579074,
+      "target": 36,
+      "source": 108
+    },
+    {
+      "value": 0.49930950183440215,
+      "target": 13,
+      "source": 48
+    },
+    {
+      "value": 0.5232249839270929,
+      "target": 87,
+      "source": 57
+    },
+    {
+      "value": 0.36661805276217946,
+      "target": 37,
+      "source": 64
+    },
+    {
+      "value": 0.5238420185506114,
+      "target": 83,
+      "source": 117
+    },
+    {
+      "value": 0.5222223527212249,
+      "target": 15,
+      "source": 79
+    },
+    {
+      "value": 0.4372659939538992,
+      "target": 2,
+      "source": 15
+    },
+    {
+      "value": 0.557802062141025,
+      "target": 92,
+      "source": 68
+    },
+    {
+      "value": 0.4798761179012102,
+      "target": 11,
+      "source": 36
+    },
+    {
+      "value": 0.4421208219396672,
+      "target": 60,
+      "source": 70
+    },
+    {
+      "value": 0.5561273475007682,
+      "target": 98,
+      "source": 61
+    },
+    {
+      "value": 0.4095307684502952,
+      "target": 13,
+      "source": 87
+    },
+    {
+      "value": 0.5567669193048571,
+      "target": 92,
+      "source": 114
+    },
+    {
+      "value": 0.4671027383363403,
+      "target": 83,
+      "source": 54
+    },
+    {
+      "value": 0.4091436728730211,
+      "target": 49,
+      "source": 60
+    },
+    {
+      "value": 0.5438178277899841,
+      "target": 95,
+      "source": 79
+    },
+    {
+      "value": 0.5557980300586757,
+      "target": 95,
+      "source": 2
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Week</title>
+
+<!-- Example based on http://bl.ocks.org/mbostock/3887118 -->
+
+<style>
+
+svg {
+  font: 11px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+</style>
+<script src="/js/jquery-1.10.2.min.js"></script>
+<script src="/js/d3.v3.js"></script>
+<script src="/js/utils.js"></script>
+</head>
+
+<body>
+
+<div id="entry_picker">
+  <h1> Week visualizer </h1>
+
+  Available entries: 
+  <ul>
+  <li><a href="week.html?entry=NYTimes6">2015-07-13</a>: Leaders From Eurozone Work Into Morning on Greek Crisis</li>
+  <li><a href="week.html?entry=NYTimes1128">2015-08-08</a>: Hand-Wringing in G.O.P. After Donald Trump's Remarks on Megyn Kelly</li>
+  <li><a href="week.html?entry=LATimes19069">2015-11-14</a>: Paris attacks: What is the sensible response to this horrific act?</li>
+  </ul>
+</div>
+
+<h1 id="base_title"></h1>
+<div id="graph"></div>
+<div id="entry_text" style="font-size:15px"></div>
+
+<script>
+
+var base_entry = getQS("entry");
+
+
+if (base_entry != undefined) {
+  d3.select("#entry_picker").remove(); // don't show it if an entry has been selected
+
+  var margin = {top: 20, right: 20, bottom: 30, left: 40},
+      width = 960 - margin.left - margin.right,
+      height = 500 - margin.top - margin.bottom;
+
+  var xScale = d3.scale.ordinal().rangePoints([0, width], 1),
+      xAxis = d3.svg.axis().scale(xScale).orient("bottom");
+
+  var yScale = d3.scale.linear().range([height, 0]).domain([0, 1]),
+      yAxis = d3.svg.axis().scale(yScale).orient("left");
+
+  var color = d3.scale.category10(),
+      unselected = "#cdc9c9";
+
+  var feedNames, selectedFeed, dates;
+  var svg, dots, overThreshold, overText;
+
+  function dotsR(d){ return 1 + 14 * (1 - d.dist); }
+
+  // load data
+  d3.json("/data/week_" + getQS("entry") + ".json", function(error, data) {
+    if (error) throw error;
+
+    // Change title depending on the file
+    d3.select("title").text("Week: " + data.base_name);
+    d3.select("#base_title").text(data.base_name + ": " + data.base_title);
+
+    // Define variables based on data
+    feedNames = data.feedNames;
+
+    selectedFeed = [];
+    for (var i in feedNames) {
+      selectedFeed.push(true);
+    }
+
+    // Get all dates in data
+    dates = [];
+
+    data.entries.forEach(function(d) {
+      if (!isin(dates, d.date))
+        dates.push(d.date);
+    });
+
+    dates.sort();
+
+    // Get all entries over threshold
+    // First define the structure that counts entries over threshold for each date ...
+    overThreshold = [];
+    var d;
+    for (var i in dates){
+      d = { date: dates[i], num: 0 };
+
+      for (var j in feedNames){
+        d[feedNames[j]] = 0;
+      }
+
+      overThreshold.push(d);
+    }
+
+    // ... then fill it
+    data.entries.forEach(function(d){ overThreshold[dates.indexOf(d.date)][feedNames[d.feed]] += d.dist < 0.6 ? 1: 0; });
+
+    // Finally set the total number of entries over threshold independently of feed
+    overThreshold.forEach(
+      function(d){ 
+        for (var i in feedNames){
+          d.num += d[feedNames[i]];
+        }
+      }
+    );
+
+
+    // Create visualisation
+    xScale.domain(dates); // now that we know the dates, set the xscale for them
+
+    // Create svg
+    svg = d3
+      .select("#graph")
+      .append("svg")
+      .attr("width", width + margin.left + margin.right)
+      .attr("height", height + margin.top + margin.bottom)
+      .append("g")
+      .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+    // Create threshold line
+    var thresholdLine = svg
+      .append("line")
+      .attr("x1", 0).attr("x2", width)
+      .attr("y1", yScale(0.4))
+      .attr("y2", yScale(0.4))
+      .attr("stroke", "#000")
+      .attr("stroke-width", 0.5)
+      .attr("stroke-opacity", 0.5);
+
+    // Create threshold text
+    overText = svg
+      .append("g")
+      .attr("id", "overTextG")
+      .selectAll("text")
+      .data(overThreshold)
+      .enter()
+      .append("text")
+      .attr("x", function(d){ return xScale(d.date) + 25; })
+      .attr("text-anchor", "start")
+      .attr("y", yScale(0.4) - 10)
+      .attr("dy", ".35em")
+      .style("text-anchor", "end")
+      .text(function(d){ return d.num; })
+      .attr("opacity", 0.); // we'll animate it now
+
+    overText
+      .transition()
+      .duration(1000)
+      .attr("opacity", 1.);
+
+    // Create x-axis
+    svg
+      .append("g")
+      .attr("class", "x axis")
+      .attr("transform", "translate(0," + height + ")")
+      .call(xAxis)
+      .append("text")
+      .attr("class", "label")
+      .attr("x", width)
+      .attr("y", -6)
+      .style("text-anchor", "end")
+      .text("date");
+
+    // Create y-axis
+    svg
+      .append("g")
+      .attr("class", "y axis")
+      .call(yAxis)
+      .append("text")
+      .attr("class", "label")
+      .attr("x", 10)
+      .attr("y", 0)
+      .attr("dy", ".71em")
+      .text("similarity");
+
+    // Create dots
+    dots = svg
+      .selectAll(".dot")
+      .data(data.entries)
+      .enter()
+      .append("circle")
+      .attr("class", "node")
+      .attr("r", dotsR)
+      .style("fill", function(d){ return color(d.feed); })
+      .attr("fill-opacity", 0.5)
+      .attr("cx", function(d){ return xScale(d.date); })
+      .attr("cy", height);
+
+    dots
+      .append("title")
+      .text(function(d) { return d.entry + ': ' + d.title; });
+
+    // Create legend
+    var legend = svg
+      .selectAll(".legend")
+      .data(feedNames, function(d){ return d; })
+      .enter().append("g")
+      .attr("class", "legend")
+      .attr("transform", function(d, i) { return "translate(0," + i * 20 + ")"; });
+
+    // Create legend squares
+    var legendSq = legend
+      .append("rect")
+      .attr("x", width - 18)
+      .attr("width", 18)
+      .attr("height", 18)
+      .style("fill", color)
+      .style("cursor", "pointer");
+
+    // Create legend text
+    var legendText = legend
+      .append("text")
+      .attr("x", width - 24)
+      .attr("y", 9)
+      .attr("dy", ".35em")
+      .style("text-anchor", "end")
+      .text(function(d){ return d; })
+      .style("cursor", "pointer");
+
+    dots
+      .transition()
+      .duration(1000)
+      .ease("cubic-in-out")
+      .attr("cy", function(d){ return yScale(1 - d.dist); })
+      .each("end", function(){
+        d3
+          .select(this)
+          .on("mouseover", function(d){
+            if (selectedFeed[d.feed]){
+              $("#entry_text").html(d.title);
+
+              d3.select(this)
+                .transition()
+                .duration(200)
+                .attr("r", function(d) { return 2 + dotsR(d); })
+                .attr("fill-opacity", 0.75);
+            }
+          })
+          .on("mouseout", function(d){
+            if (selectedFeed[d.feed]){
+              $("#entry_text").html("");
+              
+              d3.select(this)
+                .transition()
+                .duration(200)
+                .attr("r", function(d) { return dotsR(d); })
+                .attr("fill-opacity", 0.5);
+            }
+          });
+
+        legendSq
+          .on("click", changeGraph)
+          .on("mouseover", function(d, i) { return legendMouse(true, d, i); })
+          .on("mouseout", function(d, i) { return legendMouse(false, d, i); });
+
+        legendText
+          .on("click", changeGraph)
+          .on("mouseover", function(d, i) { return legendMouse(true, d, i); })
+          .on("mouseout", function(d, i) { return legendMouse(false, d, i); });
+      });
+
+    function changeGraph(feed_d, i) {
+      selectedFeed[i] = !selectedFeed[i];
+      var newNode = selectedFeed[i];
+
+      legend
+        .selectAll('rect')
+        .transition()
+        .duration(newNode ? 1000: 500)
+        .style("fill", function(d) {
+            return selectedFeed[feedNames.indexOf(d)] ? color(d): unselected;
+        });
+
+      dots
+        .transition()
+        .duration(newNode ? 1000: 500)
+        .attr("fill", function(d) {
+          return selectedFeed[d.feed] ? color(d.feedname): unselected;
+        })
+        .attr("fill-opacity", function(d) {
+          return selectedFeed[d.feed] ? 0.5: 0.25;
+        })
+        .attr("r", function(d) {
+          return selectedFeed[d.feed] ? dotsR(d) : 2;    
+        });
+
+      overThreshold.forEach(
+        function(d){ 
+          d.num += d[feedNames[i]] * (newNode ? 1 : -1);
+        }
+      );
+
+      overText
+        .transition()
+        .duration(newNode ? 500: 250)
+        .attr("opacity", 0.)
+        .each("end", function(){
+          overText
+            .transition()
+            .duration(newNode ? 500: 250)
+            .attr("opacity", 1.)
+            .text(function(d){ return d.num; });
+        });
+    }
+
+    function legendMouse(over, feed_d, i) {
+      legend
+        .selectAll('rect')
+        .transition()
+        .duration(over ? 1000: 500)
+        .style("fill", function(d) {
+            return (over && d == feedNames[i]) || (!over && selectedFeed[feedNames.indexOf(d)]) ? color(d): unselected;
+        });
+
+      dots
+        .transition()
+        .duration(over ? 1000: 500)
+        .attr("fill", function(d) {
+          if (over)
+            return d.feed == i ? color(d.feedname) : unselected; 
+          else
+            return selectedFeed[d.feed] ? color(d.feedname): unselected;
+        })
+        .attr("fill-opacity", function(d) {
+          if (over)
+            return d.feed == i? 0.75 : 0.25; 
+          else
+            return selectedFeed[d.feed] ? 0.5: 0.25; 
+        })
+        .attr("r", function(d) {
+          if (over)
+            return d.feed == i? (2 + dotsR(d)) : 2;
+          else
+            return selectedFeed[d.feed] ? dotsR(d) : 2;
+        });
+
+      overText
+        .transition()
+        .duration(over ? 500: 250)
+        .attr("opacity", 0.)
+        .each("end", function(){
+          overText
+            .transition()
+            .duration(over ? 500: 250)
+            .attr("opacity", 1.)
+            .text(
+              function(d){ 
+                return over ? d[feedNames[i]] : d.num; }
+            );
+        });
+    }
+  });
+}
+
+</script>
+</body>
+</html>

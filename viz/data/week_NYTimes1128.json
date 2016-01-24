@@ -1,0 +1,5387 @@
+{
+  "base_name": "NYTimes|1128",
+  "base_title": "Hand-Wringing in G.O.P. After Donald Trump's Remarks on Megyn Kelly",
+  "entries": [
+    {
+      "date": "2015-08-11",
+      "name": "StLouisPost|3761",
+      "feed": 6,
+      "dist": 0.8241683733910401,
+      "title": "Clinton: GOP failed to mention '1 word' about college costs"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "USAToday|1794",
+      "feed": 7,
+      "dist": 0.6965728275685661,
+      "title": "Rand Paul calls Trump a 'fake conservative'"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "NYPost|3872",
+      "feed": 4,
+      "dist": 0.9370138162757844,
+      "title": "Debacle in Syria exposes the emptiness of Obama\u2019s anti-ISIS strategy"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "NYTimes|1291",
+      "feed": 5,
+      "dist": 0.7591611152662759,
+      "title": "First Draft: Today in Politics: Jeb Bush Opens New Front in Attack on Hillary Clinton\u2019s Foreign Policy Record"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "NYTimes|1298",
+      "feed": 5,
+      "dist": 0.7016847069405164,
+      "title": "First Draft: Bernie Sanders in Statistical Tie With Hillary Clinton in New Hampshire Poll"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "LATimes|4562",
+      "feed": 3,
+      "dist": 0.7634265716794201,
+      "title": "How voters see Hillary Clinton depends not only on political views but age, too"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "NYTimes|1346",
+      "feed": 5,
+      "dist": 0.9413524763214196,
+      "title": "In Crimea, a Disputed Beach Is a Symbol of Corruption"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "USAToday|1708",
+      "feed": 7,
+      "dist": 0.7289696752977648,
+      "title": "Trump says he fired top adviser"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "NYPost|3982",
+      "feed": 4,
+      "dist": 0.7467573995997114,
+      "title": "Why US politics might be headed for a four-party moment"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "USAToday|1856",
+      "feed": 7,
+      "dist": 0.6281692061697194,
+      "title": "Iowa poll: Trump leads the field, but his standing in GOP dented by debate"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "USAToday|1704",
+      "feed": 7,
+      "dist": 0.9500931908481492,
+      "title": "Anger, protests as Russia destroys tons of banned food"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "BostonHerald|3740",
+      "feed": 0,
+      "dist": 0.917827356196204,
+      "title": "The Latest: Cuban eyewitness backs Kerry&#039;s call for opening"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "USAToday|1802",
+      "feed": 7,
+      "dist": 0.7248920345949219,
+      "title": "GOP presidential ads soar"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "NYTimes|1157",
+      "feed": 5,
+      "dist": 0.9351704079305824,
+      "title": "Iraq\u2019s Premier, Facing Protests, Proposes Government Overhaul"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "StLouisPost|3760",
+      "feed": 6,
+      "dist": 0.9843021866853986,
+      "title": "US intervenes in lawsuit over Palestinian terror attacks"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "NYTimes|1257",
+      "feed": 5,
+      "dist": 0.6896504989288503,
+      "title": "Marco Rubio, Amid Soaring Moments, Sticks to Steady Course"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "NYTimes|1252",
+      "feed": 5,
+      "dist": 0.7169018519836539,
+      "title": "First Draft: Jeb Bush Says Hillary Clinton \u2018Stood By\u2019 as Iraq Descended Into Violence"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "WashingtonPost|1511",
+      "feed": 9,
+      "dist": 0.9730302348387768,
+      "title": "Leader of Islamic State raped American hostage"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "NYPost|3540",
+      "feed": 4,
+      "dist": 0.8136337065666032,
+      "title": "America would be strongly against a third term for Obama"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "NYPost|3354",
+      "feed": 4,
+      "dist": 0.9703078376847584,
+      "title": "The Iran deal will unchain top ayatollah\u2019s terror slush fund"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "LATimes|4169",
+      "feed": 3,
+      "dist": 0.4929920516585506,
+      "title": "Trump sticks by his explanation on Megyn Kelly comments"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "LATimes|4459",
+      "feed": 3,
+      "dist": 0.8100335335391808,
+      "title": "Donald Trump stops attacking Fox News Channel's Megyn Kelly"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "WashingtonPost|1376",
+      "feed": 9,
+      "dist": 0.7829260698742325,
+      "title": "Jeb Bush faults Hillary Clinton for \u2018premature\u2019 Iraq withdrawal"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "WashingtonPost|1414",
+      "feed": 9,
+      "dist": 0.9746102817187436,
+      "title": "U.N. secretary general fires head of peacekeeping force"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "StLouisPost|3910",
+      "feed": 6,
+      "dist": 0.8381469692830041,
+      "title": "Sen. Kirk's campaign defends putting caregiver on payroll"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "USAToday|1880",
+      "feed": 7,
+      "dist": 0.9557841878444954,
+      "title": "Turkey launches new attacks on Kurdish rebels"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "USAToday|2023",
+      "feed": 7,
+      "dist": 0.9536345829026116,
+      "title": "U.S. flag set to fly over Havana on Friday"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "WallStreetJournal|533",
+      "feed": 8,
+      "dist": 0.9714516085892034,
+      "title": "Document Expresses Concerns About Greek Debt"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "WallStreetJournal|491",
+      "feed": 8,
+      "dist": 0.9810817199404912,
+      "title": "Greece, Creditors Reach Deal on Bailout Terms"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "DailyNews|3052",
+      "feed": 2,
+      "dist": 0.5888384229967251,
+      "title": "Donald Trump makes bloody remark against Megyn Kelly"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "LATimes|4053",
+      "feed": 3,
+      "dist": 0.929967520945476,
+      "title": "Is Obama's strategy against Islamic State working?"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "DailyNews|3327",
+      "feed": 2,
+      "dist": 0.4799702475524869,
+      "title": "Kelly on Trump: I won't apologize for good journalism"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "WashingtonPost|1513",
+      "feed": 9,
+      "dist": 0.8105621210320352,
+      "title": "Trump to reveal immigration, tax policy plans next month"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "StLouisPost|3621",
+      "feed": 6,
+      "dist": 0.9783202424594228,
+      "title": "New Jersey man charged with plotting to support terror group"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "StLouisPost|3739",
+      "feed": 6,
+      "dist": 0.7727853438460978,
+      "title": "Harvard professor to 'hack' politics with White House run"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "WashingtonPost|1255",
+      "feed": 9,
+      "dist": 0.6770803943946737,
+      "title": "Conservative activists energized for 2016 GOP field, but no favorite yet"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "NYTimes|1259",
+      "feed": 5,
+      "dist": 0.9528073883068569,
+      "title": "China\u2019s Currency Move May Revive Dispute During State Visit"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "USAToday|1886",
+      "feed": 7,
+      "dist": 0.8445078332908414,
+      "title": "Hillary Clinton to hand over email server to Justice Dept."
+    },
+    {
+      "date": "2015-08-13",
+      "name": "StLouisPost|4083",
+      "feed": 6,
+      "dist": 0.9756840270449201,
+      "title": "Louisiana, Alabama told actions may violate federal law"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "LATimes|4812",
+      "feed": 3,
+      "dist": 0.7424463133777386,
+      "title": "Jose Antonio Vargas: I'm not an 'alien'"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "USAToday|1683",
+      "feed": 7,
+      "dist": 0.4789835314413167,
+      "title": "In sparring with Rand Paul, Christie shows he can fight"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "USAToday|1986",
+      "feed": 7,
+      "dist": 0.7284686576920876,
+      "title": "Rich donors keep Perry, other GOP hopefuls in race"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "DailyNews|3456",
+      "feed": 2,
+      "dist": 0.9386314031750372,
+      "title": "NYC voters oppose Obama's Iran nuclear deal: poll"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "LATimes|4464",
+      "feed": 3,
+      "dist": 0.9684976070007816,
+      "title": "Investigators examine missile parts in probe of MH17 crash in Ukraine"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "ChicagoTribune|1142",
+      "feed": 1,
+      "dist": 0.9808694862620256,
+      "title": "Illinois' new normal: No budget, but money still flowing"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "USAToday|1978",
+      "feed": 7,
+      "dist": 0.7354844066471974,
+      "title": "Trump-Paul feud includes ... golf"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "LATimes|4573",
+      "feed": 3,
+      "dist": 0.6488102016218902,
+      "title": "The GOP's woman problem goes beyond Trump"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "StLouisPost|4041",
+      "feed": 6,
+      "dist": 0.9497390244419179,
+      "title": "Hometown statue of Dred Scott opinion's author may be moved"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "NYTimes|1297",
+      "feed": 5,
+      "dist": 0.9848001709008304,
+      "title": "Why Is Turkey Fighting the Kurds Who Are Fighting ISIS?"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "ChicagoTribune|1353",
+      "feed": 1,
+      "dist": 0.8841057896907117,
+      "title": "Rauner opens Illinois State Fair as Wirtz mum on Kane questions"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "WallStreetJournal|493",
+      "feed": 8,
+      "dist": 0.9506066210095208,
+      "title": "Iraq Passes Anti-Corruption Reforms"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "LATimes|4680",
+      "feed": 3,
+      "dist": 0.9631951403008282,
+      "title": "Voters to decide whether Ohio will become first Midwest state to legalize pot"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "WallStreetJournal|453",
+      "feed": 8,
+      "dist": 0.9732187162835041,
+      "title": "Australia Targets More Foreign Homeowners"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "BostonHerald|3528",
+      "feed": 0,
+      "dist": 0.7041412467109629,
+      "title": "Bernie Sanders surges ahead of Hillary Clinton in N.H., 44-37"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "ChicagoTribune|1257",
+      "feed": 1,
+      "dist": 0.9551010022307036,
+      "title": "Image purports to show Croatian hostage held in Egypt beheaded by Islamic State"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "LATimes|4389",
+      "feed": 3,
+      "dist": 0.793443817398414,
+      "title": "Jeb Bush to hit Hillary Clinton on handling of Islamic State in foreign policy speech"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "StLouisPost|3790",
+      "feed": 6,
+      "dist": 0.6494475207441917,
+      "title": "There's no debate: GOP debates great for Fox News Channel"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "BostonHerald|3339",
+      "feed": 0,
+      "dist": 0.8640191790716804,
+      "title": "Prince Ali: FIFA cannot be credible while Blatter leads"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "USAToday|1796",
+      "feed": 7,
+      "dist": 0.9039105753623918,
+      "title": "Clinton unveils $350 billion, 10-year plan to make college more affordable"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "DailyNews|3318",
+      "feed": 2,
+      "dist": 0.9854243041491484,
+      "title": "NYC\u2019s \u2018responsible banking\u2019 law ruled unconstitutional"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "LATimes|4155",
+      "feed": 3,
+      "dist": 0.6141633765617119,
+      "title": "Conservatives assail Trump's 'blood coming out of her wherever' comment"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "DailyNews|3036",
+      "feed": 2,
+      "dist": 0.9671985433016672,
+      "title": "Iraqis demand prime minister dissolves parliament"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "NYPost|3882",
+      "feed": 4,
+      "dist": 0.9628689353630046,
+      "title": "Fidel Castro says US owes Cuba millions over trade embargo"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "StLouisPost|4034",
+      "feed": 6,
+      "dist": 0.9652449552180248,
+      "title": "Former Virginia Gov. Bob McDonnell asks to remain free while he appeals corruption convictions"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "NYPost|3467",
+      "feed": 4,
+      "dist": 0.8034489001124212,
+      "title": "Bernie Sanders grabs first major labor endoresement"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "NYTimes|1348",
+      "feed": 5,
+      "dist": 0.7322976162843345,
+      "title": "John Kasich\u2019s Appeal to Moderates Gains Traction in New Hampshire"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "WallStreetJournal|541",
+      "feed": 8,
+      "dist": 0.9717326340245264,
+      "title": "Bleak Debt Outlook for Greece Raises Pressure on Europe"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "DailyNews|3378",
+      "feed": 2,
+      "dist": 0.8082416650347658,
+      "title": "Hillary Clinton blasts Scott Walker for higher ed record"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "NYTimes|1285",
+      "feed": 5,
+      "dist": 0.9330031315191392,
+      "title": "President Obama\u2019s Letter to the Editor"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "ChicagoTribune|1251",
+      "feed": 1,
+      "dist": 0.8853644813363107,
+      "title": "Sen. Mark Kirk's aide: From caregiver to campaign worker"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "WallStreetJournal|461",
+      "feed": 8,
+      "dist": 0.9223529914381132,
+      "title": "Iraq Cabinet Backs Wide Overhauls"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "NYPost|3809",
+      "feed": 4,
+      "dist": 0.7688849511317875,
+      "title": "Carly Fiorina builds up New York campaign staff"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "ChicagoTribune|1258",
+      "feed": 1,
+      "dist": 0.9507278145635132,
+      "title": "CPS plans to quit picking up pension payments for nonunion staff"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "NYPost|3351",
+      "feed": 4,
+      "dist": 0.9506948965798244,
+      "title": "The fraudulent \u2018reform\u2019 on NYC\u2019s \u2018Renewal\u2019 schools"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "NYPost|3673",
+      "feed": 4,
+      "dist": 0.7209050398308359,
+      "title": "Donald Trump tears into \u2018weak\u2019 Bernie Sanders"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "WallStreetJournal|558",
+      "feed": 8,
+      "dist": 0.9077083390779459,
+      "title": "Myanmar Military Strengthens Grip as Election Nears"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "StLouisPost|4122",
+      "feed": 6,
+      "dist": 0.92483122829631,
+      "title": "First lady's healthy kids director understands good eating"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "USAToday|2022",
+      "feed": 7,
+      "dist": 0.8318868816160406,
+      "title": "Protest exposes security concern for Sanders"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "WashingtonPost|1504",
+      "feed": 9,
+      "dist": 0.7608586996298679,
+      "title": "How Jeb Bush is trying, and failing, to escape his brother\u2019s shadow on Iraq"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "DailyNews|3225",
+      "feed": 2,
+      "dist": 0.9618402470111652,
+      "title": "Haitian New Yorkers to protest crisis in Dominican Republic"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "WashingtonPost|1396",
+      "feed": 9,
+      "dist": 0.7671308643985236,
+      "title": "Campaign 2016: Trump, Bernie and the Peasants with Pitchforks"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "StLouisPost|3629",
+      "feed": 6,
+      "dist": 0.9700051769723692,
+      "title": "US warns of sharp rise in separatist attacks in Ukraine"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "ChicagoTribune|1234",
+      "feed": 1,
+      "dist": 0.9773905579438736,
+      "title": "Rauner: U. of I. should reject chancellor bonus"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "NYPost|3924",
+      "feed": 4,
+      "dist": 0.9700395622511614,
+      "title": "Health law sign-ups keep growing as uninsured rate declines"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "StLouisPost|3650",
+      "feed": 6,
+      "dist": 0.9074264375200858,
+      "title": "Clinton signs court statement that she's turned over emails"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "USAToday|1839",
+      "feed": 7,
+      "dist": 0.9907323682592988,
+      "title": "Study says Germany profited from Greek crisis"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "StLouisPost|4126",
+      "feed": 6,
+      "dist": 0.9792372740927824,
+      "title": "US, Chile put spotlight on extremist attacks on LGBT people"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "WallStreetJournal|470",
+      "feed": 8,
+      "dist": 0.8662127887261635,
+      "title": "In Iran, Voices Rise Against Nuclear Deal"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "LATimes|4301",
+      "feed": 3,
+      "dist": 0.9708079031270672,
+      "title": "With road repairs on California's to do list, local officials push for new funds"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "StLouisPost|3750",
+      "feed": 6,
+      "dist": 0.9454407083058576,
+      "title": "Schumer: If US quits deal, US sanctions still will hurt Iran"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "StLouisPost|3498",
+      "feed": 6,
+      "dist": 0.9449151707134928,
+      "title": "Top Minnesota officials sort out sex offender program's fate"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "StLouisPost|3817",
+      "feed": 6,
+      "dist": 0.8859160903835501,
+      "title": "US official: FBI has Hillary Clinton emails from home server"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "WashingtonPost|1260",
+      "feed": 9,
+      "dist": 0.9016561988554528,
+      "title": "Trump University: Why the N.Y. attorney general called it a scam"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "NYPost|3915",
+      "feed": 4,
+      "dist": 0.9641094627225196,
+      "title": "ISIS likely used chemical weapon against Kurds in Iraq: US officials"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "StLouisPost|4247",
+      "feed": 6,
+      "dist": 0.7327911073940468,
+      "title": "Clinton wants scholarships, child care for student parents"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "NYPost|3901",
+      "feed": 4,
+      "dist": 0.9396791760953984,
+      "title": "Pope\u2019s address at Capitol is hottest ticket in Washington"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "USAToday|1697",
+      "feed": 7,
+      "dist": 0.8074850407991829,
+      "title": "Huckabee: I'm angry too"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "WallStreetJournal|561",
+      "feed": 8,
+      "dist": 0.9796808769820798,
+      "title": "Eurozone Ministers Back Greece Bailout"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "DailyNews|3729",
+      "feed": 2,
+      "dist": 0.9521980088406159,
+      "title": "Fidel Castro turns 89, celebrates by bashing U.S."
+    },
+    {
+      "date": "2015-08-11",
+      "name": "WashingtonPost|1370",
+      "feed": 9,
+      "dist": 0.9041861244067612,
+      "title": "Republican plan to eliminate IRS union, as it elects new leadership, could threaten federal unions generally"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "NYPost|4048",
+      "feed": 4,
+      "dist": 0.8424745762986549,
+      "title": "Will Chirlane McCray run for mayor?"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "StLouisPost|3914",
+      "feed": 6,
+      "dist": 0.9777518077137056,
+      "title": "States get $28M in grants to defray AP exam costs"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "DailyNews|3125",
+      "feed": 2,
+      "dist": 0.8285828862877173,
+      "title": "Black Lives Matter activists take over Bernie Sanders rally"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "LATimes|4775",
+      "feed": 3,
+      "dist": 0.8950367014019822,
+      "title": "President Obama to visit Alaska's Arctic region in bid to fight climate change"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "USAToday|2077",
+      "feed": 7,
+      "dist": 0.95279521207188,
+      "title": "U.S. looking into Kurds' mustard gas claims"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "LATimes|4579",
+      "feed": 3,
+      "dist": 0.82430329394465,
+      "title": "Clinton's campaign-trail moment with manslaughter convict highlights drug abuse issue"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "LATimes|4559",
+      "feed": 3,
+      "dist": 0.8417529711641607,
+      "title": "What was that Whitewater thing again? Millennials don't know the Hillary Clinton you do"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "WallStreetJournal|510",
+      "feed": 8,
+      "dist": 0.9093110716352801,
+      "title": "Indonesia President Reshuffles Cabinet"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "LATimes|4553",
+      "feed": 3,
+      "dist": 0.9668210721122522,
+      "title": "Obama reiterates his call for the restoration of full Voting Rights Act"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "StLouisPost|3942",
+      "feed": 6,
+      "dist": 0.9473760994288966,
+      "title": "Editorial Roundup: Excerpts from recent editorials"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "LATimes|4627",
+      "feed": 3,
+      "dist": 0.7692652390873183,
+      "title": "Bernie Sanders' supporters aren't just 'mad as hell' -- they like his policies too"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "NYPost|3611",
+      "feed": 4,
+      "dist": 0.9592816239532534,
+      "title": "Even the Taliban is disgusted by latest ISIS snuff video"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "StLouisPost|3820",
+      "feed": 6,
+      "dist": 0.9800571824392159,
+      "title": "Proposed UN statement would back preparatory talks on Syria"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "NYPost|3956",
+      "feed": 4,
+      "dist": 0.6088849336226324,
+      "title": "Mike Huckabee promises to be nice to Donald Trump"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "NYTimes|1284",
+      "feed": 5,
+      "dist": 0.9407186061692432,
+      "title": "U.S. Jets Meet Limit as Iraqi Ground Fight Against ISIS Plods On"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "DailyNews|3458",
+      "feed": 2,
+      "dist": 0.6882244907391966,
+      "title": "Trump hits Bush on women's health gaffe"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "StLouisPost|3968",
+      "feed": 6,
+      "dist": 0.9625078627897276,
+      "title": "Civil rights leaders slam House's third-ranking Republican"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "WashingtonPost|1285",
+      "feed": 9,
+      "dist": 0.7422570011651398,
+      "title": "Inside Trump\u2019s orbit, growing pains for a sudden front-runner"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "StLouisPost|4232",
+      "feed": 6,
+      "dist": 0.956957158386968,
+      "title": "Bad fire season running through US firefighting budget"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "LATimes|4403",
+      "feed": 3,
+      "dist": 0.7765144625340114,
+      "title": "Snapchat digital sticker ad by foes of Iran deal gets 2.6 million views"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "LATimes|4637",
+      "feed": 3,
+      "dist": 0.8600372561223397,
+      "title": "Summer White House no big deal on Martha's Vineyard"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "StLouisPost|3669",
+      "feed": 6,
+      "dist": 0.9092499740949928,
+      "title": "Poll: NY voters believe Uber limits motivated by donations"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "USAToday|2071",
+      "feed": 7,
+      "dist": 0.9324386376230128,
+      "title": "Florida campus-carry gun bills reintroduced for next legislative session"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "DailyNews|3435",
+      "feed": 2,
+      "dist": 0.983068205863312,
+      "title": "Judge asked to consider national security for Palestine fine"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "USAToday|1948",
+      "feed": 7,
+      "dist": 0.9749414270208252,
+      "title": "Obama to host South Korea president Oct. 16"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "NYPost|3930",
+      "feed": 4,
+      "dist": 0.901155103794848,
+      "title": "Bill de Blasio\u2019s rancid $150,000 hire"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "StLouisPost|4102",
+      "feed": 6,
+      "dist": 0.9765782917592852,
+      "title": "US presses China on human rights ahead of leaders' summit"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "StLouisPost|3588",
+      "feed": 6,
+      "dist": 0.8781001753318395,
+      "title": "Michigan lawmaker won't resign after effort to smear self"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "USAToday|1824",
+      "feed": 7,
+      "dist": 0.971137876670504,
+      "title": "Miss. duo charged with trying to join ISIL"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "DailyNews|3525",
+      "feed": 2,
+      "dist": 0.7075713394226651,
+      "title": "GOP blasts Clinton after she turns over personal server"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "NYTimes|1197",
+      "feed": 5,
+      "dist": 0.5804041026906523,
+      "title": "First Draft: Today in Politics: Donald Trump\u2019s Comments Follow Other Candidates on the Trail"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "NYPost|3232",
+      "feed": 4,
+      "dist": 0.4620608511362672,
+      "title": "Trump uninvited to GOP gathering after Megyn Kelly comments"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "WashingtonPost|1344",
+      "feed": 9,
+      "dist": 0.8588551489198353,
+      "title": "Kelley gives farewell NTEU speech, as Senate Republicans say IRS should not be unionized"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "USAToday|1816",
+      "feed": 7,
+      "dist": 0.7693786713018824,
+      "title": "Ted Cruz energizes conservative base in Tenn."
+    },
+    {
+      "date": "2015-08-11",
+      "name": "StLouisPost|3711",
+      "feed": 6,
+      "dist": 0.6370881326815465,
+      "title": "Donald Trump returns to Fox News after flap"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "StLouisPost|4163",
+      "feed": 6,
+      "dist": 0.950965633062956,
+      "title": "Notorious inmate's lawyer says officials knew he was target"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "NYTimes|1228",
+      "feed": 5,
+      "dist": 0.9259699629905952,
+      "title": "Japan Restarts Reactor, Lifting 2-Year Ban on Nuclear Power"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "WashingtonPost|1279",
+      "feed": 9,
+      "dist": 0.6785228969098975,
+      "title": "After caution, slipping polls, Clinton goes on the offense"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "NYTimes|1272",
+      "feed": 5,
+      "dist": 0.9484627056498997,
+      "title": "New Diplomacy Seen on U.S.-Russian Efforts to End Syrian Civil War"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "WashingtonPost|1474",
+      "feed": 9,
+      "dist": 0.9810111915636662,
+      "title": "U.S. raises concern about Iranian\u2019s reported visit to Moscow"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "WashingtonPost|1371",
+      "feed": 9,
+      "dist": 0.8820492229185349,
+      "title": "NTEU elects Tony Reardon as its new president"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "ChicagoTribune|1086",
+      "feed": 1,
+      "dist": 0.9355436143860636,
+      "title": "Islamic State's influence stretching thousands of miles to Indonesia"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "WallStreetJournal|481",
+      "feed": 8,
+      "dist": 0.8326075802939165,
+      "title": "Ruling Party Candidate Leads Argentina Primaries"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "NYTimes|1147",
+      "feed": 5,
+      "dist": 0.5021823990110228,
+      "title": "First Draft: Marco Rubio: Won\u2019t Comment on Everything Donald Trump Says"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "StLouisPost|3997",
+      "feed": 6,
+      "dist": 0.7098252276820318,
+      "title": "Fair time in Iowa! A chance to heckle would-be presidents"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "NYPost|3491",
+      "feed": 4,
+      "dist": 0.6283475909804977,
+      "title": "\u2018Alpha dog\u2019 Donald Trump suddenly can\u2019t take the heat"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "NYTimes|1327",
+      "feed": 5,
+      "dist": 0.8597810719239988,
+      "title": "In Efforts to Sway Iran Debate, Big-Money Donors Are Heard"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "NYPost|3374",
+      "feed": 4,
+      "dist": 0.796396564789375,
+      "title": "Trump\u2019s haters need to man up and deal"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "USAToday|1829",
+      "feed": 7,
+      "dist": 0.9524400956720086,
+      "title": "Reports: Deal reached on Greek bailout"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "USAToday|1690",
+      "feed": 7,
+      "dist": 0.4789588212487267,
+      "title": "Trump dumped from Red State event over Kelly 'blood' comment"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "WallStreetJournal|492",
+      "feed": 8,
+      "dist": 0.9898065179742268,
+      "title": "Russia, Saudi to Help Syria Resume Talks"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "DailyNews|3831",
+      "feed": 2,
+      "dist": 0.8656328397232907,
+      "title": "ISIS leader raped U.S. hostage Kayla Mueller: report"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "NYPost|4015",
+      "feed": 4,
+      "dist": 0.681022203770979,
+      "title": "Democrats actually thinking of having Al Gore run for president"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "NYPost|3321",
+      "feed": 4,
+      "dist": 0.5424256396096305,
+      "title": "Trump declares: \u2018I will be phenomenal to the women\u2019"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "USAToday|1998",
+      "feed": 7,
+      "dist": 0.8655620795461066,
+      "title": "Fact check: Bush, Clinton play blame game on Iraq"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "USAToday|1937",
+      "feed": 7,
+      "dist": 0.8699549489477774,
+      "title": "Schumer a lightning rod over debate on Iran nuclear deal"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "StLouisPost|4241",
+      "feed": 6,
+      "dist": 0.9879188059269028,
+      "title": "Deal reached in Arab Bank lawsuit over attacks on Americans"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "WashingtonPost|1284",
+      "feed": 9,
+      "dist": 0.9838436057846344,
+      "title": "Without enforcement, minimum-wage laws are often ignored by employers"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "StLouisPost|3600",
+      "feed": 6,
+      "dist": 0.9728331706649794,
+      "title": "New Jersey lawmakers hear from Amtrak exec on tunnel woes"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "USAToday|1706",
+      "feed": 7,
+      "dist": 0.9019773876559624,
+      "title": "College Board changes AP US History curriculum again"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "NYTimes|1334",
+      "feed": 5,
+      "dist": 0.8808259095391838,
+      "title": "Influential Leader in Myanmar Is Removed as Chairman of Governing Party"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "USAToday|1810",
+      "feed": 7,
+      "dist": 0.8413684343932041,
+      "title": "Teen indicted for giving pot brownie to teacher"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "NYPost|3806",
+      "feed": 4,
+      "dist": 0.922637843626008,
+      "title": "Hondo makes an A\u2019s play"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "StLouisPost|3996",
+      "feed": 6,
+      "dist": 0.9539521640341394,
+      "title": "US lawmakers quick to criticize China on currency drop"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "StLouisPost|4277",
+      "feed": 6,
+      "dist": 0.9726748886684036,
+      "title": "China plays down US human rights concerns"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "WallStreetJournal|531",
+      "feed": 8,
+      "dist": 0.9735185278792668,
+      "title": "Indian Politics Hamper Modi's Overhaul"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "WallStreetJournal|483",
+      "feed": 8,
+      "dist": 0.9662327480615468,
+      "title": "Afghan Leader Blames Pakistan for Bombings"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "StLouisPost|4040",
+      "feed": 6,
+      "dist": 0.9321181659394572,
+      "title": "1st presidential visit to Arctic to focus on global warming"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "USAToday|1992",
+      "feed": 7,
+      "dist": 0.9413782724125744,
+      "title": "Japanese PM to acknowledge wartime aggression"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "WashingtonPost|1324",
+      "feed": 9,
+      "dist": 0.8793956766301071,
+      "title": "The middle-class housing empire Donald Trump abandoned for luxury building"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "DailyNews|3431",
+      "feed": 2,
+      "dist": 0.7461738675235583,
+      "title": "Trump to Black Lives Matter : I won't give up my microphone"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "WashingtonPost|1514",
+      "feed": 9,
+      "dist": 0.7839576255433576,
+      "title": "Clintons and Obamas to mingle on Martha\u2019s Vineyard this weekend"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "NYTimes|1326",
+      "feed": 5,
+      "dist": 0.9494730903065488,
+      "title": "U.S. Says Iranian Military Figure\u2019s Visit to Russia Violates U.N. Ban"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "WallStreetJournal|477",
+      "feed": 8,
+      "dist": 0.9676272137783368,
+      "title": "Germany's Top Prosecutor Drops Treason Probe of Netzpolitik Bloggers"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "NYPost|3946",
+      "feed": 4,
+      "dist": 0.8636605397541074,
+      "title": "Bill and Hillary Clinton spending $100K on Hamptons rental"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "NYPost|3500",
+      "feed": 4,
+      "dist": 0.93885041861265,
+      "title": "The anti-Semitic drive to make Schumer shut up on the Iran deal"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "WallStreetJournal|556",
+      "feed": 8,
+      "dist": 0.9070095769395452,
+      "title": "Brazilians Plan Mass Protests Against Rousseff"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "DailyNews|3583",
+      "feed": 2,
+      "dist": 0.6701111303405874,
+      "title": "Bernie Sanders building moment among voters"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "BostonHerald|3591",
+      "feed": 0,
+      "dist": 0.7532165737267028,
+      "title": "Clinton campaign seeks to calm supporters about emails"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "NYPost|3208",
+      "feed": 4,
+      "dist": 0.8289024589065459,
+      "title": "Schumer ducks appearance after announcing Iran deal opposition"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "WallStreetJournal|515",
+      "feed": 8,
+      "dist": 0.894090807426758,
+      "title": "War Anniversary Revives Apology Debate in Japan"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "LATimes|4500",
+      "feed": 3,
+      "dist": 0.8399962333336713,
+      "title": "New Donald Trump bio moved up again, will be published Sept. 22"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "NYTimes|1251",
+      "feed": 5,
+      "dist": 0.9152460473172176,
+      "title": "Iraqi Parliament Unanimously Approves Government Overhaul"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "NYTimes|1161",
+      "feed": 5,
+      "dist": 0.4858423236495769,
+      "title": "Trump Remains Defiant on News Programs Amid G.O.P. Backlash"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "StLouisPost|3961",
+      "feed": 6,
+      "dist": 0.9653480115520866,
+      "title": "UN statement on Syria delayed over Venezuela objections"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "WashingtonPost|1442",
+      "feed": 9,
+      "dist": 0.8955119188129129,
+      "title": "Scott Walker&#8217;s real record on higher education in Wisconsin"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "LATimes|4397",
+      "feed": 3,
+      "dist": 0.9203776963758457,
+      "title": "Without immigration reform, California citizenship will have to do"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "StLouisPost|3653",
+      "feed": 6,
+      "dist": 0.8831474870306287,
+      "title": "Guilty plea in scheme to steal more than $1M in donations"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "StLouisPost|3963",
+      "feed": 6,
+      "dist": 0.7624513145901907,
+      "title": "In Nevada, Bush says key to winning is to campaign with joy"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "WashingtonPost|1425",
+      "feed": 9,
+      "dist": 0.9765717135677888,
+      "title": "Security-clearance firm accused of fraud settles with Justice Department"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "USAToday|1800",
+      "feed": 7,
+      "dist": 0.8732500020835042,
+      "title": "Sanders promotes racial justice policies"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "NYPost|3934",
+      "feed": 4,
+      "dist": 0.7106987353862533,
+      "title": "\u2018Amnesty\u2019 may be the key to winning the GOP nomination"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "USAToday|2047",
+      "feed": 7,
+      "dist": 0.9554136223473072,
+      "title": "Things to know about Social Security at 80: Overhaul time?"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "WallStreetJournal|519",
+      "feed": 8,
+      "dist": 0.9442062178256776,
+      "title": "Syriza Has Shredded All Its Red Lines"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "NYPost|3630",
+      "feed": 4,
+      "dist": 0.905695146808626,
+      "title": "Hillary Clinton\u2019s empty excuses on e-mailing classified info"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "WashingtonPost|1336",
+      "feed": 9,
+      "dist": 0.9832692716440532,
+      "title": "Homeland Security amps up security for visa-free program for millions of travelers"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "ChicagoTribune|1183",
+      "feed": 1,
+      "dist": 0.9743476883503632,
+      "title": "Rauner says CPS shouldn't have 'dictatorial powers' over finances"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "StLouisPost|4188",
+      "feed": 6,
+      "dist": 0.8231938530722526,
+      "title": "How Donald Trump was present at the TV Critics meetings"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "ChicagoTribune|1173",
+      "feed": 1,
+      "dist": 0.9565121536775116,
+      "title": "New details emerge in Aaron Schock case"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "StLouisPost|4276",
+      "feed": 6,
+      "dist": 0.9811408326806206,
+      "title": "Arkansas ending Medicaid payments to Planned Parenthood"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "WashingtonPost|1454",
+      "feed": 9,
+      "dist": 0.9402338643569982,
+      "title": "University of Texas bumps Confederate statue to indoor exhibit"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "BostonHerald|3612",
+      "feed": 0,
+      "dist": 0.7019468823261013,
+      "title": "Kasich defends immigrants as &#039;contributing significantly&#039;"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "NYTimes|1152",
+      "feed": 5,
+      "dist": 0.7434155833223107,
+      "title": "Similarities Aside, Bernie Sanders Isn\u2019t Rerunning Howard Dean\u2019s 2004 Race"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "StLouisPost|3596",
+      "feed": 6,
+      "dist": 0.9709450890384748,
+      "title": "CVS Health to pay government $450,000 to settle dispute"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "NYPost|3865",
+      "feed": 4,
+      "dist": 0.8809024194276643,
+      "title": "Hillary Clinton turns in \u2018blank\u2019 email server to investigators"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "USAToday|1828",
+      "feed": 7,
+      "dist": 0.5655572514201919,
+      "title": "Trump and Fox work to repair strained relationship"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "StLouisPost|3757",
+      "feed": 6,
+      "dist": 0.7267724478162169,
+      "title": "Perry's cash-strapped 2016 campaign stops paying staffers"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "NYPost|3905",
+      "feed": 4,
+      "dist": 0.9723858865070386,
+      "title": "Suspected ISIS truck bomb kills dozens at Baghdad market"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "USAToday|1746",
+      "feed": 7,
+      "dist": 0.4486211236313356,
+      "title": "Trump, the political hurricane, still rages"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "StLouisPost|3822",
+      "feed": 6,
+      "dist": 0.9791600905524424,
+      "title": "Homeland Security boss excused from immigration suit hearing"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "NYPost|3377",
+      "feed": 4,
+      "dist": 0.5438795604614121,
+      "title": "GOP chair doesn\u2019t think Trump will be the party\u2019s nominee"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "ChicagoTribune|1213",
+      "feed": 1,
+      "dist": 0.7857598950817026,
+      "title": "'Little House on the Prairie' star Melissa Gilbert to run for Congress"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "WallStreetJournal|484",
+      "feed": 8,
+      "dist": 0.9610232700513484,
+      "title": "Druse Struggle to Stay Neutral in Syria"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "WallStreetJournal|522",
+      "feed": 8,
+      "dist": 0.9649397922939386,
+      "title": "U.N. Ousts Head of Central African Republic Peacekeeping Mission"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "LATimes|4081",
+      "feed": 3,
+      "dist": 0.9418180782147104,
+      "title": "Questions about Malaysian prime minister don't stop at Flight 370"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "NYPost|3643",
+      "feed": 4,
+      "dist": 0.9084442664361532,
+      "title": "Schumer and Christie battle over tunnels"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "LATimes|4560",
+      "feed": 3,
+      "dist": 0.7972740793844808,
+      "title": "In Jeb Bush's foreign policy speech, George W. Bush goes missing"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "LATimes|4327",
+      "feed": 3,
+      "dist": 0.7569075543077943,
+      "title": "GOP's Trump problem will fade, but Democrats' Bernie Sanders troubles are just beginning"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "DailyNews|3232",
+      "feed": 2,
+      "dist": 0.8675200152134109,
+      "title": "Clinton to propose $350 billion college affordability plan"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "ChicagoTribune|1182",
+      "feed": 1,
+      "dist": 0.9784353468422116,
+      "title": "University of Illinois board to vote on $400,000 for Chancellor Wise"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "LATimes|4662",
+      "feed": 3,
+      "dist": 0.9777071149552622,
+      "title": "Syrian rebels fire rockets, mortar shells into Damascus; at least five dead"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "WashingtonPost|1253",
+      "feed": 9,
+      "dist": 0.7276825520648756,
+      "title": "As campaign heats up, Republican candidates are rushing to the right"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "USAToday|2076",
+      "feed": 7,
+      "dist": 0.9890871285012388,
+      "title": "Sen. Sherrod Brown says he'll back Iran deal"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "NYTimes|1146",
+      "feed": 5,
+      "dist": 0.6934389975076941,
+      "title": "Jeb Bush Gets Applause at Conservative Forum"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "WashingtonPost|1254",
+      "feed": 9,
+      "dist": 0.6739179928687257,
+      "title": "After months of obscurity, Carly Fiorina emerges as a GOP contender"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "StLouisPost|3762",
+      "feed": 6,
+      "dist": 0.9491479030589659,
+      "title": "Kerry warns of consequences of Congress votes down Iran deal"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "USAToday|1951",
+      "feed": 7,
+      "dist": 0.7751193373459773,
+      "title": "Poll: Walker drops, Trump rises in Iowa"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "NYTimes|1267",
+      "feed": 5,
+      "dist": 0.9509449820871544,
+      "title": "Schumer Says Corporation Should Oversee Hudson Tunnels Project"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "WashingtonPost|1363",
+      "feed": 9,
+      "dist": 0.9256435073663308,
+      "title": "Retired generals and admirals back Iran nuclear deal"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "BostonHerald|3208",
+      "feed": 0,
+      "dist": 0.8716060449563163,
+      "title": "Sanders talks at rally after activists disrupt earlier event"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "NYPost|3570",
+      "feed": 4,
+      "dist": 0.934369698411465,
+      "title": "Obama\u2019s Gitmo d\u00e9j\u00e0 vu"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "WallStreetJournal|508",
+      "feed": 8,
+      "dist": 0.8776907407578879,
+      "title": "Australia's Abbott Under Fire After Gay-Marriage Vote Blocked"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "BostonHerald|3495",
+      "feed": 0,
+      "dist": 0.8134546033145206,
+      "title": "Kasich defends Medicaid, calls view of Republicans &#039;distorted&#039;"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "NYPost|3186",
+      "feed": 4,
+      "dist": 0.928843897464848,
+      "title": "How Cuomo\u2019s minimum-wage hike can help the GOP"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "StLouisPost|3518",
+      "feed": 6,
+      "dist": 0.5626517773576221,
+      "title": "Trump gets backlash for slamming TV anchor popular with GOP"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "StLouisPost|4157",
+      "feed": 6,
+      "dist": 0.8727794344466625,
+      "title": "In speech, Rubio slams Obama's outreach to Iran and Cuba"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "DailyNews|3611",
+      "feed": 2,
+      "dist": 0.7512927461700416,
+      "title": "Donald Trump would consider a woman as a running mate"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "StLouisPost|3427",
+      "feed": 6,
+      "dist": 0.497885996374036,
+      "title": "Trump barred from conservative gathering after latest barb"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "NYTimes|1195",
+      "feed": 5,
+      "dist": 0.9624279501014604,
+      "title": "Gun Battle Breaks Out at U.S. Consulate in Istanbul"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "NYTimes|1139",
+      "feed": 5,
+      "dist": 0.7134065248069069,
+      "title": "First Draft: Did Roger Stone Jump, or Was He Pushed From Donald Trump\u2019s Campaign?"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "NYTimes|1245",
+      "feed": 5,
+      "dist": 0.5977493468200885,
+      "title": "First Draft: Donald Trump, Pivoting Toward Policy, Urges Simpler Tax Code"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "WashingtonPost|1472",
+      "feed": 9,
+      "dist": 0.7212412995203795,
+      "title": "Ben Carson, riding a fresh surge in the polls, braces for his close-up"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "StLouisPost|3830",
+      "feed": 6,
+      "dist": 0.8841634747161634,
+      "title": "2 ex-presidents witness wounded veteran's marriage proposal"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "StLouisPost|3563",
+      "feed": 6,
+      "dist": 0.4671207670520842,
+      "title": "Trump won't apologize for Kelly comment"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "NYTimes|1331",
+      "feed": 5,
+      "dist": 0.965605149701822,
+      "title": "Market Truck Bomb Kills at Least 60 in Baghdad's Sadr City: Sources"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "DailyNews|3829",
+      "feed": 2,
+      "dist": 0.8242979739106046,
+      "title": "Donald Trump will serve jury duty in NYC next week"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "StLouisPost|4220",
+      "feed": 6,
+      "dist": 0.9728770261167958,
+      "title": "US eases crude oil export ban; allows trading with Mexico"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "LATimes|5002",
+      "feed": 3,
+      "dist": 0.8594421933376036,
+      "title": "Who's to blame for losing Iraq? Jeb Bush should ask his brother."
+    },
+    {
+      "date": "2015-08-11",
+      "name": "LATimes|4450",
+      "feed": 3,
+      "dist": 0.9645222624997906,
+      "title": "Bills seek to turn U.S. land over to 11 states; group raises questions"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "StLouisPost|4206",
+      "feed": 6,
+      "dist": 0.9346729402347359,
+      "title": "Kerry to Cubans: It's time to end 'mutual isolation'"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "StLouisPost|4013",
+      "feed": 6,
+      "dist": 0.9638865736377634,
+      "title": "Citizens Bank to pay $34.5 million in deposit discrepancy"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "NYTimes|1364",
+      "feed": 5,
+      "dist": 0.9269756563500714,
+      "title": "Shinzo Abe\u2019s Bid to Redefine Japan and Its Military Has Echoes of Family History"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "WashingtonPost|1276",
+      "feed": 9,
+      "dist": 0.9686021168625816,
+      "title": "Washington-area appointments and promotions for Aug. 10, 2015"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "USAToday|1968",
+      "feed": 7,
+      "dist": 0.9466467482468554,
+      "title": "Tribe warns residents not to use EPA forms after spill"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "LATimes|4091",
+      "feed": 3,
+      "dist": 0.5998786012417041,
+      "title": "Carly Fiorina jumps on gender controversies in Republican presidential field"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "LATimes|4388",
+      "feed": 3,
+      "dist": 0.9965978248866136,
+      "title": "Fixing the No Child Left Behind law: How the House and Senate plans differ"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "LATimes|4959",
+      "feed": 3,
+      "dist": 0.9213707410585352,
+      "title": "Do 'ballot selfies' threaten the secret ballot?"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "LATimes|4045",
+      "feed": 3,
+      "dist": 0.7085045593139814,
+      "title": "The emerging movers and shakers in presidential race: social media"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "WashingtonPost|1272",
+      "feed": 9,
+      "dist": 0.5876651758277093,
+      "title": "Trump\u2019s embracing of his id is paying off, but it\u2019s a shortsighted approach"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "DailyNews|3433",
+      "feed": 2,
+      "dist": 0.8623823195842957,
+      "title": "Hillary Clinton turning email server over to Justice Dept."
+    },
+    {
+      "date": "2015-08-13",
+      "name": "DailyNews|3620",
+      "feed": 2,
+      "dist": 0.98544829478673,
+      "title": "EXCLUSIVE: Pols want feds to ease Puerto Rico health crunch"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "StLouisPost|4230",
+      "feed": 6,
+      "dist": 0.9782469783829166,
+      "title": "UN rights experts to Iran: Immediately release US reporter"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "BostonHerald|3755",
+      "feed": 0,
+      "dist": 0.6209544236200244,
+      "title": "Column: TV may be too timid to cover Trump"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "USAToday|1920",
+      "feed": 7,
+      "dist": 0.5120876902462055,
+      "title": "Poll: Trump has (smaller) lead in New Hampshire"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "BostonHerald|3764",
+      "feed": 0,
+      "dist": 0.8151059317263268,
+      "title": "Trump\u2019s \u2018going to shake things up,\u2019 say fans at N.H. rally"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "DailyNews|3416",
+      "feed": 2,
+      "dist": 0.948334856439368,
+      "title": "Trump and Ivana's starter home is on market for $54M"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "ChicagoTribune|1241",
+      "feed": 1,
+      "dist": 0.7422423809545682,
+      "title": "US official: FBI has Hillary Clinton emails from home server"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "StLouisPost|4104",
+      "feed": 6,
+      "dist": 0.9622789836409856,
+      "title": "Legalized marijuana proposal clears a hurdle for Ohio ballot"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "StLouisPost|3925",
+      "feed": 6,
+      "dist": 0.9721384520646728,
+      "title": "US lawmakers seek return of funds seized from dairy farm"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "WallStreetJournal|545",
+      "feed": 8,
+      "dist": 0.9369390051751596,
+      "title": "Greek Deal's Legacy May Be a More Political Eurozone"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "USAToday|1890",
+      "feed": 7,
+      "dist": 0.6241583945565612,
+      "title": "Trump tells Michigan he'll do well with Latinos, women"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "USAToday|1682",
+      "feed": 7,
+      "dist": 0.7128416890410518,
+      "title": "Trump on Megyn Kelly: She had \"blood coming out of her wherever\""
+    },
+    {
+      "date": "2015-08-12",
+      "name": "ChicagoTribune|1250",
+      "feed": 1,
+      "dist": 0.8029528994422114,
+      "title": "Bush says we may need more troops in Iraq, blames Clinton for Islamic State"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "WallStreetJournal|540",
+      "feed": 8,
+      "dist": 0.9716284972470044,
+      "title": "Ch\u00e1vez Critic Released From Venezuela Prison"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "StLouisPost|3697",
+      "feed": 6,
+      "dist": 0.9494643267640598,
+      "title": "No-fly list case could shed light on US terror predictions"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "WashingtonPost|1430",
+      "feed": 9,
+      "dist": 0.8842643839674492,
+      "title": "Hillary Clinton\u2019s e-mail server turned over to FBI"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "NYTimes|1242",
+      "feed": 5,
+      "dist": 0.5131122929933329,
+      "title": "First Draft: Today in Politics: Donald Trump\u2019s Busy Week Aligns With His Opponents\u2019 Growing Unease"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "NYPost|3780",
+      "feed": 4,
+      "dist": 0.8638317977474156,
+      "title": "Hillary Clinton\u2019s top-secret sins"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "USAToday|1823",
+      "feed": 7,
+      "dist": 0.8146880592266884,
+      "title": "Reports: Rick Perry is no longer paying campaign staff"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "DailyNews|3106",
+      "feed": 2,
+      "dist": 0.5445279843527783,
+      "title": "Jeb Bush demands Donald Trump apologize for Megyn Kelly rant"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "DailyNews|3213",
+      "feed": 2,
+      "dist": 0.94677376477642,
+      "title": "Lovett: Sen. Dean Skelos still gets perks despite charges"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "NYPost|4035",
+      "feed": 4,
+      "dist": 0.8004533505331701,
+      "title": "Donald Trump\u2019s rant has Rosie O\u2019Donnell seeing red: \u2018There is a war on women\u2019"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "ChicagoTribune|1115",
+      "feed": 1,
+      "dist": 0.9545277205499736,
+      "title": "Saddam Hussein's former officers find home leading Islamic State"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "NYTimes|1134",
+      "feed": 5,
+      "dist": 0.8552723462537322,
+      "title": "Hillary Clinton Emails Take Long Path to Controversy"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "WashingtonPost|1515",
+      "feed": 9,
+      "dist": 0.9777050331096334,
+      "title": "U.S. approves oil exports to Mexico"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "DailyNews|3612",
+      "feed": 2,
+      "dist": 0.669739462051723,
+      "title": "Trump knocks Walker out of first place in Iowa: poll"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "BostonHerald|3541",
+      "feed": 0,
+      "dist": 0.6007543436149876,
+      "title": "Fiorina attacked by Dems after surge in polling"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "StLouisPost|4222",
+      "feed": 6,
+      "dist": 0.8722179902558224,
+      "title": "Embattled Michigan lawmaker says she won't quit over affair"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "NYTimes|1391",
+      "feed": 5,
+      "dist": 0.9400892901824222,
+      "title": "Shinzo Abe Echoes Japan\u2019s Past WWII Apologies but Adds None of His Own"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "USAToday|2004",
+      "feed": 7,
+      "dist": 0.6963515325816803,
+      "title": "Jeb Bush remains a primary Republican target"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "NYPost|3290",
+      "feed": 4,
+      "dist": 0.8608878114891398,
+      "title": "I was wrong about Schumer, and it feels so good"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "StLouisPost|3631",
+      "feed": 6,
+      "dist": 0.8082503695210174,
+      "title": "Bernie Sanders picks up first major labor endorsement"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "WallStreetJournal|496",
+      "feed": 8,
+      "dist": 0.9753921154004976,
+      "title": "Iran's Foreign Minister Postpones Talks in Turkey"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "LATimes|4657",
+      "feed": 3,
+      "dist": 0.9457235581238094,
+      "title": "Boko Haram mystery: Where -- or who -- is African terrorist group's leader?"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "USAToday|1833",
+      "feed": 7,
+      "dist": 0.6343848976307508,
+      "title": "Trump and Fox News are 'friends' again"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "BostonHerald|3584",
+      "feed": 0,
+      "dist": 0.692999412354071,
+      "title": "Hillary Clinton N.H. honcho \u2018bit surprised\u2019 by Bernie Sanders poll leap"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "USAToday|1821",
+      "feed": 7,
+      "dist": 0.4590617460456684,
+      "title": "Megyn Kelly on Trump: 'I certainly will not apologize'"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "DailyNews|3607",
+      "feed": 2,
+      "dist": 0.7683655566043501,
+      "title": "Hamill: I doubted Donald Trump, guess I'm the clown"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "NYTimes|1381",
+      "feed": 5,
+      "dist": 0.9601303442597192,
+      "title": "Kerry to Strike Delicate Balance in Havana Trip for Embassy Flag-Raising"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "BostonHerald|3518",
+      "feed": 0,
+      "dist": 0.8859160856799727,
+      "title": "Clinton relents, gives up possession of private email server"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "NYTimes|1123",
+      "feed": 5,
+      "dist": 0.4717954574896327,
+      "title": "First Draft: Conservative Forum Rescinds Donald Trump\u2019s Invitation Over Remark About Megyn Kelly"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "LATimes|4480",
+      "feed": 3,
+      "dist": 0.9768135130700336,
+      "title": "Russia on diplomatic offensive to defeat Islamic State, end Syrian war"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "WallStreetJournal|480",
+      "feed": 8,
+      "dist": 0.9709253736805517,
+      "title": "Former Top Chinese General Sentenced"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "StLouisPost|3847",
+      "feed": 6,
+      "dist": 0.9475612044097762,
+      "title": "Clinton aims to cut student debt to help families"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "NYPost|4017",
+      "feed": 4,
+      "dist": 0.9451737305380944,
+      "title": "American flag flies in Cuba for first time in 54 years"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "DailyNews|3059",
+      "feed": 2,
+      "dist": 0.8424678089579122,
+      "title": "Cuomo's campaign hosting 'Hamilton' performance"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "StLouisPost|3546",
+      "feed": 6,
+      "dist": 0.9650515081806188,
+      "title": "Iraq premier offers plan to trim criticized government"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "DailyNews|3047",
+      "feed": 2,
+      "dist": 0.9373525933139614,
+      "title": "Virginia jury convicts Russian veteran in Taliban attack"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "BostonHerald|3674",
+      "feed": 0,
+      "dist": 0.8055096920108804,
+      "title": "NBC officially fires Trump from &#039;Celebrity Apprentice&#039;"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "StLouisPost|3793",
+      "feed": 6,
+      "dist": 0.6362374212563692,
+      "title": "Trump bombast overshadows GOP challenges with women"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "StLouisPost|3915",
+      "feed": 6,
+      "dist": 0.9796960880410184,
+      "title": "US budget deficit swells in July due to calendar quirk"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "LATimes|4237",
+      "feed": 3,
+      "dist": 0.6294457098714211,
+      "title": "Bernie Sanders heads to California to deliver populist message"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "BostonHerald|3352",
+      "feed": 0,
+      "dist": 0.686675467765427,
+      "title": "Martin O&#039;Malley blasts DNC over &#039;huge mistake&#039; on debates"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "BostonHerald|3422",
+      "feed": 0,
+      "dist": 0.6473555902677157,
+      "title": "Hillary Clinton blasted over abortion"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "StLouisPost|3567",
+      "feed": 6,
+      "dist": 0.9056604486431296,
+      "title": "Pope and Congress: Francis is certain to challenge lawmakers"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "LATimes|4093",
+      "feed": 3,
+      "dist": 0.9779785697630828,
+      "title": "Rory McIlroy in marquee group if he plays in PGA Championship"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "StLouisPost|3643",
+      "feed": 6,
+      "dist": 0.513882804444308,
+      "title": "CBS News to overhaul 2016 convention coverage"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "WallStreetJournal|497",
+      "feed": 8,
+      "dist": 0.6903673082374268,
+      "title": "U.K. Labour Leadership Race Exposes Party Rift"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "DailyNews|3222",
+      "feed": 2,
+      "dist": 0.5247406814840987,
+      "title": "Donald Trump: I \u2018said nothing wrong\u2019 about Megyn Kelly"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "WashingtonPost|1416",
+      "feed": 9,
+      "dist": 0.8824748964948835,
+      "title": "Gen. Ray Odierno: I disagree with Donald Trump on Iraq"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "LATimes|4847",
+      "feed": 3,
+      "dist": 0.922614405785688,
+      "title": "A dastardly plot befitting Boris and Natasha is revealed"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "ChicagoTribune|1329",
+      "feed": 1,
+      "dist": 0.9779538308407408,
+      "title": "CTU, CPS agree to bring mediator into contract talks"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "NYPost|3210",
+      "feed": 4,
+      "dist": 0.9132372830594924,
+      "title": "Schumer follows his conscience with costly \u2018nay\u2019 vote on Iran deal"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "WashingtonPost|1316",
+      "feed": 9,
+      "dist": 0.8938669768746971,
+      "title": "Hillary Clinton swears: I turned over all my required e-mails"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "NYPost|3973",
+      "feed": 4,
+      "dist": 0.9765777854582588,
+      "title": "NYC schools on the state\u2019s \u2018dangerous\u2019 list decreased"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "LATimes|4707",
+      "feed": 3,
+      "dist": 0.9419610916826228,
+      "title": "Kerry will reopen U.S. Embassy and take a stroll in Havana"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "NYPost|3261",
+      "feed": 4,
+      "dist": 0.9564022014811364,
+      "title": "Yes, the city should pony up big for the MTA"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "StLouisPost|4246",
+      "feed": 6,
+      "dist": 0.9810213150019632,
+      "title": "Coal company, Montana tribe sign onto Washington coal port"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "StLouisPost|3449",
+      "feed": 6,
+      "dist": 0.856094221692798,
+      "title": "Obama tees off on 1st full day of Martha's Vineyard vacation"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "BostonHerald|3433",
+      "feed": 0,
+      "dist": 0.9255709472325466,
+      "title": "In Obama stronghold of Massachusetts, some unsure on Iran"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "StLouisPost|3832",
+      "feed": 6,
+      "dist": 0.9764943754282556,
+      "title": "Greece accepts harsh new bailout terms, vows swift vote"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "USAToday|1722",
+      "feed": 7,
+      "dist": 0.9662696972497444,
+      "title": "Calls to abolish nukes on Nagasaki bombing 70th anniversary"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "StLouisPost|3934",
+      "feed": 6,
+      "dist": 0.9783806418359268,
+      "title": "Obama to welcome South Korean president in October"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "USAToday|2010",
+      "feed": 7,
+      "dist": 0.7622982573653823,
+      "title": "N.J. voters to Christie: Resign to run for president"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "USAToday|1805",
+      "feed": 7,
+      "dist": 0.8879409429087521,
+      "title": "Actress Melissa Gilbert announces bid for Congress"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "StLouisPost|3543",
+      "feed": 6,
+      "dist": 0.9410108058967348,
+      "title": "As it turns 50, Singapore celebrates success amid challenges"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "BostonHerald|3371",
+      "feed": 0,
+      "dist": 0.8332592747534037,
+      "title": "Clinton takes aim at college bureaucracy"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "DailyNews|3788",
+      "feed": 2,
+      "dist": 0.9278568826585382,
+      "title": "John Kerry to raise embassy flag in Cuba in victory lap"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "USAToday|1938",
+      "feed": 7,
+      "dist": 0.9454725706448904,
+      "title": "Early recording found of Martin Luther King Jr.'s 'I have a dream' speech"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "NYTimes|1328",
+      "feed": 5,
+      "dist": 0.8647154059441877,
+      "title": "Scott Walker Approves Public Funding of Basketball Arena"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "StLouisPost|4075",
+      "feed": 6,
+      "dist": 0.9413123131179104,
+      "title": "US general says Islamic State gaining in Afghanistan"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "NYTimes|1223",
+      "feed": 5,
+      "dist": 0.4684943896029936,
+      "title": "Megyn Kelly Says She Won\u2019t be Cowed by Donald Trump"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "NYTimes|1289",
+      "feed": 5,
+      "dist": 0.9367100980854396,
+      "title": "Reporting From Iran, Jewish Paper Sees No Plot to Destroy Israel"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "NYTimes|1282",
+      "feed": 5,
+      "dist": 0.9102728751824766,
+      "title": "Disenfranchised: Nine Years Ago, Republicans Favored Voting Rights. What Happened?"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "WashingtonPost|1308",
+      "feed": 9,
+      "dist": 0.9425612389033208,
+      "title": "Rob Thayer: Getting food to Syrians displaced by war"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "WallStreetJournal|557",
+      "feed": 8,
+      "dist": 0.9710175931760896,
+      "title": "Russia Steps Up Calls to Dismantle European Antimissile System"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "WashingtonPost|1510",
+      "feed": 9,
+      "dist": 0.8900865517740244,
+      "title": "How Clinton\u2019s team went from nonchalant to nervous over e-mail controversy"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "LATimes|4814",
+      "feed": 3,
+      "dist": 0.5336442290060008,
+      "title": "Fox News Channel's Megyn Kelly will be at GOP debate in January"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "USAToday|1994",
+      "feed": 7,
+      "dist": 0.9717826317506344,
+      "title": "Al-Qaeda leader purportedly pledges allegiance to Taliban"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "LATimes|4179",
+      "feed": 3,
+      "dist": 0.956675476389324,
+      "title": "Newport Beach councilman who criticized gay marriage could face reprimand"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "DailyNews|3786",
+      "feed": 2,
+      "dist": 0.7470096687874959,
+      "title": "Hillary Clinton lands key endorsement of Iowa pol Tom Harkin"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "StLouisPost|3881",
+      "feed": 6,
+      "dist": 0.96649409962671,
+      "title": "China central bank under pressure to weaken yuan further"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "WashingtonPost|1299",
+      "feed": 9,
+      "dist": 0.7295706426771045,
+      "title": "What Trump supporters are really thinking &#8212; in their own words"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "USAToday|1688",
+      "feed": 7,
+      "dist": 0.4659909687103336,
+      "title": "Trump disinvited from event after Megyn Kelly 'blood' comment"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "StLouisPost|3481",
+      "feed": 6,
+      "dist": 0.4642983744315676,
+      "title": "Trump battles criticism from rivals, former campaign aide"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "StLouisPost|3487",
+      "feed": 6,
+      "dist": 0.9520605270320938,
+      "title": "Social Security at 80: Modest changes could save program"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "NYPost|3218",
+      "feed": 4,
+      "dist": 0.5560729590906865,
+      "title": "Trump: Megyn Kelly had \u2018blood coming out of her wherever\u2019"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "WashingtonPost|1330",
+      "feed": 9,
+      "dist": 0.9642094670177388,
+      "title": "Issue of where to move Guantanamo detainees threatens closure plan"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "USAToday|1919",
+      "feed": 7,
+      "dist": 0.6705415758103311,
+      "title": "Fact check: Trump's comments on women"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "NYTimes|1244",
+      "feed": 5,
+      "dist": 0.9541289963040036,
+      "title": "Japan Restarts a Nuclear Plant in Step Toward Reviving Industry"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "NYTimes|1198",
+      "feed": 5,
+      "dist": 0.9455899843239296,
+      "title": "German Prosecutors Drop Inquiry of 2 Journalists Suspected of Treason"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "USAToday|1730",
+      "feed": 7,
+      "dist": 0.4881795469673271,
+      "title": "Trump declines to apologize for Kelly comments"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "WallStreetJournal|474",
+      "feed": 8,
+      "dist": 0.9838330877632164,
+      "title": "U.S. Consulate in Istanbul Targeted in Terror Attacks"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "WashingtonPost|1407",
+      "feed": 9,
+      "dist": 0.9149831735825588,
+      "title": "Minimum wage increases haven&#8217;t grown the middle class. $15 might be different."
+    },
+    {
+      "date": "2015-08-13",
+      "name": "USAToday|2028",
+      "feed": 7,
+      "dist": 0.570567994247515,
+      "title": "Gore 2016? Yep, there's apparently talk"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "WashingtonPost|1389",
+      "feed": 9,
+      "dist": 0.9462229628352132,
+      "title": "No, Obamacare isn&#8217;t killing full-time jobs, new evidence shows"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "ChicagoTribune|1283",
+      "feed": 1,
+      "dist": 0.952236760976266,
+      "title": "Illinois House passes federal spending bill - after the usual bickering"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "NYTimes|1386",
+      "feed": 5,
+      "dist": 0.9788240647397604,
+      "title": "Eurozone Finance Ministers to Discuss Backing Greek Bailout"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "LATimes|4570",
+      "feed": 3,
+      "dist": 0.9522392781720777,
+      "title": "The Iran deal doesn't negate the military option"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "LATimes|4248",
+      "feed": 3,
+      "dist": 0.9791204351508144,
+      "title": "Suicide bombing near airport kills 5 in Afghan capital"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "NYTimes|1425",
+      "feed": 5,
+      "dist": 0.9685340186215768,
+      "title": "U.S.-Led Air Campaign Is Linked to Civilian Deaths in Syria"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "NYPost|3524",
+      "feed": 4,
+      "dist": 0.8392668514692762,
+      "title": "Times Square billboard to salute Schumer for Iran deal opposition"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "StLouisPost|4078",
+      "feed": 6,
+      "dist": 0.9639679615869332,
+      "title": "Florida House OKs new congressional map despite criticism"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "LATimes|4315",
+      "feed": 3,
+      "dist": 0.9792611204403248,
+      "title": "Record numbers of migrants swarming Greek islands to reach Europe"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "WallStreetJournal|535",
+      "feed": 8,
+      "dist": 0.8761855440575202,
+      "title": "Myanmar Presidential Contender Ousted as Ruling Party Chief"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "BostonHerald|3726",
+      "feed": 0,
+      "dist": 0.8864308777260056,
+      "title": "AG Healey remains strong backer of Planned Parenthood"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "ChicagoTribune|1136",
+      "feed": 1,
+      "dist": 0.5815256459982263,
+      "title": "Trump defends record on women's issues"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "NYTimes|1120",
+      "feed": 5,
+      "dist": 0.927630893171678,
+      "title": "Judge Rules New York Teacher Exam Did Not Discriminate Against Minorities"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "WallStreetJournal|499",
+      "feed": 8,
+      "dist": 0.9623285775247956,
+      "title": "Kurdish Militants Claim Turkish Police Station Attack"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "NYTimes|1240",
+      "feed": 5,
+      "dist": 0.9756628958487312,
+      "title": "Iraq's Parliament Approves Reform Plan in Rare Show of Unity"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "BostonHerald|3759",
+      "feed": 0,
+      "dist": 0.7298806063637621,
+      "title": "Jeb Bush works political turf at Iowa State Fair day before Trump, Clinton make landfall"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "WashingtonPost|1295",
+      "feed": 9,
+      "dist": 0.8704902416445556,
+      "title": "&#8216;Cutting arts and music programs is worth the savings': Sarcastic new #SaidNoSchoolEver ad campaign"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "WashingtonPost|1378",
+      "feed": 9,
+      "dist": 0.754359854397719,
+      "title": "Super PACs throw lifelines to candidates scrambling for cash"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "NYTimes|1247",
+      "feed": 5,
+      "dist": 0.9585035521106342,
+      "title": "Economic Trends: Why Did China Devalue Its Currency? Two Big Reasons"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "NYTimes|1295",
+      "feed": 5,
+      "dist": 0.9301925682719582,
+      "title": "Economic Trends: The More China\u2019s Currency Falls, the More It Looks Like a \u2018Currency War\u2019"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "USAToday|1945",
+      "feed": 7,
+      "dist": 0.9837132034685899,
+      "title": "Cost of treating transgender troops called negligible"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "DailyNews|3358",
+      "feed": 2,
+      "dist": 0.8066867829484335,
+      "title": "Donald Trump wants \u2018to put H&R Block out of business\u2019"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "StLouisPost|3690",
+      "feed": 6,
+      "dist": 0.8110881867734514,
+      "title": "Bush links Clinton to rise of Islamic State"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "LATimes|4950",
+      "feed": 3,
+      "dist": 0.708718652066498,
+      "title": "The populist sentiment fueling both the Bernie Sanders and Donald Trump campaigns"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "DailyNews|3590",
+      "feed": 2,
+      "dist": 0.7951679010406764,
+      "title": "Black Lives Matter advocates interrupt end of Jeb Bush event"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "WashingtonPost|1466",
+      "feed": 9,
+      "dist": 0.6910336488951097,
+      "title": "Martin O\u2019Malley, slogging through Iowa, insists he is still in the game"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "LATimes|4484",
+      "feed": 3,
+      "dist": 0.9519063572773822,
+      "title": "U.S. courts shut down Catholic employers' campaign against contraceptives"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "NYPost|3532",
+      "feed": 4,
+      "dist": 0.526276776755175,
+      "title": "Trump still leading polls despite Megyn Kelly feud"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "DailyNews|3848",
+      "feed": 2,
+      "dist": 0.8698340599397109,
+      "title": "Trump's wife Melania Knauss-Trump a first lady of fashion"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "NYTimes|1173",
+      "feed": 5,
+      "dist": 0.6874107736457101,
+      "title": "First Draft: It\u2019s Not the First Time Trump Has Flirted With a Third-Party Run"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "ChicagoTribune|1246",
+      "feed": 1,
+      "dist": 0.6370610258730686,
+      "title": "Donald Trump says he'll release policy specifics soon"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "LATimes|4456",
+      "feed": 3,
+      "dist": 0.8549493487991844,
+      "title": "Melissa Gilbert running for Congress in Michigan, where life is 'real'"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "StLouisPost|3608",
+      "feed": 6,
+      "dist": 0.9469096239336696,
+      "title": "Minnesota leaders meet privately about sex offender program"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "WallStreetJournal|564",
+      "feed": 8,
+      "dist": 0.9684347254161328,
+      "title": "U.S. Sees Possible Pattern in ISIS Chemical Attacks"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "LATimes|4446",
+      "feed": 3,
+      "dist": 0.8182797364205268,
+      "title": "What non-Californians don't know about Carly Fiorina -- but should"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "WallStreetJournal|530",
+      "feed": 8,
+      "dist": 0.9543478813530212,
+      "title": "Sudan's Split With Iran Boosts Saudi Camp"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "StLouisPost|3921",
+      "feed": 6,
+      "dist": 0.9179913599441734,
+      "title": "Top General: US should consider embedding troops in Iraq"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "WashingtonPost|1469",
+      "feed": 9,
+      "dist": 0.9030385697193438,
+      "title": "New union president promises to work &#8216;extremely hard&#8217; for federal employees"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "LATimes|4940",
+      "feed": 3,
+      "dist": 0.9438126836589308,
+      "title": "Speech on World War II: 3 words to watch for from Japan's Shinzo Abe"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "NYTimes|1325",
+      "feed": 5,
+      "dist": 0.795518178968414,
+      "title": "Ted Cruz Grabs for the Limelight During Southern Tour"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "NYTimes|1273",
+      "feed": 5,
+      "dist": 0.8057531361131003,
+      "title": "Jeb Bush Blames Clinton and Obama for Iraq\u2019s Decline"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "NYTimes|1390",
+      "feed": 5,
+      "dist": 0.9506197521757124,
+      "title": "Statement by Prime Minister Shinzo Abe of Japan"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "BostonHerald|3378",
+      "feed": 0,
+      "dist": 0.6048155597214699,
+      "title": "CBS News execs talk Donald Trump dilemma, debate dates, revamped convention coverage"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "LATimes|4761",
+      "feed": 3,
+      "dist": 0.8396213833425697,
+      "title": "Hillary Clinton's email issue: a self-inflicted wound"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "StLouisPost|4168",
+      "feed": 6,
+      "dist": 0.9746069036023368,
+      "title": "Spain: Minister defends meeting with probed ex-IMF chief"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "DailyNews|3078",
+      "feed": 2,
+      "dist": 0.9706767862016759,
+      "title": "12 dead as Mali hotel siege ends, 4 hostages freed"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "LATimes|4234",
+      "feed": 3,
+      "dist": 0.8818710754220273,
+      "title": "Border fences are succeeding -- in keeping migrants in U.S."
+    },
+    {
+      "date": "2015-08-11",
+      "name": "NYPost|3604",
+      "feed": 4,
+      "dist": 0.896884142553373,
+      "title": "Diner\u2019s popular \u2018The Trump\u2019 sandwich is full of bologna"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "LATimes|4326",
+      "feed": 3,
+      "dist": 0.8991257784207111,
+      "title": "Two state senators receive campaign finance violation fines"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "WallStreetJournal|518",
+      "feed": 8,
+      "dist": 0.9732217416734786,
+      "title": "U.S. Complains About Iranian General's Trip"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "WallStreetJournal|494",
+      "feed": 8,
+      "dist": 0.9800186604144608,
+      "title": "Yuan Move Shows Rates' Importance"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "StLouisPost|4097",
+      "feed": 6,
+      "dist": 0.7721594782761941,
+      "title": "Ted Cruz sees path to White House running through the South"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "StLouisPost|4043",
+      "feed": 6,
+      "dist": 0.6832386348533034,
+      "title": "The Latest: 2016 hopefuls take turn on Iowa fair's 'soapbox'"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "WallStreetJournal|543",
+      "feed": 8,
+      "dist": 0.9681707605993772,
+      "title": "U.S. Believes ISIS Used Chemical Weapon on Kurds"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "StLouisPost|3810",
+      "feed": 6,
+      "dist": 0.8856827028290492,
+      "title": "Judge: Feds can search emails of indicted Rand Paul aide"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "LATimes|5017",
+      "feed": 3,
+      "dist": 0.9503390456675318,
+      "title": "On Social Security's 80th birthday, a dangerous leadership vacuum"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "NYTimes|1181",
+      "feed": 5,
+      "dist": 0.8878787313458046,
+      "title": "Hillary Clinton to Offer Plan on Paying College Tuition Without Needing Loans"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "WallStreetJournal|554",
+      "feed": 8,
+      "dist": 0.9523405538598848,
+      "title": "American Flag Raised at U.S. Embassy in Havana"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "StLouisPost|3649",
+      "feed": 6,
+      "dist": 0.8775701453049279,
+      "title": "Actress Melissa Gilbert to run for Congress in Michigan"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "DailyNews|3035",
+      "feed": 2,
+      "dist": 0.8816772990234173,
+      "title": "Obama heads to Martha's Vineyard for two-week vacation"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "BostonHerald|3134",
+      "feed": 0,
+      "dist": 0.8113692204728032,
+      "title": "Carlson: But in the non-Trump debate some real winners"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "NYPost|3240",
+      "feed": 4,
+      "dist": 0.9418997491174582,
+      "title": "Gitmo terrorists become mama\u2019s boys in bid to be sprung"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "NYTimes|1142",
+      "feed": 5,
+      "dist": 0.9709661310237008,
+      "title": "Final Hearing for Reporter Held in Iran Is Scheduled for Monday"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "DailyNews|3274",
+      "feed": 2,
+      "dist": 0.6853514840641722,
+      "title": "Clinton: GOP's views on women 'outrageous,' not just Trump's"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "WallStreetJournal|512",
+      "feed": 8,
+      "dist": 0.9728533324306486,
+      "title": "Islamic State Affiliate Beheads Croatian Hostage"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "WashingtonPost|1435",
+      "feed": 9,
+      "dist": 0.720966106708461,
+      "title": "Bernie Sanders is winning Portlandia"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "NYTimes|1277",
+      "feed": 5,
+      "dist": 0.4771246228032335,
+      "title": "Intent on Life After Fox, Donald Trump Turns to Policy"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "NYTimes|1111",
+      "feed": 5,
+      "dist": 0.9076286629799998,
+      "title": "Fears of Lasting Rift as Obama Battles Pro-Israel Group on Iran"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "WallStreetJournal|514",
+      "feed": 8,
+      "dist": 0.9711710624044224,
+      "title": "Iranian-Brokered Truces Start in Three Syrian Towns"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "USAToday|1991",
+      "feed": 7,
+      "dist": 0.7532438518853952,
+      "title": "Rand Paul says he'd fund in full a caucus in Kentucky"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "BostonHerald|3164",
+      "feed": 0,
+      "dist": 0.72197772742077,
+      "title": "Can George P. make Jeb the 3rd Bush to win the White House?"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "NYPost|3723",
+      "feed": 4,
+      "dist": 0.7847859027229016,
+      "title": "Democrats\u2019 Bernie Sanders troubles are just beginning"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "WashingtonPost|1395",
+      "feed": 9,
+      "dist": 0.9692370118720034,
+      "title": "What ending sanctions on Iran will mean for the country\u2019s economy"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "DailyNews|3654",
+      "feed": 2,
+      "dist": 0.7318696742114624,
+      "title": "Trump, Paul go after each other\u2019s golf games in war of words"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "USAToday|1711",
+      "feed": 7,
+      "dist": 0.7601497310444022,
+      "title": "Wisconsin's Walker: I can win in a blue state"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "NYPost|4020",
+      "feed": 4,
+      "dist": 0.6854232815615079,
+      "title": "Clinton gets key endorsement from former Iowa Sen. Tom Harken"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "ChicagoTribune|1354",
+      "feed": 1,
+      "dist": 0.9584774544290912,
+      "title": "Rauner uses veto powers to call for changes to marijuana decriminalization bill"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "StLouisPost|3835",
+      "feed": 6,
+      "dist": 0.9641861094597294,
+      "title": "Amnesty approves policy to decriminalize sex trade"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "WashingtonPost|1423",
+      "feed": 9,
+      "dist": 0.9344006694531236,
+      "title": "After setbacks, U.S. military looks for ways to recalibrate new Syrian force"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "StLouisPost|3843",
+      "feed": 6,
+      "dist": 0.866161508769515,
+      "title": "New York City's mayor fighting bad ol' days perception"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "NYTimes|1126",
+      "feed": 5,
+      "dist": 0.5178129224081892,
+      "title": "The Electorate: Fear That Debate Could Hurt G.O.P. in Women\u2019s Eyes"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "LATimes|4956",
+      "feed": 3,
+      "dist": 0.8792204166237237,
+      "title": "Abe expresses 'grief' for war, but says Japan can't apologize forever"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "StLouisPost|3466",
+      "feed": 6,
+      "dist": 0.9725475094439368,
+      "title": "American soldier killed, others wounded in Kabul attacks"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "StLouisPost|3456",
+      "feed": 6,
+      "dist": 0.9481864978566384,
+      "title": "Beretta's fight to arm the military"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "LATimes|4512",
+      "feed": 3,
+      "dist": 0.9282635441022676,
+      "title": "Retired labor union official lands consultant post in state Assembly"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "LATimes|4138",
+      "feed": 3,
+      "dist": 0.5608637654186757,
+      "title": "How Fox anchor Bret Baier prepared for the GOP debate and got an instant headline out of Donald Trump"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "NYPost|3957",
+      "feed": 4,
+      "dist": 0.9136056206892572,
+      "title": "Democrats blast de Blasio\u2019s \u2018unethical\u2019 hire of aide\u2019s gal pal"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "NYPost|3932",
+      "feed": 4,
+      "dist": 0.9581618681338192,
+      "title": "Iran says the nuke deal will help it target Israel"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "NYPost|3773",
+      "feed": 4,
+      "dist": 0.8010511856557904,
+      "title": "If Democrats keep purging their history, they\u2019ll soon have no heroes left"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "LATimes|4704",
+      "feed": 3,
+      "dist": 0.9533228256016318,
+      "title": "PUC gets public input on reform amid outcry over its practices"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "DailyNews|3275",
+      "feed": 2,
+      "dist": 0.9740051294843248,
+      "title": "New York jobs number hits record high, NYC sees biggest gain"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "NYTimes|1360",
+      "feed": 5,
+      "dist": 0.9396341741792816,
+      "title": "News Analysis: China\u2019s Renminbi Devaluation May Initiate New Phase in Global Currency War"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "DailyNews|3107",
+      "feed": 2,
+      "dist": 0.651328268376302,
+      "title": "Donald Trump and his top advisor part ways"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "StLouisPost|4258",
+      "feed": 6,
+      "dist": 0.8937678199777462,
+      "title": "State Dept.: No matches for emails sought in Clinton suit"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "StLouisPost|3672",
+      "feed": 6,
+      "dist": 0.7229810060556255,
+      "title": "Perry stops paying South Carolina 2016 campaign staff"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "ChicagoTribune|1337",
+      "feed": 1,
+      "dist": 0.8749223612798374,
+      "title": "Japanese leader Shinzo Abe voices 'profound grief' for WWII dead"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "StLouisPost|3709",
+      "feed": 6,
+      "dist": 0.6042490013159495,
+      "title": "Ex-Trump aide still supports businessman's White House race"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "StLouisPost|4214",
+      "feed": 6,
+      "dist": 0.9557187831939956,
+      "title": "Washington state gets failing grade on school funding"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "USAToday|1705",
+      "feed": 7,
+      "dist": 0.4814397927257993,
+      "title": "Trump's comment about Megyn Kelly roils GOP race"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "NYPost|3697",
+      "feed": 4,
+      "dist": 0.7029491959607139,
+      "title": "Sanders surges past Hillary in New Hampshire"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "USAToday|1710",
+      "feed": 7,
+      "dist": 0.5007673899016996,
+      "title": "Rubio declines to criticize Trump"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "WallStreetJournal|509",
+      "feed": 8,
+      "dist": 0.9881813708764352,
+      "title": "Greece Faces Two-Year Recession Amid Bailout Cuts"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "USAToday|1836",
+      "feed": 7,
+      "dist": 0.8142512997837544,
+      "title": "Bush to do Colbert's first CBS late night show"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "USAToday|1923",
+      "feed": 7,
+      "dist": 0.7475042743993839,
+      "title": "Fiorina seeks to capitalize on debate momentum"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "StLouisPost|3657",
+      "feed": 6,
+      "dist": 0.912212382871428,
+      "title": "Florida launches 3rd attempt to redraw congressional map"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "NYTimes|1190",
+      "feed": 5,
+      "dist": 0.9507556278604103,
+      "title": "Kurdish Role in Fighting ISIS in Syria Is Crucial to U.S., but Is Alarming Turkey"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "NYTimes|1136",
+      "feed": 5,
+      "dist": 0.9560777100283148,
+      "title": "Pain of Puerto Rico\u2019s Debt Crisis Is Weighing on the Little Guy, Too"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "NYTimes|1231",
+      "feed": 5,
+      "dist": 0.8966513381718381,
+      "title": "All Emails Were Provided, Hillary Clinton Says in Statement"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "WashingtonPost|1452",
+      "feed": 9,
+      "dist": 0.9012053781503566,
+      "title": "In parting, retiring Army chief raises concerns about battle-hardened leaders and Gold Star families"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "WallStreetJournal|468",
+      "feed": 8,
+      "dist": 0.9607399648165889,
+      "title": "Greece, Creditors Make Progress in Bailout Talks"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "NYPost|3299",
+      "feed": 4,
+      "dist": 0.5038064188905089,
+      "title": "Trump\u2019s camp: Only a \u2018deviant\u2019 would mishear \u2018blood\u2019 comment"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "USAToday|1929",
+      "feed": 7,
+      "dist": 0.7344677999078109,
+      "title": "Chafee: On Iran, Biden and lessons from horses"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "DailyNews|3207",
+      "feed": 2,
+      "dist": 0.7372713604252883,
+      "title": "Rudy Giuliani figures Trump will be a loser in the end"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "LATimes|4849",
+      "feed": 3,
+      "dist": 0.818473543470689,
+      "title": "NBC chief on network's relationship with Donald Trump: 'We're sort of separated'"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "StLouisPost|3599",
+      "feed": 6,
+      "dist": 0.876427922651552,
+      "title": "Michigan lawmaker won't resign after effort to smear self"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "DailyNews|3537",
+      "feed": 2,
+      "dist": 0.6867292273115235,
+      "title": "Ventura floats own name for VP slot on possible Trump ticket"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "USAToday|1832",
+      "feed": 7,
+      "dist": 0.7010896816923745,
+      "title": "Obama: Political system needs reform"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "NYPost|3384",
+      "feed": 4,
+      "dist": 0.9225098712569856,
+      "title": "George W. Bush enjoys Hamptons cruise in vintage speedboat"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "USAToday|2054",
+      "feed": 7,
+      "dist": 0.9552279495708244,
+      "title": "Japanese leader Abe stops short of apology for WWII"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "StLouisPost|3840",
+      "feed": 6,
+      "dist": 0.9385485923795372,
+      "title": "Despite skepticism, US confident it can monitor Iran deal"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "NYTimes|1388",
+      "feed": 5,
+      "dist": 0.8161883897680507,
+      "title": "The Road to 2016: Donald Trump, Moderate Republican"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "WashingtonPost|1406",
+      "feed": 9,
+      "dist": 0.8417332663913548,
+      "title": "Clinton is open to raising Social Security taxes on six-figure earners"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "WashingtonPost|1426",
+      "feed": 9,
+      "dist": 0.9720083846475284,
+      "title": "China\u2019s yuan move puts global image at stake"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "DailyNews|3054",
+      "feed": 2,
+      "dist": 0.7531734381618502,
+      "title": "GOPers diss Clinton, throw red meat at RedState Gathering"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "BostonHerald|3753",
+      "feed": 0,
+      "dist": 0.7357844341403172,
+      "title": "Iowa state fair: Jeb Bush gets grilled about family&#039;s legacy"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "WashingtonPost|1367",
+      "feed": 9,
+      "dist": 0.9595675017958348,
+      "title": "Democratic candidates eye day-care aid as a way to ease college burdens"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "NYTimes|1352",
+      "feed": 5,
+      "dist": 0.977795383133478,
+      "title": "Europe Gives Google More Time to Respond to Antitrust Charges"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "NYPost|3554",
+      "feed": 4,
+      "dist": 0.5623382414328872,
+      "title": "Trump not asked about Megyn Kelly in new Fox News interview"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "StLouisPost|4205",
+      "feed": 6,
+      "dist": 0.7924150673532668,
+      "title": "Jenna Bush Hager welcomes 2nd daughter named Poppy Louise"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "NYPost|3995",
+      "feed": 4,
+      "dist": 0.8803504687032842,
+      "title": "\u2018Top secret\u2019 Clinton emails include drone talk"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "WashingtonPost|1477",
+      "feed": 9,
+      "dist": 0.9453073018180452,
+      "title": "John Kerry leads delegation to Cuba for flag raising at U.S. Embassy"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "StLouisPost|4147",
+      "feed": 6,
+      "dist": 0.9723650795902996,
+      "title": "Health law sign-ups keep growing; uninsured rate declines"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "NYPost|3187",
+      "feed": 4,
+      "dist": 0.8306413247606445,
+      "title": "Schumer\u2019s next challenge in the fight to kill Obama\u2019s Iran deal"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "ChicagoTribune|1112",
+      "feed": 1,
+      "dist": 0.5330774987842257,
+      "title": "Trump campaign fires consultant, calls conference host 'total loser'"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "NYPost|3533",
+      "feed": 4,
+      "dist": 0.5865778638235062,
+      "title": "Hillary blasts Trump\u2019s \u2018outrageous\u2019 Megyn Kelly barbs"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "StLouisPost|3527",
+      "feed": 6,
+      "dist": 0.9394895537511719,
+      "title": "Kids sing song from John Oliver show on DC statehood"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "NYPost|3510",
+      "feed": 4,
+      "dist": 0.8643776225574157,
+      "title": "Hey, Federal Reserve, it\u2019s time to boost interest rates"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "LATimes|4203",
+      "feed": 3,
+      "dist": 0.903727169371112,
+      "title": "Hillary Clinton to unveil $350-billion plan to make college more affordable"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "LATimes|5126",
+      "feed": 3,
+      "dist": 0.7129193628805994,
+      "title": "Democratic candidates sound off at 'Wing Ding' in Iowa"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "StLouisPost|3603",
+      "feed": 6,
+      "dist": 0.9605115565586292,
+      "title": "Veterans chief, key congressman discuss VA's problems"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "USAToday|1790",
+      "feed": 7,
+      "dist": 0.7145628811248312,
+      "title": "Jindal strategy: Trump, Trump and more Trump"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "LATimes|4349",
+      "feed": 3,
+      "dist": 0.8228212335553016,
+      "title": "Hillary Clinton: 'All bets are off' if Congress rejects Iran nuclear deal"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "WashingtonPost|1294",
+      "feed": 9,
+      "dist": 0.9523822890849792,
+      "title": "The boom in wind energy couldn&#8217;t be coming at a better time"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "StLouisPost|3861",
+      "feed": 6,
+      "dist": 0.951768077214847,
+      "title": "Keystone XL review drags on 5 times longer than average"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "WashingtonPost|1369",
+      "feed": 9,
+      "dist": 0.7388058015609363,
+      "title": "Marco Rubio reaps benefits after widely praised debate performance"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "WashingtonPost|1497",
+      "feed": 9,
+      "dist": 0.9371306113743808,
+      "title": "Rand Paul on what America&#8217;s been doing all wrong since 1835"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "NYTimes|1292",
+      "feed": 5,
+      "dist": 0.9628229069801753,
+      "title": "ISIS Affiliate in Egypt Says It Has Beheaded a Croatian Man"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "WallStreetJournal|527",
+      "feed": 8,
+      "dist": 0.9669081707103312,
+      "title": "China's Central Bank Defends Handling of Yuan Plunge"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "NYTimes|1402",
+      "feed": 5,
+      "dist": 0.695739445393603,
+      "title": "Candidates Crowd Iowa Fair in a Raucous Campaign"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "LATimes|4156",
+      "feed": 3,
+      "dist": 0.9516678106457636,
+      "title": "Can Iraq's president win passage of sweeping reform plan?"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "NYPost|3545",
+      "feed": 4,
+      "dist": 0.9774667228312156,
+      "title": "Greece agrees on broad terms to new bailout"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "StLouisPost|3463",
+      "feed": 6,
+      "dist": 0.8716060449563163,
+      "title": "Black Lives Matter activists disrupt Bernie Sanders speech"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "USAToday|2031",
+      "feed": 7,
+      "dist": 0.9382402124735816,
+      "title": "Reports: ISIL used mustard gas against Kurds"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "WallStreetJournal|523",
+      "feed": 8,
+      "dist": 0.9551473015873242,
+      "title": "U.S. Concerned Over Turkish Attacks on Kurds"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "BostonHerald|3573",
+      "feed": 0,
+      "dist": 0.9557665945802836,
+      "title": "Walker signs bill to fund new Milwaukee Bucks arena"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "WashingtonPost|1462",
+      "feed": 9,
+      "dist": 0.9762456444935887,
+      "title": "Here are the first images of U.S. F-16 fighters flying from Turkey to carry out airstrikes"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "LATimes|4741",
+      "feed": 3,
+      "dist": 0.9542626820638408,
+      "title": "Q&A: Anat Admati on 'What's Wrong With Banking and What to Do About It'"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "DailyNews|3247",
+      "feed": 2,
+      "dist": 0.6057593222798651,
+      "title": "Trump still leads GOP 2016 pack, 1st post-debate poll shows"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "USAToday|2056",
+      "feed": 7,
+      "dist": 0.9019631522384708,
+      "title": "Students share reactions to Clinton's college affordability plan"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "DailyNews|3323",
+      "feed": 2,
+      "dist": 0.9504362839581276,
+      "title": "Orthodox Jews protest Israel's stance on Iran treaty"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "StLouisPost|4101",
+      "feed": 6,
+      "dist": 0.9812248950675432,
+      "title": "15 states seek to block EPA carbon rule"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "StLouisPost|4065",
+      "feed": 6,
+      "dist": 0.786599711069147,
+      "title": "NBC officially fires Trump from 'Celebrity Apprentice'"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "ChicagoTribune|1270",
+      "feed": 1,
+      "dist": 0.9635777199049458,
+      "title": "Vote coming on U. of I. chancellor's 'golden parachute'"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "NYPost|3415",
+      "feed": 4,
+      "dist": 0.524255023552654,
+      "title": "Trump: Megyn Kelly should apologize to me"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "DailyNews|3751",
+      "feed": 2,
+      "dist": 0.7206660248231098,
+      "title": "Al Gore is not exploring run for President"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "WashingtonPost|1269",
+      "feed": 9,
+      "dist": 0.6160549003829221,
+      "title": "Trump\u2019s history of flippant misogyny"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "NYTimes|1183",
+      "feed": 5,
+      "dist": 0.9674193083814818,
+      "title": "Assailants Fire Shots at U.S. Consulate in Istanbul"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "LATimes|4705",
+      "feed": 3,
+      "dist": 0.9612938414119993,
+      "title": "Yuan's tumble sets off global alarms about China's economy"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "ChicagoTribune|1117",
+      "feed": 1,
+      "dist": 0.6893044082009755,
+      "title": "Biden retreating for a week, then presidential announcement expected"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "ChicagoTribune|1119",
+      "feed": 1,
+      "dist": 0.8539521171026141,
+      "title": "Obama defends likening Republicans to Iran hardliners on nuclear deal"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "ChicagoTribune|1090",
+      "feed": 1,
+      "dist": 0.4751599155053347,
+      "title": "Donald Trump barred from conservative gathering after latest barb over comments"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "WallStreetJournal|473",
+      "feed": 8,
+      "dist": 0.9648063649511456,
+      "title": "Bad News Takes the Shine Off Kenya's Star Turn"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "WallStreetJournal|542",
+      "feed": 8,
+      "dist": 0.9706942100547558,
+      "title": "Hungary Doubles Estimate of Migrants It Will Receive This Year"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "USAToday|1892",
+      "feed": 7,
+      "dist": 0.9334663589436146,
+      "title": "Beau Biden child-protection law signed"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "DailyNews|3461",
+      "feed": 2,
+      "dist": 0.9018191673616855,
+      "title": "Wounded warrior proposes with 2 ex-Presidents watching"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "NYPost|3478",
+      "feed": 4,
+      "dist": 0.5053425515839017,
+      "title": "Fox News promises Donald Trump fair coverage"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "NYPost|3691",
+      "feed": 4,
+      "dist": 0.968507634606558,
+      "title": "Image shows Croat beheaded by ISIS in Egypt"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "LATimes|4792",
+      "feed": 3,
+      "dist": 0.9824135954651236,
+      "title": "Surge in car loans pushes auto debt above $1 trillion for first time"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "ChicagoTribune|1176",
+      "feed": 1,
+      "dist": 0.9584904143503544,
+      "title": "CPS' $5.7 billion spending proposal relies on $480 million from Springfield"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "NYTimes|1337",
+      "feed": 5,
+      "dist": 0.7639635791094083,
+      "title": "From the Right, a New Slur for G.O.P. Candidates"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "StLouisPost|3946",
+      "feed": 6,
+      "dist": 0.9442429036636696,
+      "title": "Federal court: Anti-Muslim group can't post ads on buses"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "USAToday|2045",
+      "feed": 7,
+      "dist": 0.936435479269938,
+      "title": "Americans crowd Havana for U.S. flag-raising"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "DailyNews|3185",
+      "feed": 2,
+      "dist": 0.9190143025295746,
+      "title": "Ydanis Rodriguez hasn\u2019t given up on horse-drawn carriage ban"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "NYTimes|1314",
+      "feed": 5,
+      "dist": 0.9795406875641596,
+      "title": "N.S.A. Used Phone Records Program to Seek Iran Operatives"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "USAToday|2080",
+      "feed": 7,
+      "dist": 0.7978217608723878,
+      "title": "Bush casts himself as pragmatic problem-solver in Iowa speech"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "NYPost|3355",
+      "feed": 4,
+      "dist": 0.9548952072153796,
+      "title": "Bill de Blasio\u2019s sorry stewardship makes the case against mayoral control the schools"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "NYPost|3933",
+      "feed": 4,
+      "dist": 0.9349305748428918,
+      "title": "Fighting terror Bogart-style: How Morocco counters radical Islam"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "LATimes|5048",
+      "feed": 3,
+      "dist": 0.7329961843197222,
+      "title": "Not Paleo today: Jeb Bush sips beer and flips pork chops as he tackles an Iowa ritual"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "LATimes|4308",
+      "feed": 3,
+      "dist": 0.97467237085737,
+      "title": "Two years into Obamacare, only one state still has more than 20% uninsured"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "WashingtonPost|1257",
+      "feed": 9,
+      "dist": 0.7716568983206362,
+      "title": "White House was &#8216;grateful&#8217; to Jeb Bush for helping with Common Core, says former Obama aide"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "NYTimes|1395",
+      "feed": 5,
+      "dist": 0.7909471238505148,
+      "title": "Bernie Sanders, an Outlier? The Senator Begs to Differ"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "WashingtonPost|1427",
+      "feed": 9,
+      "dist": 0.9879904324245516,
+      "title": "Report recommends rating system to measure charter schools\u2019 financial health"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "NYTimes|1408",
+      "feed": 5,
+      "dist": 0.9794564775416008,
+      "title": "U.S. Is Expected to Oppose Freeing Guant\u00e1namo Hunger Striker"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "NYTimes|1369",
+      "feed": 5,
+      "dist": 0.9057233063328864,
+      "title": "With $350 Billion Plan, Hillary Clinton Prods Rivals on Student Debt"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "USAToday|1941",
+      "feed": 7,
+      "dist": 0.7350097575443449,
+      "title": "Rand Paul still needs to raise money for plan to hold caucus in home state"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "ChicagoTribune|1186",
+      "feed": 1,
+      "dist": 0.9701203207872948,
+      "title": "United creates subsidiary to handle ground operations at smaller airports"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "USAToday|1701",
+      "feed": 7,
+      "dist": 0.4881752700159343,
+      "title": "More Trump fireworks, GOP debate fallout expected on Sunday shows"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "StLouisPost|4111",
+      "feed": 6,
+      "dist": 0.970899161221482,
+      "title": "Causes, potential consequences of testing opt-out movement"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "NYTimes|1374",
+      "feed": 5,
+      "dist": 0.9321689643982586,
+      "title": "A Secretive Path to Raising U.S. Flag in Cuba"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "LATimes|4691",
+      "feed": 3,
+      "dist": 0.8901955956638041,
+      "title": "L.A. County Supervisor Michael Antonovich plans run for state Senate"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "USAToday|1895",
+      "feed": 7,
+      "dist": 0.5832085029651826,
+      "title": "Trump's thoughts on Hillary Clinton, Obamacare and Ronald Reagan"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "NYTimes|1237",
+      "feed": 5,
+      "dist": 0.9733673297617592,
+      "title": "Greece Says It Reached a Deal for a Third Bailout"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "WashingtonPost|1461",
+      "feed": 9,
+      "dist": 0.7366879848596422,
+      "title": "An Iowa surprise: Donald Trump is actually trying to win"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "LATimes|5089",
+      "feed": 3,
+      "dist": 0.9762095065411128,
+      "title": "Food fight in Russia as government bulldozes, burns illegal produce, meat imports"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "WashingtonPost|1265",
+      "feed": 9,
+      "dist": 0.5931323246043779,
+      "title": "Can the Republican candidates avoid a real confrontation with Trump?"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "StLouisPost|4100",
+      "feed": 6,
+      "dist": 0.9477664296396044,
+      "title": "Military says it is committed to fairness in Manning case"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "WallStreetJournal|490",
+      "feed": 8,
+      "dist": 0.981851323469806,
+      "title": "Greek Bailout Draft Sees Economy Contracting in 2015"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "StLouisPost|3639",
+      "feed": 6,
+      "dist": 0.6842697323930027,
+      "title": "Clinton thought Trump wedding would be \"entertaining\""
+    },
+    {
+      "date": "2015-08-12",
+      "name": "LATimes|4673",
+      "feed": 3,
+      "dist": 0.9762005870217992,
+      "title": "New moves to resolve Swedish standoff with WikiLeaks founder Assange"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "USAToday|1703",
+      "feed": 7,
+      "dist": 0.6718769555387019,
+      "title": "Trump fires back in Kelly/Red State flap"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "USAToday|1916",
+      "feed": 7,
+      "dist": 0.7508881752248111,
+      "title": "Sens. Hatch and Heller endorse Bush for president"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "WallStreetJournal|464",
+      "feed": 8,
+      "dist": 0.9735336529378504,
+      "title": "U.S. Deploys F-16s to Turkish Base"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "WashingtonPost|1373",
+      "feed": 9,
+      "dist": 0.9265017526795856,
+      "title": "Wisconsin principals tell Scott Walker: Stop hurting our schools"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "USAToday|2082",
+      "feed": 7,
+      "dist": 0.7863750602687768,
+      "title": "Louisiana's Jindal competes for evangelicals in GOP race"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "WallStreetJournal|536",
+      "feed": 8,
+      "dist": 0.9630790246174272,
+      "title": "U.S. Invokes Threat to Dollar in Pitching Iran Deal"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "NYPost|3818",
+      "feed": 4,
+      "dist": 0.8902255817344756,
+      "title": "Gal pal of top de Blasio aide hired for cushy $150K-a-year gig"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "WallStreetJournal|544",
+      "feed": 8,
+      "dist": 0.9552115891176352,
+      "title": "Market Turmoil Saps Momentum for China Reform"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "BostonHerald|3577",
+      "feed": 0,
+      "dist": 0.6772985569119575,
+      "title": "Bernie&#039;s surge should be &#039;wake up call&#039; for Clinton campaign"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "LATimes|4040",
+      "feed": 3,
+      "dist": 0.4895135655483899,
+      "title": "Will Megyn Kelly's question about women derail Donald Trump's candidacy?"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "DailyNews|3103",
+      "feed": 2,
+      "dist": 0.6998716820885812,
+      "title": "Man who cut Trump from conference made off-color comments"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "WashingtonPost|1445",
+      "feed": 9,
+      "dist": 0.8300716465926464,
+      "title": "Rand Paul is attacking Donald Trump for making a 100% true statement about the economy"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "NYTimes|1403",
+      "feed": 5,
+      "dist": 0.8999368492768641,
+      "title": "F.B.I. Tracking Path of Email to Hillary Clinton at State Dept."
+    },
+    {
+      "date": "2015-08-14",
+      "name": "LATimes|4986",
+      "feed": 3,
+      "dist": 0.9545521044535716,
+      "title": "After 54 years, U.S. flag is raised again at American embassy reopening in Cuba"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "WallStreetJournal|539",
+      "feed": 8,
+      "dist": 0.930096876824934,
+      "title": "Al Qaeda Chief Pledges Loyalty to New Taliban Leader"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "NYTimes|1209",
+      "feed": 5,
+      "dist": 0.9555977899491208,
+      "title": "Nusra Front Announces Withdrawal From Front Line Against ISIS in Syria"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "StLouisPost|4274",
+      "feed": 6,
+      "dist": 0.9492036913925832,
+      "title": "Kerry calls for democracy as US flag is raised in Cuba"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "NYPost|3257",
+      "feed": 4,
+      "dist": 0.9260334746494244,
+      "title": "Why the Obama team can\u2019t make national-security decisions"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "LATimes|4056",
+      "feed": 3,
+      "dist": 0.7335832017050308,
+      "title": "16 months until Election Day, readers have already had enough"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "USAToday|1793",
+      "feed": 7,
+      "dist": 0.9166855951272024,
+      "title": "Schumer: U.S. should try for a better Iran deal"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "NYTimes|1355",
+      "feed": 5,
+      "dist": 0.9196094069315413,
+      "title": "Turkish Coalition Talks End Fruitlessly, Making New Elections Likely"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "DailyNews|3267",
+      "feed": 2,
+      "dist": 0.9161790917805028,
+      "title": "Iran nuke deal is proof of biblical 'End of Times:' Bachmann"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "LATimes|4720",
+      "feed": 3,
+      "dist": 0.8066580533669829,
+      "title": "Villaraigosa to host Clinton fundraiser in Hollywood Hills home"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "StLouisPost|3570",
+      "feed": 6,
+      "dist": 0.7608631456944366,
+      "title": "Trump's policy approach a mystery amid lack of detail"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "BostonHerald|3151",
+      "feed": 0,
+      "dist": 0.9822448962060611,
+      "title": "State: July tax collections beat benchmarks"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "BostonHerald|3345",
+      "feed": 0,
+      "dist": 0.84433381183106,
+      "title": "Obama says GOP opposing Iran deal over politics, not merits"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "NYTimes|1304",
+      "feed": 5,
+      "dist": 0.9676419327060534,
+      "title": "Germany, Less Defiant, Clearing Path for 3rd Greek Bailout"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "BostonHerald|3501",
+      "feed": 0,
+      "dist": 0.8116245543499886,
+      "title": "Hillary Clinton assails web trolls: \u2018I\u2019m asking people to be kinder\u2019"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "StLouisPost|4024",
+      "feed": 6,
+      "dist": 0.6932147300010869,
+      "title": "Jesse Ventura roots for Trump, open to being running mate"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "USAToday|1844",
+      "feed": 7,
+      "dist": 0.832646713864203,
+      "title": "Obama plan to close Gitmo hits old roadblocks"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "NYTimes|1310",
+      "feed": 5,
+      "dist": 0.6027094652156679,
+      "title": "Carly Fiorina Emerges as a G.O.P. Weapon Against \u2018War on Women\u2019 Charge"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "StLouisPost|4158",
+      "feed": 6,
+      "dist": 0.9170448385016344,
+      "title": "AP EXCLUSIVE: Top secret Clinton emails include drone talk"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "StLouisPost|3541",
+      "feed": 6,
+      "dist": 0.964883656912885,
+      "title": "Calls to abolish nukes on Nagasaki bombing 70th anniversary"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "StLouisPost|3848",
+      "feed": 6,
+      "dist": 0.9398051743556464,
+      "title": "AP Exclusive: Cuba dissidents won't attend US Embassy event"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "WashingtonPost|1383",
+      "feed": 9,
+      "dist": 0.8816576204936236,
+      "title": "Top secret e-mails were sent on Clinton\u2019s private account, official says"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "NYTimes|1405",
+      "feed": 5,
+      "dist": 0.8138179382609482,
+      "title": "First Draft: Obama Has a Song in His Heart \u2026 40 of Them, on Spotify"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "WashingtonPost|1332",
+      "feed": 9,
+      "dist": 0.8178437978800531,
+      "title": "Another huge crowd for Democratic presidential hopeful Bernie Sanders"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "BostonHerald|3650",
+      "feed": 0,
+      "dist": 0.6681638915133179,
+      "title": "Bernie Sanders supporters psyched about surge"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "USAToday|1776",
+      "feed": 7,
+      "dist": 0.6020586481349499,
+      "title": "'Slobs, dogs, pigs': 7 women Donald Trump egregiously insulted"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "ChicagoTribune|1336",
+      "feed": 1,
+      "dist": 0.8188950467863771,
+      "title": "Jeb Bush leaves door open for use of torture by government"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "BostonHerald|3497",
+      "feed": 0,
+      "dist": 0.7714808673529355,
+      "title": "5 takeaways from the Franklin Pierce-Boston Herald GOP poll results"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "StLouisPost|3973",
+      "feed": 6,
+      "dist": 0.9257590975033004,
+      "title": "Florida congresswoman tries to block changes to district"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "NYTimes|1275",
+      "feed": 5,
+      "dist": 0.47115039619015997,
+      "title": "News Analysis: Handling of Trump Puts Fox on the Spot"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "WallStreetJournal|498",
+      "feed": 8,
+      "dist": 0.9660424640040196,
+      "title": "China Takes U-Turn With Yuan"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "StLouisPost|4160",
+      "feed": 6,
+      "dist": 0.818052800775458,
+      "title": "Dems undeclared on Iran deal heed voters, not August ads"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "ChicagoTribune|1340",
+      "feed": 1,
+      "dist": 0.917198666458644,
+      "title": "Frustrated Emanuel takes second crack at infrastructure trust"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "StLouisPost|4240",
+      "feed": 6,
+      "dist": 0.9393834185204842,
+      "title": "US criticizes use of police in ouster of Myanmar party chief"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "NYTimes|1236",
+      "feed": 5,
+      "dist": 0.8081747935477027,
+      "title": "State by State, Democratic Party Is Erasing Ties to Jefferson and Jackson"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "USAToday|1993",
+      "feed": 7,
+      "dist": 0.9808361031765284,
+      "title": "Al Franken announces support for Iran deal"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "StLouisPost|3938",
+      "feed": 6,
+      "dist": 0.8707878765559783,
+      "title": "Former US President Jimmy Carter says he has cancer and will undergo treatment"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "NYTimes|1225",
+      "feed": 5,
+      "dist": 0.6529656542208166,
+      "title": "First Draft: Rand Paul Compares Donald Trump to \u2018the Emperor With No Clothes\u2019"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "DailyNews|3705",
+      "feed": 2,
+      "dist": 0.8399805197182479,
+      "title": "Donald Trump will not be returning to \"Celebrity Apprentice\""
+    },
+    {
+      "date": "2015-08-14",
+      "name": "WashingtonPost|1478",
+      "feed": 9,
+      "dist": 0.8539256806710738,
+      "title": "How Jeff Flake became the Senate\u2019s most unorthodox Republican"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "LATimes|4530",
+      "feed": 3,
+      "dist": 0.9690839893562976,
+      "title": "Are NATO and Russian war games making real conflict more likely?"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "USAToday|1939",
+      "feed": 7,
+      "dist": 0.7722370464849326,
+      "title": "Graham sounds alarm on national security issues"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "USAToday|1869",
+      "feed": 7,
+      "dist": 0.9746124032933872,
+      "title": "Coalition says Iraqis close to taking Ramadi"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "NYPost|3368",
+      "feed": 4,
+      "dist": 0.7449877863301272,
+      "title": "Hondo goes to bat for Nat"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "StLouisPost|4109",
+      "feed": 6,
+      "dist": 0.9526089199906526,
+      "title": "US looking into whether Islamic State used chemical weapons"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "NYPost|4014",
+      "feed": 4,
+      "dist": 0.8587070170499632,
+      "title": "Trump\u2019s a great communicator \u2014 except about his own ideas"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "WashingtonPost|1379",
+      "feed": 9,
+      "dist": 0.8709982644278174,
+      "title": "Clinton\u2019s attorney hands over private e-mail server, thumb drive to FBI"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "WallStreetJournal|521",
+      "feed": 8,
+      "dist": 0.8907285051528697,
+      "title": "Canada's Harper Didn't Know of Duffy Payment, Former Aide Testifies"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "WashingtonPost|1431",
+      "feed": 9,
+      "dist": 0.9010653860775828,
+      "title": "Indiana&#8217;s got a problem: Too many teachers don&#8217;t want to work there anymore"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "WashingtonPost|1270",
+      "feed": 9,
+      "dist": 0.5441143265528499,
+      "title": "GOP candidates expand on conservative views at RedState Gathering"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "StLouisPost|3412",
+      "feed": 6,
+      "dist": 0.939977872278405,
+      "title": "As cyberattacks mount, Pentagon looks for ways to retaliate"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "USAToday|2029",
+      "feed": 7,
+      "dist": 0.7356196279431643,
+      "title": "Trump plans a grand entrance at Iowa State Fair"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "DailyNews|3347",
+      "feed": 2,
+      "dist": 0.5946620647192246,
+      "title": "Women live-tweet their periods to Donald Trump"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "LATimes|4168",
+      "feed": 3,
+      "dist": 0.8036600723050431,
+      "title": "Reelz CEO is 'darn proud' the network aired Miss USA pageant"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "DailyNews|3051",
+      "feed": 2,
+      "dist": 0.8910424134815044,
+      "title": "White House rips Schumer for opposing Iran nuclear deal"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "WashingtonPost|1382",
+      "feed": 9,
+      "dist": 0.9714255749891068,
+      "title": "Greece, lenders reach bailout agreement"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "StLouisPost|3569",
+      "feed": 6,
+      "dist": 0.9128906409843456,
+      "title": "Clinton to propose $350 billion college affordability plan"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "LATimes|4572",
+      "feed": 3,
+      "dist": 0.5362539124494752,
+      "title": "GOP field on the sidelines in Trump vs. Kelly and women"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "StLouisPost|3929",
+      "feed": 6,
+      "dist": 0.9677512933898024,
+      "title": "US F-16 fighters fly first missions from Turkey"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "NYPost|3794",
+      "feed": 4,
+      "dist": 0.8674562822695236,
+      "title": "Feds unlikely to recover deleted info from Hillary\u2019s home server"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "BostonHerald|3230",
+      "feed": 0,
+      "dist": 0.7291251934736618,
+      "title": "Trump refuses to apologize for Kelly \u2018blood\u2019 comment"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "USAToday|1908",
+      "feed": 7,
+      "dist": 0.9428922139085816,
+      "title": "Obama writes a letter to the editor on voting rights"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "StLouisPost|3839",
+      "feed": 6,
+      "dist": 0.7258446225867601,
+      "title": "Can super PAC support save cash-strapped Perry bid?"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "WallStreetJournal|548",
+      "feed": 8,
+      "dist": 0.9644275599854208,
+      "title": "Greek Parliament Passes Bailout Agreement"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "NYPost|3193",
+      "feed": 4,
+      "dist": 0.8703985636183953,
+      "title": "Biden\u2019s White House drop-in sparks buzz of a presidential run"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "LATimes|4439",
+      "feed": 3,
+      "dist": 0.9765581763462762,
+      "title": "Greece reportedly agrees 'in principle' to new bailout; talks continue"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "WallStreetJournal|465",
+      "feed": 8,
+      "dist": 0.9378341563335084,
+      "title": "Taliban Leader's Death Derails Peace Effort"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "WallStreetJournal|462",
+      "feed": 8,
+      "dist": 0.9516787270058121,
+      "title": "Afghanistan Attacks Kill Scores, Injure Hundreds"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "WallStreetJournal|549",
+      "feed": 8,
+      "dist": 0.9367294194763004,
+      "title": "Japan's Abe Stops Short of Full Apology Over World War II"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "WashingtonPost|1443",
+      "feed": 9,
+      "dist": 0.7644713733123755,
+      "title": "The sweet-tea primary: The campaign takes an early Southern swing"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "StLouisPost|3638",
+      "feed": 6,
+      "dist": 0.8353680930915445,
+      "title": "Group backing Hillary Clinton gets $1M from anonymous donors"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "NYTimes|1345",
+      "feed": 5,
+      "dist": 0.9378691410865596,
+      "title": "Violent Backlash Against Migrants in Germany as Asylum-Seekers Pour In"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "BostonHerald|3374",
+      "feed": 0,
+      "dist": 0.7020986765957953,
+      "title": "Clinton rips into Republicans for comments on women"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "WallStreetJournal|469",
+      "feed": 8,
+      "dist": 0.9451772438482764,
+      "title": "Still Waiting for Winners on Greece"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "WashingtonPost|1264",
+      "feed": 9,
+      "dist": 0.9421663558317896,
+      "title": "Expanding U.S. role in Iraq strains awkward alliance with Iran"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "ChicagoTribune|1244",
+      "feed": 1,
+      "dist": 0.9792531545009544,
+      "title": "Political roadblock for $5 billion federal aid to cash-strapped Illinois"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "WashingtonPost|1386",
+      "feed": 9,
+      "dist": 0.9242125921998218,
+      "title": "Who&#8217;s that man standing behind a Department of Justice logo? It&#8217;s the Homeland Security secretary."
+    },
+    {
+      "date": "2015-08-14",
+      "name": "NYTimes|1380",
+      "feed": 5,
+      "dist": 0.9772117808683342,
+      "title": "Greek Parliament Passes Bailout Deal, but Support for Alexis Tsipras Is Slipping"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "LATimes|4571",
+      "feed": 3,
+      "dist": 0.9787024046485022,
+      "title": "Egyptian Islamic State affiliate claims to behead Croatian hostage"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "NYPost|3352",
+      "feed": 4,
+      "dist": 0.7314499999027676,
+      "title": "Carly Fiorina deserves a spot in the next prime-time debate"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "NYPost|3459",
+      "feed": 4,
+      "dist": 0.8142072128067518,
+      "title": "China has been hacking US officials\u2019 Gmail for 5 years"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "LATimes|4289",
+      "feed": 3,
+      "dist": 0.989151931712908,
+      "title": "Russia's economy shrinks by 4.6% on low oil prices, sanctions"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "NYPost|3487",
+      "feed": 4,
+      "dist": 0.9490824093639508,
+      "title": "How to fix New York City\u2019s corrupt schools"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "StLouisPost|4162",
+      "feed": 6,
+      "dist": 0.9357959227116576,
+      "title": "Hottest ticket in Washington? It's for the pope at Capitol"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "LATimes|4690",
+      "feed": 3,
+      "dist": 0.7331794140254959,
+      "title": "What the polls really say about Donald Trump, and the GOP nomination fight"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "LATimes|4757",
+      "feed": 3,
+      "dist": 0.7826095621626554,
+      "title": "Donald Trump on poll numbers: I'm doing well. But it's a long process"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "StLouisPost|3718",
+      "feed": 6,
+      "dist": 0.5757461782049931,
+      "title": "Trump returns to Fox News after flap"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "NYPost|3363",
+      "feed": 4,
+      "dist": 0.9470098921653703,
+      "title": "Publishing company pays $500M in \u2018move\u2019 towards data"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "NYPost|3307",
+      "feed": 4,
+      "dist": 0.9338240535288658,
+      "title": "Iran just doesn\u2019t get US"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "StLouisPost|4127",
+      "feed": 6,
+      "dist": 0.9399970028776642,
+      "title": "Lawsuit: Native Hawaiian election would be unconstitutional"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "WashingtonPost|1291",
+      "feed": 9,
+      "dist": 0.9615738905844582,
+      "title": "The paper lobby&#8217;s new federal target: The Securities and Exchange Commission"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "StLouisPost|4154",
+      "feed": 6,
+      "dist": 0.9289932264788756,
+      "title": "AP-NORC Poll: Terror tops Americans' foreign policy concerns"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "LATimes|4396",
+      "feed": 3,
+      "dist": 0.7556255741051621,
+      "title": "Why huge Los Angeles crowd turned out for Bernie Sanders"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "BostonHerald|3446",
+      "feed": 0,
+      "dist": 0.5855630913210057,
+      "title": "Donald Trump says Fox chief Roger Ailes promised him &#039;fair&#039; coverage"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "USAToday|1780",
+      "feed": 7,
+      "dist": 0.91220552345824,
+      "title": "Obama: Critics of Iran deal have 'legitimate concerns'"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "WashingtonPost|1404",
+      "feed": 9,
+      "dist": 0.9807666317685708,
+      "title": "USIS parent company, Justice Department settle competing claims"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "NYPost|3304",
+      "feed": 4,
+      "dist": 0.8690944338923049,
+      "title": "Obama: My way \u2014 or you\u2019re a traitor"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "StLouisPost|3465",
+      "feed": 6,
+      "dist": 0.8970283017305041,
+      "title": "Obama sees chance for improved relations between US, Iran"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "NYPost|3496",
+      "feed": 4,
+      "dist": 0.873591321971971,
+      "title": "\u2018Hillary\u2019s angels\u2019 are playing the same e-mail stonewall games"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "LATimes|4445",
+      "feed": 3,
+      "dist": 0.8080162504287991,
+      "title": "We all know Donald Trump's a bully. So why is he getting so much support?"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "WashingtonPost|1480",
+      "feed": 9,
+      "dist": 0.943435433455116,
+      "title": "These Marines took down the U.S. flag in Cuba in 1961. Today, they&#8217;ll raise it again."
+    },
+    {
+      "date": "2015-08-10",
+      "name": "LATimes|4322",
+      "feed": 3,
+      "dist": 0.8762266722057547,
+      "title": "How Stephen Colbert spent his summer vacation"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "USAToday|1873",
+      "feed": 7,
+      "dist": 0.944315163142463,
+      "title": "Tenn. guard members must carry guns concealed, official says"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "BostonHerald|3407",
+      "feed": 0,
+      "dist": 0.9696749530075458,
+      "title": "Japan restarts reactor after break due to Fukushima"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "WallStreetJournal|459",
+      "feed": 8,
+      "dist": 0.9763811036024144,
+      "title": "Japan Commemorates 70th Anniversary of Nagasaki Atomic Bombing"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "BostonHerald|3498",
+      "feed": 0,
+      "dist": 0.8413080190225496,
+      "title": "Ernie Boch Jr. to host fundraiser for Donald Trump"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "USAToday|1953",
+      "feed": 7,
+      "dist": 0.968047076462492,
+      "title": "Cuban dissidents not invited to flag-raising ceremony at U.S. Embassy"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "StLouisPost|3399",
+      "feed": 6,
+      "dist": 0.9847909975959018,
+      "title": "The Latest: Jury convicts Russian veteran in Taliban attack"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "LATimes|4509",
+      "feed": 3,
+      "dist": 0.8519762944799024,
+      "title": "Hillary Clinton will turn over her private email server to Justice Department"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "NYPost|3629",
+      "feed": 4,
+      "dist": 0.8218055985892069,
+      "title": "Rosie O\u2019Donnell looks \u2018happy and relaxed\u2019 after Trump diss"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "WashingtonPost|1341",
+      "feed": 9,
+      "dist": 0.9424622379440204,
+      "title": "This is how protesters plan to take on the Federal Reserve"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "WashingtonPost|1410",
+      "feed": 9,
+      "dist": 0.8791676430601201,
+      "title": "Scott Walker approves spending $250 million on Milwaukee Bucks arena"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "LATimes|4323",
+      "feed": 3,
+      "dist": 0.9540178029764144,
+      "title": "Gov. Jerry Brown signs bills to help immigrants"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "BostonHerald|3564",
+      "feed": 0,
+      "dist": 0.7405422966191169,
+      "title": "Somerville mayor: &#039;Bernie Sanders is speaking boldly about issues&#039;"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "WashingtonPost|1422",
+      "feed": 9,
+      "dist": 0.8509792350301296,
+      "title": "Save the Children crusades to make preschool a top-tier campaign issue"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "StLouisPost|4038",
+      "feed": 6,
+      "dist": 0.9481598863287428,
+      "title": "Probe sought on Spain minister's meeting with ex-IMF chief"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "NYTimes|1373",
+      "feed": 5,
+      "dist": 0.6521975544401493,
+      "title": "Joe Biden Wades Further Into \u201916 Bid"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "BostonHerald|3165",
+      "feed": 0,
+      "dist": 0.9837197075675541,
+      "title": "2016 ballot proposal would allow more charter schools"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "WashingtonPost|1287",
+      "feed": 9,
+      "dist": 0.8824122251784241,
+      "title": "Clinton proposes a $350 billion plan to make college affordable"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "USAToday|2066",
+      "feed": 7,
+      "dist": 0.8811290552003003,
+      "title": "Bush, Rubio slam flag-raising event in Havana"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "DailyNews|3324",
+      "feed": 2,
+      "dist": 0.9124155626763636,
+      "title": "PBA boss sues over 'stolen' mail list"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "BostonHerald|3355",
+      "feed": 0,
+      "dist": 0.9102790311701756,
+      "title": "State spends heavily on college president searches"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "WashingtonPost|1381",
+      "feed": 9,
+      "dist": 0.970584438261656,
+      "title": "China devalues yuan, rattling global financial markets"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "StLouisPost|3806",
+      "feed": 6,
+      "dist": 0.9539840649876324,
+      "title": "UN envoy proposes ideal timetable for Libya peace agreement"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "StLouisPost|4059",
+      "feed": 6,
+      "dist": 0.949299044305968,
+      "title": "UN official: Ebola epidemic could be defeated by end of 2015"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "WallStreetJournal|525",
+      "feed": 8,
+      "dist": 0.9564187837009946,
+      "title": "Senator Seeks to Bar Chinese Bid for U.S. Chip Maker"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "USAToday|1896",
+      "feed": 7,
+      "dist": 0.8455442044769946,
+      "title": "Actress-turned-candidate Melissa Gilbert to pay off back taxes by 2024"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "StLouisPost|3965",
+      "feed": 6,
+      "dist": 0.7837504642045583,
+      "title": "Trump pal says GOP candidate may be on unexpected turf"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "ChicagoTribune|1240",
+      "feed": 1,
+      "dist": 0.8167291554403154,
+      "title": "Jeb Bush is opening night guest for Colbert's 'Late Show'"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "WashingtonPost|1268",
+      "feed": 9,
+      "dist": 0.4657853158208646,
+      "title": "GOP leaders say erratic attacks hurt Trump, but he vows to fight and win"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "BostonHerald|3394",
+      "feed": 0,
+      "dist": 0.5117490902322104,
+      "title": "New step in Trump&#039;s feud with Fox News; Clinton weighs in"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "StLouisPost|4068",
+      "feed": 6,
+      "dist": 0.9788711083556948,
+      "title": "Court orders sanctions of $100K a day against Washington"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "BostonHerald|3366",
+      "feed": 0,
+      "dist": 0.8787716593846757,
+      "title": "5 highlights from Martin O&#039;Malley&#039;s interview on Herald Radio"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "NYPost|3640",
+      "feed": 4,
+      "dist": 0.6530281736876388,
+      "title": "Carly Fiorina surging in polls after \u2018winning\u2019 GOP debate"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "LATimes|4861",
+      "feed": 3,
+      "dist": 0.8274493487329881,
+      "title": "As Carter fights cancer, his post-White House years may set his legacy"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "WashingtonPost|1421",
+      "feed": 9,
+      "dist": 0.6903396193640905,
+      "title": "It\u2019s not just Trump: Voter anger fuels outsider candidates"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "NYTimes|1164",
+      "feed": 5,
+      "dist": 0.9287398067688256,
+      "title": "Change in Militant Tactics Puts Tunisians on Edge"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "BostonHerald|3349",
+      "feed": 0,
+      "dist": 0.971408844294284,
+      "title": "Seaport council will focus on Massachusetts coastline"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "BostonHerald|3180",
+      "feed": 0,
+      "dist": 0.537585917803455,
+      "title": "Donald Trump\u2019s attacks on Megyn Kelly garner pushback from Republicans"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "ChicagoTribune|1322",
+      "feed": 1,
+      "dist": 0.7057269071877794,
+      "title": "Walker offers self as alternative to Trump to suburban GOP"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "NYTimes|1133",
+      "feed": 5,
+      "dist": 0.9535405309019904,
+      "title": "In Handling Barrage of Attacks, Afghan Forces Show Training Is Paying Off"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "StLouisPost|3943",
+      "feed": 6,
+      "dist": 0.8278361582578042,
+      "title": "PGA sticking with future tournaments at Trump courses"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "DailyNews|3143",
+      "feed": 2,
+      "dist": 0.7488281348014042,
+      "title": "Clinton to unveil plan to make college more affordable"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "StLouisPost|4091",
+      "feed": 6,
+      "dist": 0.9656237357877768,
+      "title": "Things to know about Social Security at 80: Overhaul time?"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "USAToday|2061",
+      "feed": 7,
+      "dist": 0.9488392918632615,
+      "title": "American flag raised in Havana for first time in 54 years"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "NYTimes|1274",
+      "feed": 5,
+      "dist": 0.8918653711616714,
+      "title": "Hillary Clinton Directs Aides to Give Email Server and Thumb Drive to the Justice Department"
+    },
+    {
+      "date": "2015-08-09",
+      "name": "WallStreetJournal|463",
+      "feed": 8,
+      "dist": 0.9695470511597472,
+      "title": "Plan Divides Nepal into Six States"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "WashingtonPost|1283",
+      "feed": 9,
+      "dist": 0.9676873581986954,
+      "title": "After scrubbing names of religious holidays, MoCo considers new policy"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "USAToday|1907",
+      "feed": 7,
+      "dist": 0.9539676898081618,
+      "title": "Image purports to show Croatian ISIL hostage beheaded"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "BostonHerald|3273",
+      "feed": 0,
+      "dist": 0.8664266245484932,
+      "title": "Bernie Sanders draws large crowd to Portland, Oregon, arena"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "USAToday|2049",
+      "feed": 7,
+      "dist": 0.9713584047646201,
+      "title": "Greece's parliament approves third bailout"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "WashingtonPost|1259",
+      "feed": 9,
+      "dist": 0.8050693070283033,
+      "title": "Teachers pose some pointed questions for next GOP debate"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "WallStreetJournal|538",
+      "feed": 8,
+      "dist": 0.8635509062215857,
+      "title": "Turkey's Coalition Talks Break Down"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "StLouisPost|3679",
+      "feed": 6,
+      "dist": 0.9866184517094392,
+      "title": "Chicago schools budget banks on state funds not yet approved"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "DailyNews|3259",
+      "feed": 2,
+      "dist": 0.500480093187659,
+      "title": "Donald Trump: Megyn Kelly should apologize TO ME"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "USAToday|1694",
+      "feed": 7,
+      "dist": 0.5452105130457493,
+      "title": "GOP hopefuls scramble to make the next big stage"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "NYTimes|1135",
+      "feed": 5,
+      "dist": 0.9611649173856892,
+      "title": "29 U.S. Scientists Praise Iran Nuclear Deal in Letter to Obama"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "USAToday|1949",
+      "feed": 7,
+      "dist": 0.8356801465339064,
+      "title": "Q&A: What we know (and don't) about Clinton emails"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "StLouisPost|3663",
+      "feed": 6,
+      "dist": 0.9698932227666588,
+      "title": "California man guilty of trying to support Islamic State"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "USAToday|1947",
+      "feed": 7,
+      "dist": 0.9473170752348744,
+      "title": "Ohio to vote on legalizing marijuana"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "DailyNews|3276",
+      "feed": 2,
+      "dist": 0.7796324281060215,
+      "title": "De Blasio's anti-Uber antics lead to drop in voter approval"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "BostonHerald|3436",
+      "feed": 0,
+      "dist": 0.7775775594942143,
+      "title": "Bernie Sanders rails against &#039;rigged&#039; economy at LA rally"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "DailyNews|3385",
+      "feed": 2,
+      "dist": 0.668894307534152,
+      "title": "Donald Trump promises he will \u2018whine\u2019 his way to 2016 win"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "NYTimes|1343",
+      "feed": 5,
+      "dist": 0.6881087392985408,
+      "title": "First Draft: Today in Politics: A Full Field Takes a Bipartisan Trip to the Fair"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "LATimes|4964",
+      "feed": 3,
+      "dist": 0.9026748291274552,
+      "title": "In Tom Harkin endorsement, Hillary Clinton wins key progressive credential"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "StLouisPost|3682",
+      "feed": 6,
+      "dist": 0.9783040933775572,
+      "title": "Day of violence in Istanbul leaves at least 9 dead"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "USAToday|2044",
+      "feed": 7,
+      "dist": 0.7077520447661646,
+      "title": "Iowa's Tom Harkin endorses Clinton for president"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "USAToday|1963",
+      "feed": 7,
+      "dist": 0.6532843136675919,
+      "title": "Trump's takes on taxes, Keystone XL and ISIL"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "LATimes|4487",
+      "feed": 3,
+      "dist": 0.7991132759719928,
+      "title": "Jeb Bush to push for more aggressive foreign policy"
+    },
+    {
+      "date": "2015-08-10",
+      "name": "StLouisPost|3549",
+      "feed": 6,
+      "dist": 0.6030693609087161,
+      "title": "Trump defends record on women as presidential rivals pile on"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "StLouisPost|4063",
+      "feed": 6,
+      "dist": 0.8822441530552624,
+      "title": "Clinton aides agree to preserve emails after judge's order"
+    },
+    {
+      "date": "2015-08-08",
+      "name": "BostonHerald|3157",
+      "feed": 0,
+      "dist": 0.5871628546600524,
+      "title": "GOP steels itself for uncertainty in White House race"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "StLouisPost|4123",
+      "feed": 6,
+      "dist": 0.9893834759007388,
+      "title": "A look back in time at Washington's education lawsuit"
+    },
+    {
+      "date": "2015-08-14",
+      "name": "LATimes|4960",
+      "feed": 3,
+      "dist": 0.9535283942116612,
+      "title": "Feinstein-Boxer water bill offers real drought relief"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "BostonHerald|3620",
+      "feed": 0,
+      "dist": 0.9434372951210532,
+      "title": "Federal court: Anti-Muslim group can&#039;t post ads on buses"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "NYPost|3564",
+      "feed": 4,
+      "dist": 0.9409655265262564,
+      "title": "Schumer says new Hudson River tunnel project could cost $25B"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "StLouisPost|3707",
+      "feed": 6,
+      "dist": 0.821133445750062,
+      "title": "Sanders lets civil rights activists open LA campaign event"
+    },
+    {
+      "date": "2015-08-13",
+      "name": "USAToday|2025",
+      "feed": 7,
+      "dist": 0.7942582107817995,
+      "title": "2016 candidates hit the soapbox at the Iowa State Fair"
+    },
+    {
+      "date": "2015-08-11",
+      "name": "WashingtonPost|1349",
+      "feed": 9,
+      "dist": 0.9503288442193184,
+      "title": "What China&#8217;s surprise currency devaluation means for its economy and the world"
+    },
+    {
+      "date": "2015-08-12",
+      "name": "NYTimes|1270",
+      "feed": 5,
+      "dist": 0.9600609626435233,
+      "title": "Newlyweds Are Accused of Planning to Join ISIS"
+    }
+  ],
+  "feedNames": [
+    "BostonHerald",
+    "ChicagoTribune",
+    "DailyNews",
+    "LATimes",
+    "NYPost",
+    "NYTimes",
+    "StLouisPost",
+    "USAToday",
+    "WallStreetJournal",
+    "WashingtonPost"
+  ]
+}

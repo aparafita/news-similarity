@@ -7,7 +7,7 @@ function getQS(variable) {
     if (pair[0] == variable)
       return pair[1];
   }
-  return(false);
+  return undefined;
 }
 
 
