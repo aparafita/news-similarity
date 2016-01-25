@@ -65,10 +65,14 @@ class WikiData:
             raise Exception('Pageid and title can\'t be None at the same time')
 
         if pageid is None:
-            for d in self.db.articles.find({'title': title}):
+            d = self.db.articles.find_one({'title': title})
+
+            if d is not None:
                 return d # found it
         else:
-            for d in self.db.articles.find({'_id': pageid}):
+            d = self.db.articles.find_one({'_id': pageid})
+
+            if d is not None:
                 return d # found it
             
         try:
@@ -121,7 +125,9 @@ class WikiData:
         """
         
         ne = ne.lower()
-        for d in self.db.nes.find({'_id': ne}):
+        d = self.db.nes.find_one({'_id': ne})
+
+        if d is not None:
             return d # already processed
         
         # Not found -> download it

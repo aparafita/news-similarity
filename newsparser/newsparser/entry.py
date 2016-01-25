@@ -102,12 +102,14 @@ class Entry(object):
             return self.content
 
         if self.downloaded:
-            for d in self.db[self.feedname].find({'index': self.index}):
-                self.content = d[self.CONTENT_KEY]
-                return self.content # and avoid entering for-else
-            else:
+            d = self.db[self.feedname].find_one({'index': self.index})
+
+            if d is None:
                 # Entry not found
                 raise Exception('Entry content not found in DB')
+            else:
+                self.content = d[self.CONTENT_KEY]
+                return self.content # and avoid entering for-else
 
         else:
             # Try downloading it and storing its content to DB

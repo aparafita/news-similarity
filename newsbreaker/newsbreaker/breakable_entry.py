@@ -125,11 +125,12 @@ class BreakableEntry(newsparser.Entry):
     @property
     def content(self):
         if not hasattr(self, '_content') or self._content is None:
-            for d in self.db[self.feedname].find({'index': self.index}):
-                self.content = d[self.CONTENT_KEY]
-                break
-            else:
+            d = self.db[self.feedname].find_one({'index': self.index})
+            
+            if d is None: # not found in DB
                 raise Exception('Content not found in DB')
+            else:
+                self.content = d[self.CONTENT_KEY]                
 
         return self._content
 
