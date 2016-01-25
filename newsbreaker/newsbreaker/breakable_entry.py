@@ -107,10 +107,6 @@ class BreakableEntry(newsparser.Entry):
     where_ne_cats = {'FAC', 'GPE', 'LOC'}
     max_nes = 10
 
-    # what_threshold = 0.26
-    who_mu, who_sigma = 0.14380436684115203, 0.077393998709960415
-    where_mu, where_sigma = 0.089632980794404821, 0.097191364945733896
-
     _topic_model = None
 
     CONTENT_KEY = 'filtered_content'
@@ -321,16 +317,10 @@ class BreakableEntry(newsparser.Entry):
     
     def who_distance(self, other):
         return max(0., min(1., self._wh_ne_distance(other, 'who')))
-        #     (self._wh_ne_distance(other, 'who') - self.who_mu) / \
-        #         (self.who_sigma / 0.1) + 0.5
-        # ))
     
 
     def where_distance(self, other):
         return max(0., min(1., self._wh_ne_distance(other, 'where')))
-        #     (self._wh_ne_distance(other, 'where') - self.where_mu) / \
-        #         (self.where_sigma / 0.1) + 0.5
-        # ))
     
     
     def distance(self, other):

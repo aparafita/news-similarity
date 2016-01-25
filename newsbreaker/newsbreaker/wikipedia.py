@@ -2,6 +2,7 @@
 # Author: Álvaro Parafita (parafita.alvaro@gmail.com)
 
 import time
+import json
 
 from collections import Counter
 from functools import lru_cache
@@ -35,7 +36,6 @@ wikipedia.set_user_agent(
 )
 
 
-@lazyinit
 class WikiData:
     
     pages = 'pages'
@@ -139,7 +139,7 @@ class WikiData:
         return d
     
     
-    @lru_cache(maxsize=1000)
+    @lru_cache(maxsize=500)
     def article_vector(self, pageid):
         """
             Returns the NE vector for the article with the given pageid
@@ -149,6 +149,8 @@ class WikiData:
 
         if d is None:
             return {}
+        elif 'ne_vector' in d:
+            return json.loads(d['ne_vector'])
 
         doc = self.nlp(d['content'], tag=True, parse=False, entity=True)
 
@@ -160,7 +162,15 @@ class WikiData:
 
         s = sum(v for v in counter.values()) # get the sum to build an histogram
 
-        return { k: v / s for k, v in counter.items() } if s else {}
+        ne_vector = { k: v / s for k, v in counter.items() } if s else {}
+
+        self.db.articles.update_one(
+            {'_id': d['_id']},
+            {'$set': { 'ne_vector': json.dumps(ne_vector) }},
+            upsert=True
+        )
+
+        return ne_vector
         
 
     @lru_cache(maxsize=10000)

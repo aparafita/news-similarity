@@ -17,7 +17,7 @@ def try_again_dec(*exceptions, retry=1):
         If no exceptions are passed, Exception is the default.
     """
 
-    exceptions = exceptions or (Exception)
+    exceptions = exceptions or (Exception,)
 
     def decorator(func):
         from functools import wraps
