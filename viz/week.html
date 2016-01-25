@@ -204,7 +204,7 @@ if (base_entry != undefined) {
 
     dots
       .append("title")
-      .text(function(d) { return d.entry + ': ' + d.title; });
+      .text(function(d) { return d.name + ': ' + d.title; });
 
     // Create legend
     var legend = svg
@@ -220,7 +220,7 @@ if (base_entry != undefined) {
       .attr("x", width - 18)
       .attr("width", 18)
       .attr("height", 18)
-      .style("fill", color)
+      .style("fill", function(d, i){ return color(i); })
       .style("cursor", "pointer");
 
     // Create legend text
@@ -283,15 +283,15 @@ if (base_entry != undefined) {
         .selectAll('rect')
         .transition()
         .duration(newNode ? 1000: 500)
-        .style("fill", function(d) {
-            return selectedFeed[feedNames.indexOf(d)] ? color(d): unselected;
+        .style("fill", function(d, i) {
+            return selectedFeed[feedNames.indexOf(d)] ? color(i): unselected;
         });
 
       dots
         .transition()
         .duration(newNode ? 1000: 500)
         .attr("fill", function(d) {
-          return selectedFeed[d.feed] ? color(d.feedname): unselected;
+          return selectedFeed[d.feed] ? color(d.feed): unselected;
         })
         .attr("fill-opacity", function(d) {
           return selectedFeed[d.feed] ? 0.5: 0.25;
@@ -324,8 +324,9 @@ if (base_entry != undefined) {
         .selectAll('rect')
         .transition()
         .duration(over ? 1000: 500)
-        .style("fill", function(d) {
-            return (over && d == feedNames[i]) || (!over && selectedFeed[feedNames.indexOf(d)]) ? color(d): unselected;
+        .style("fill", function(d, i) {
+            i = feedNames.indexOf(d); // i comes as 0; replace its value to the feed id
+            return (over && d == feedNames[i]) || (!over && selectedFeed[i]) ? color(i): unselected;
         });
 
       dots
@@ -333,9 +334,9 @@ if (base_entry != undefined) {
         .duration(over ? 1000: 500)
         .attr("fill", function(d) {
           if (over)
-            return d.feed == i ? color(d.feedname) : unselected; 
+            return d.feed == i ? color(d.feed) : unselected; 
           else
-            return selectedFeed[d.feed] ? color(d.feedname): unselected;
+            return selectedFeed[d.feed] ? color(d.feed): unselected;
         })
         .attr("fill-opacity", function(d) {
           if (over)
