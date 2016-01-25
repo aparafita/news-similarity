@@ -6,11 +6,9 @@ __url__ = 'https://github.com/aparafita/news-similarity'
 
 from .utils import lazyinit
 
-from pymongo import MongoClient
-mongo_client = lazyinit(MongoClient)()
-
 from spacy.en import English
-nlp = lazyinit(English)()
+English = lazyinit(English)
+nlp = English()
 
 from .wikipedia import WikiData
 wiki = WikiData()

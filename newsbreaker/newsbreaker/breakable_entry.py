@@ -28,56 +28,51 @@ class TopicModel(object):
 class NLPDoc(object):
 
     def __init__(self, entry, nlp=nlp):
-        self._nlp = nlp
-        self._entry = entry
-        self._nlp_docs = {}
-        self._nlp_selected_doc = None
+        self.__nlp = nlp
+        self.__entry = entry
+        self.__nlp_docs = {}
+        self.__nlp_selected_doc = None
 
 
     def __call__(self, tag=True, parse=True, entity=True):
-        for (t, p, e), doc in self._nlp_docs.items():
+        for (t, p, e), doc in self.__nlp_docs.items():
             if  (t >= tag) and \
                 (p >= parse) and \
                 (e >= entity):
 
-                self._nlp_selected_doc = doc
+                self.__nlp_selected_doc = doc
                 return self
 
         else:
-            doc = self._nlp(
-                self._entry.content, 
+            doc = self.__nlp(
+                self.__entry.content, 
                 tag=tag, parse=parse, entity=entity
             )
 
             # Delete all docs with inferior category than this doc
-            for (t, p, e), _ in list(self._nlp_docs.items()):
+            for (t, p, e), _ in list(self.__nlp_docs.items()):
                 if  (t <= tag) and \
                     (p <= parse) and \
                     (e <= entity):
-                    del self._nlp_docs[(t, p, e)]
+                    del self.__nlp_docs[(t, p, e)]
 
             # Save the current doc
-            self._nlp_docs[(tag, parse, entity)] = doc
+            self.__nlp_docs[(tag, parse, entity)] = doc
 
             # Select the current doc and return
-            self._nlp_selected_doc = doc
+            self.__nlp_selected_doc = doc
             return self
 
 
-    def __getattribute__(self, name):
-        try:
-            return object.__getattribute__(self, name)
-        except:
-            pass
-
+    def __getattr__(self, name):
         return self.__getattr_from_doc__(name)
 
 
     def __getattr_from_doc__(self, name):
-        if self._nlp_selected_doc is None:
+        if self.__nlp_selected_doc is None:
             raise Exception("Doc not initialized; looking for attr '%s'" % name)
         else:
-            return getattr(self._nlp_selected_doc, name)
+            return getattr(self.__nlp_selected_doc, name)
 
 
     # The following methods ensure that some doc functions
@@ -96,9 +91,9 @@ class NLPDoc(object):
         return self.__getattr_from_doc__('__len__')()
 
 
-    def reset(self):
-        self._nlp_docs = {}
-        self._nlp_selected_doc = None
+    def __reset(self):
+        self.__nlp_docs = {}
+        self.__nlp_selected_doc = None
 
 
 class BreakableEntry(newsparser.Entry):
@@ -324,6 +319,10 @@ class BreakableEntry(newsparser.Entry):
     
     
     def distance(self, other):
+        # Ensure that doc(True, False, True) is called first
+        self.doc(tag=True, parse=False, entity=True)
+        other.doc(tag=True, parse=False, entity=True)
+
         return \
             0.3657526 * self.what_distance(other) + \
             0.3274783 * self.who_distance(other) + \

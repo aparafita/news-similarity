@@ -11,7 +11,9 @@ import wikipedia
 import requests # to try-catch its Exception base class
 import numpy as np
 
-from . import nlp, mongo_client
+from pymongo import MongoClient
+
+from . import nlp
 from .utils import lazyinit
 from .utils.decorators import try_again_dec
 
@@ -45,7 +47,12 @@ class WikiData:
     
 
     def __init__(self):
-        self.db = mongo_client.wiki
+        self.mongo_client = MongoClient()
+        self.db = self.mongo_client.wiki
+
+
+    def __del__(self):
+        self.mongo_client.close()
     
     
     def article(self, pageid=None, title=None):
@@ -57,11 +64,13 @@ class WikiData:
         if pageid is None and title is None:
             raise Exception('Pageid and title can\'t be None at the same time')
 
-        for d in self.db.articles.find(
-            {'$or': [{'_id': pageid}, {'title': title}]}
-        ):
-            return d # found it
-        
+        if pageid is None:
+            for d in self.db.articles.find({'title': title}):
+                return d # found it
+        else:
+            for d in self.db.articles.find({'_id': pageid}):
+                return d # found it
+            
         try:
             if not(pageid is None):
                 page = wikipedia.page(pageid=pageid)
