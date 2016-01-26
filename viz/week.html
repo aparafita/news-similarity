@@ -51,8 +51,11 @@
 
 var base_entry = getQS("entry");
 
-
-if (base_entry != undefined) {
+if (base_entry == undefined) {
+  d3.select("body")
+    .style("background-color", "white")
+    .style("color", "black");
+} else {
   d3.select("#entry_picker").remove(); // don't show it if an entry has been selected
 
   var margin = {top: 20, right: 20, bottom: 30, left: 40},
