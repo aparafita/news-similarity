@@ -108,20 +108,8 @@ if (date == undefined) {
         .attr("width", cornerWidth)
         .attr("height", height);
 
-      // // Define a border for svg
-      // svg
-      //   .append("rect")
-      //   .attr("id", "svg_border")
-      //   .attr("x", 0)
-      //   .attr("y", 0)
-      //   .attr("width", width)
-      //   .attr("height", height)
-      //   .style("stroke", "black")
-      //   .style("fill", "none")
-      //   .style("stroke-width", 1);
-
       // Define data to build the visualisation
-      feedNames = data.feednames;
+      feedNames = data.feedNames;
 
       selectedFeed = [];
       for (var i in feedNames) {
