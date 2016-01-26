@@ -34,6 +34,9 @@ if __name__ == '__main__':
 
     entries = load_entries(folder)
 
+    # Filter entries: only politics
+    entries = [entry for entry in entries if entry.data.get('politics')]
+
     from pymongo import MongoClient
     mongo_client = MongoClient()
 
