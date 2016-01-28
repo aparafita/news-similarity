@@ -1,7 +1,9 @@
 # -*- coding: utf-8 -*-
 # Author: Álvaro Parafita (parafita.alvaro@gmail.com)
 
-# Loads ne_vector of every article in the database
+""" 
+    Computes distances for visualisations network and week 
+"""
 
 import os.path
 import sys
@@ -28,7 +30,6 @@ if __name__ == '__main__':
     feedname = sys.argv[2]
     index = sys.argv[3]
 
-
     folder = 'data'
     init(os.path.join(folder, 'topic_model'), 'topic_model.pkl', 'vocab.txt')
 
@@ -49,10 +50,9 @@ if __name__ == '__main__':
     base = get_entry(feedname, index)
     base_date = to_datetime(base.data['date'])
 
+    ids = lambda entry: '%s|%s' % (entry.feedname, entry.index)
 
     if viz == 'network':
-        ids = lambda entry: '%s|%s' % (entry.feedname, entry.index)
-
         date = str(base_date.date())
         entries = [ 
             entry 
@@ -94,12 +94,12 @@ if __name__ == '__main__':
         processed, total = 0, len(entries)
         while entries:
             entry = entries.pop()
-            ids = '%s|%s' % (entry.feedname, entry.index)
+            entry_ids = ids(entry)
 
-            if col.find_one({'_id': ids}) is None:
+            if col.find_one({'_id': entry_ids}) is None:
                 col.insert_one(
                     { 
-                        '_id': ids, 
+                        '_id': entry_ids, 
                         'dist': base.distance(entry) 
                     }
                 )
