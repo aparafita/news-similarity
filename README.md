@@ -20,3 +20,7 @@ All Python code is Python 3.
 All data used for this project will be stored in a zip file in the v1 release, on this Github page, except for the Wikipedia articles database, which the code can download automatically and would have taken a lot of space.
 
 For more details on this system, check the project <a href="report.pdf">report</a>.
+
+To check the project visualisations online:
+* Network: http://newsparser704.pythonanywhere.com/viz/network.html
+* Week: http://newsparser704.pythonanywhere.com/viz/week.html
