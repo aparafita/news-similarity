@@ -60,7 +60,7 @@ if (date == undefined) {
     var cornerWidth = 200,
         cornerHeight = 200;
 
-    var color = d3.scale.category20();
+    // color comes from utils
     var unselected = "#cdc9c9";
 
     var feedNames, selectedFeed;
@@ -74,6 +74,19 @@ if (date == undefined) {
     d3.json("/data/network_" + date + ".json", function(error, data) {
       if (error) throw error;
 
+      var entry_threshold = getQS("threshold", data.threshold);
+      if (entry_threshold == undefined)
+        entry_threshold = 0.6;
+      else
+        entry_threshold = parseFloat(entry_threshold.toString().replace(",", "."));
+
+      var charge = getQS("charge", data.charge);
+
+      if (charge == undefined)
+        charge = 300;
+      else
+        charge = parseInt(charge);
+
       // Set title of selected date
       d3
         .select("#date_title")
@@ -83,7 +96,7 @@ if (date == undefined) {
       force = d3
         .layout
         .force()
-        .charge(function(d){ return -d['closeness'] * 350; })
+        .charge(function(d){ return -d['closeness'] * charge; })
         .size([width, height]);
 
       // Define three rectangles where to put svg elements
@@ -115,6 +128,28 @@ if (date == undefined) {
       for (var i in feedNames) {
         selectedFeed.push(true);
       }
+
+      // Select only links with value up to threshold and compute closeness
+      var links2 = [];
+      var closeness = [];
+      data.nodes.forEach(function(){ closeness.push(0); });
+
+      data.links.forEach(
+        function(link){
+          if (link.value < entry_threshold){
+            links2.push(link);
+
+            closeness[link.source] += link.value;
+            closeness[link.target] += link.value;
+          }
+        }
+      );
+
+      data.links = links2;
+
+      var max_closeness = 0;
+      closeness.forEach(function(d){ max_closeness = max_closeness > d ? max_closeness : d; });
+      closeness.forEach(function(d, i){ data.nodes[i].closeness = d / max_closeness; });
 
       // Build the visualisation
       force

@@ -1,4 +1,4 @@
-function getQS(variable) {
+function getQS(variable, alternative) {
   var query = window.location.search.substring(1);
   var vars = query.split('&');
 
@@ -7,7 +7,8 @@ function getQS(variable) {
     if (pair[0] == variable)
       return pair[1];
   }
-  return undefined;
+
+  return alternative; // undefined if not filled
 }
 
 
@@ -26,6 +27,22 @@ function isoDateToSP(date){
 
   return d + "/" + m + "/" + a;
 }
+
+
+var color = d3.scale.ordinal();
+var colorPalette = [
+  d3.rgb(31, 131, 180),
+  d3.rgb(24, 161, 136),
+  d3.rgb(84, 163, 56),
+  d3.rgb(173, 184, 40),
+  d3.rgb(255, 189, 76),
+  d3.rgb(255, 156, 14),
+  d3.rgb(231, 87, 39),
+  d3.rgb(201, 77, 140),
+  d3.rgb(180, 70, 179),
+  d3.rgb(128, 97, 180),
+];
+color.range(colorPalette);
 
 
 // function color(x){
