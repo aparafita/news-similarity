@@ -59,7 +59,9 @@ docs/_build/
 target/
 
 # Custom
+*.zip
 data/
 mongodb/
 report/
+entrega_datos/
 startdb.sh
