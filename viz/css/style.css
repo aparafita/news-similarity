@@ -1,0 +1,15 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  color: RGBA(0, 0, 0, .50);
+  background-color: RGBA(0, 0, 0, .025);
+}
+
+svg {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: small;
+
+}
+
+svg text {
+    fill: RGBA(0, 0, 0, .50);
+}

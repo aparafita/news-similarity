@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # Author: Álvaro Parafita (parafita.alvaro@gmail.com)
 
-# Loads ne_vector of every article in the database
+""" Loads ne_vector of every article in the database """
 
 from newsbreaker import wiki
 
