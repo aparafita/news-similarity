@@ -17,4 +17,6 @@ its what/who/where vectors and some methods to compute the distance between two 
 
 All Python code is Python 3.
 
-For more details on this system, check the project report: // TODO: Upload file and link this
+All data used for this project will be stored in a zip file in the v1 release, on this Github page, except for the Wikipedia articles database, which the code can download automatically and would have taken a lot of space.
+
+For more details on this system, check the project <a href="report.pdf">report</a>.
