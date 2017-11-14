@@ -22,5 +22,5 @@ All data used for this project will be stored in a zip file in the v1 release, o
 For more details on this system, check the project <a href="report.pdf">report</a>.
 
 To check the project visualisations online:
-* Network: http://newsparser704.pythonanywhere.com/viz/network.html
-* Week: http://newsparser704.pythonanywhere.com/viz/week.html
+* Network: https://crucial-venture-128022.appspot.com/viz/network.html
+* Week: https://crucial-venture-128022.appspot.com/viz/week.html
