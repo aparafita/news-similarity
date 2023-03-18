@@ -62,6 +62,7 @@
 </center>
 
 <script>
+var BASE_URL = "https://raw.githubusercontent.com/aparafita/news-similarity/master/viz/";
 
 var base_entry = getQS("entry");
 
@@ -92,7 +93,7 @@ if (base_entry == undefined) {
   function dotsR(d){ return 14 * (1 - d.dist); }
 
   // load data
-  d3.json("/data/week_" + getQS("entry") + ".json", function(error, data) {
+  d3.json(BASE_URL + "data/week_" + getQS("entry") + ".json", function(error, data) {
     if (error) throw error;
 
     entry_threshold = data.threshold;

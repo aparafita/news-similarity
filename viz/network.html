@@ -38,6 +38,7 @@
 
 
 <script>
+var BASE_URL = "https://raw.githubusercontent.com/aparafita/news-similarity/master/viz/";
 var date = getQS("date");
 if (date == undefined) {
   d3.select("body")
@@ -71,7 +72,7 @@ if (date == undefined) {
     function nodeR(d){ return 3 + 10 * d.closeness; }
     function feed(feedname){ for (var j in feedNames){ if (feedNames[j] == feedname) return j; } }
 
-    d3.json("/data/network_" + date + ".json", function(error, data) {
+    d3.json(BASE_URL + "data/network_" + date + ".json", function(error, data) {
       if (error) throw error;
 
       var entry_threshold = getQS("threshold", data.threshold);
