@@ -58,9 +58,9 @@ docs/_build/
 # PyBuilder
 target/
 
-# Custom
+# Custom
 *.zip
-data/
+#data/
 mongodb/
 report/
 entrega_datos/
