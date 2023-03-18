@@ -21,6 +21,4 @@ All data used for this project will be stored in a zip file in the v1 release, o
 
 For more details on this system, check the project <a href="report.pdf">report</a>.
 
-To check the project visualisations online:
-* Network: https://crucial-venture-128022.appspot.com/viz/network.html
-* Week: https://crucial-venture-128022.appspot.com/viz/week.html
+To check the project visualisations online, please go <a="http://aparafita.github.io/news-similarity/">here</a>.
