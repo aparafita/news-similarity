@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <title>News similarity Visualizations</title>
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <style>
+    .node {
+      stroke-width: 0;
+    }
+
+    .link {
+      stroke: #999;
+      stroke-opacity: .6;
+    }
+  </style>
+</head>
+<body>
+
+<div id="viz-list">
+  <h1>Visualizations:</h1>
+  
+  <ul>
+  <li><a href="viz/network.html">Network visualizations</a>: shows news article similarity in a network graph.</li>
+  <li><a href="viz/week.html">Week visualization:</a>: shows how often a given news item is discussed throughout a week.</li>
+  </ul>
+</div>
+
+<center>
+  <p id="date_title" style="font-size:x-large"></p>
+  <p id="entry_text" style="font-style:italic;font-size:small;visibility:hidden">NO_TEXT</p>
+  <div id="graph"></div>
+</center>
+</body>
+</html>
